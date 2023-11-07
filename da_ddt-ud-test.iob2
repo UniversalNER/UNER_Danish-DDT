@@ -2,7 +2,7 @@
 # text = To kendte russiske historikere Andronik Mirganjan og Igor Klamkin tror ikke, at Rusland kan udvikles uden en "jernnæve".
 1	To	O	O#O	s
 2	kendte	O	O#O	s
-3	russiske	B-OTH	B-LOCderiv#O	s
+3	russiske	O	B-LOCderiv#O	s
 4	historikere	O	O#O	s
 5	Andronik	B-PER	B-PER#O	s
 6	Mirganjan	I-PER	I-PER#O	s
@@ -419,7 +419,7 @@
 41	og	O	O#O	s
 42	en	O	O#O	s
 43	lille	O	O#O	s
-44	jugoslavisk	B-OTH	B-LOCderiv#O	s
+44	jugoslavisk	O	B-LOCderiv#O	s
 45	pige	O	O#O	s
 46	.	O	O#O	s
 
@@ -514,7 +514,7 @@
 23	i	O	O#O	s
 24	byens	O	O#O	s
 25	herskende	O	O#O	s
-26	indremissionske	B-OTH	B-ORGderiv#O	s
+26	indremissionske	O	B-ORGderiv#O	s
 27	kredse	O	O#O	s
 28	.	O	O#O	s
 
@@ -812,7 +812,7 @@
 24	snager	O	O#O	s
 25	i	O	O#O	s
 26	almindelige	O	O#O	s
-27	danskeres	B-OTH	B-LOCderiv#O	s
+27	danskeres	O	B-LOCderiv#O	s
 28	forhold	O	O#O	s
 29	?	O	O#O	s
 
@@ -1243,7 +1243,7 @@
 6	lov	O	O#O	s
 7	at	O	O#O	s
 8	blive	O	O#O	s
-9	Super-Brugser	B-OTH	B-ORGderiv#O	s
+9	Super-Brugser	O	B-ORGderiv#O	s
 10	.	O	O#O	s
 
 # sent_id = test-64
@@ -1273,7 +1273,7 @@
 12	i	O	O#O	s
 13	de	O	O#O	s
 14	nye	O	O#O	s
-15	Super-Brugser	B-OTH	B-ORGderiv#O	s
+15	Super-Brugser	O	B-ORGderiv#O	s
 16	.	O	O#O	s
 
 # sent_id = test-66
@@ -1948,7 +1948,7 @@
 9	fortalte	O	O#O	s
 10	,	O	O#O	s
 11	at	O	O#O	s
-12	sovjetiske	B-OTH	B-LOCderiv#O	s
+12	sovjetiske	O	B-LOCderiv#O	s
 13	soldater	O	O#O	s
 14	efter	O	O#O	s
 15	massakren	O	O#O	s
@@ -1978,7 +1978,7 @@
 # text = Klokken 00.32 dansk tid faldt de første bomber over Bagdad.
 1	Klokken	O	O#O	s
 2	00.32	O	O#O	s
-3	dansk	B-OTH	B-LOCderiv#O	s
+3	dansk	O	B-LOCderiv#O	s
 4	tid	O	O#O	s
 5	faldt	O	O#O	s
 6	de	O	O#O	s
@@ -1994,7 +1994,7 @@
 2	01.35	O	O#O	s
 3	sendte	O	O#O	s
 4	den	O	O#O	s
-5	israelske	B-OTH	B-LOCderiv#O	s
+5	israelske	O	B-LOCderiv#O	s
 6	radio	O	O#O	s
 7	advarsler	O	O#O	s
 8	til	O	O#O	s
@@ -2150,7 +2150,7 @@
 1	Kl.	O	O#O	s
 2	01.44	O	O#O	s
 3	,	O	O#O	s
-4	dansk	B-OTH	B-LOCderiv#O	s
+4	dansk	O	B-LOCderiv#O	s
 5	tid	O	O#O	s
 6	,	O	O#O	s
 7	brød	O	O#O	s
@@ -2522,7 +2522,7 @@
 7	omklædningsrummets	O	O#O	s
 8	øvrige	O	O#O	s
 9	festberuste	O	O#O	s
-10	Brøndby'ere	B-OTH	B-ORGderiv#B-LOCderiv	s
+10	Brøndby'ere	O	B-ORGderiv#B-LOCderiv	s
 11	var	O	O#O	s
 12	Bjarne	B-PER	B-PER#O	s
 13	Jensen	I-PER	I-PER#O	s
@@ -3554,8 +3554,8 @@
 16	med	O	O#O	s
 17	albummet	O	O#O	s
 18	"	O	O#O	s
-19	The	B-OTH	B-MISC#O	s
-20	Healer	I-OTH	I-MISC#O	s
+19	The	O	B-MISC#O	s
+20	Healer	O	I-MISC#O	s
 21	"	O	O#O	s
 22	.	O	O#O	s
 
@@ -3595,11 +3595,11 @@
 13	han	O	O#O	s
 14	fik	O	O#O	s
 15	en	O	O#O	s
-16	Grammy	B-OTH	B-MISC#O	s
+16	Grammy	O	B-MISC#O	s
 17	for	O	O#O	s
 18	"	O	O#O	s
-19	The	B-OTH	B-MISC#O	s
-20	Healer	I-OTH	I-MISC#O	s
+19	The	O	B-MISC#O	s
+20	Healer	O	I-MISC#O	s
 21	"	O	O#O	s
 22	,	O	O#O	s
 23	men	O	O#O	s
@@ -3732,7 +3732,7 @@
 
 # sent_id = test-182
 # text = Dansk kultur skal skabes, forvaltes, plejes og forkæles af os danskere.
-1	Dansk	B-OTH	B-LOCderiv#O	s
+1	Dansk	O	B-LOCderiv#O	s
 2	kultur	O	O#O	s
 3	skal	O	O#O	s
 4	skabes	O	O#O	s
@@ -3744,7 +3744,7 @@
 10	forkæles	O	O#O	s
 11	af	O	O#O	s
 12	os	O	O#O	s
-13	danskere	B-OTH	B-LOCderiv#O	s
+13	danskere	O	B-LOCderiv#O	s
 14	.	O	O#O	s
 
 # sent_id = test-183
@@ -3858,7 +3858,7 @@
 1	Selvfølgelig	O	O#O	s
 2	har	O	O#O	s
 3	den	O	O#O	s
-4	barokke	B-OTH	B-MISCderiv#O	s
+4	barokke	O	B-MISCderiv#O	s
 5	udnævnelse	O	O#O	s
 6	af	O	O#O	s
 7	en	O	O#O	s
@@ -3953,7 +3953,7 @@
 
 # sent_id = test-194
 # text = DANSKE rockmusikere duer ikke til at sige fra, mener forfatteren.
-1	DANSKE	B-OTH	B-LOCderiv#O	s
+1	DANSKE	O	B-LOCderiv#O	s
 2	rockmusikere	O	O#O	s
 3	duer	O	O#O	s
 4	ikke	O	O#O	s
@@ -4655,7 +4655,7 @@
 23	forskellen	O	O#O	s
 24	mellem	O	O#O	s
 25	en	O	O#O	s
-26	Hof	B-OTH	B-MISC#O	s
+26	Hof	O	B-MISC#O	s
 27	og	O	O#O	s
 28	en	O	O#O	s
 29	Tuborg	B-ORG	B-ORG#O	s
@@ -5141,15 +5141,15 @@
 27	pop	O	O#O	s
 28	,	O	O#O	s
 29	"	O	O#O	s
-30	Orientering	B-OTH	B-MISC#O	s
+30	Orientering	O	B-MISC#O	s
 31	"	O	O#O	s
 32	og	O	O#O	s
 33	"	O	O#O	s
-34	De	B-OTH	B-MISC#O	s
-35	ringer	I-OTH	I-MISC#O	s
-36	,	I-OTH	I-MISC#O	s
-37	vi	I-OTH	I-MISC#O	s
-38	spiller	I-OTH	I-MISC#O	s
+34	De	O	B-MISC#O	s
+35	ringer	O	I-MISC#O	s
+36	,	O	I-MISC#O	s
+37	vi	O	I-MISC#O	s
+38	spiller	O	I-MISC#O	s
 39	"	O	O#O	s
 40	.	O	O#O	s
 
@@ -5296,7 +5296,7 @@
 # text = Maskinchef på Ask var Ole Rønnow, som også var maskinchef på Peder Paars.
 1	Maskinchef	O	O#O	s
 2	på	O	O#O	s
-3	Ask	B-OTH	B-MISC#O	s
+3	Ask	O	B-MISC#O	s
 4	var	O	O#O	s
 5	Ole	B-PER	B-PER#O	s
 6	Rønnow	I-PER	I-PER#O	s
@@ -5306,8 +5306,8 @@
 10	var	O	O#O	s
 11	maskinchef	O	O#O	s
 12	på	O	O#O	s
-13	Peder	B-OTH	B-MISC#O	s
-14	Paars	I-OTH	I-MISC#O	s
+13	Peder	O	B-MISC#O	s
+14	Paars	O	I-MISC#O	s
 15	.	O	O#O	s
 
 # sent_id = test-253
@@ -5325,9 +5325,9 @@
 11	,	O	O#O	s
 12	at	O	O#O	s
 13	både	O	O#O	s
-14	Ask	B-OTH	B-MISC#O	s
+14	Ask	O	B-MISC#O	s
 15	og	O	O#O	s
-16	Urd	B-OTH	B-MISC#O	s
+16	Urd	O	B-MISC#O	s
 17	var	O	O#O	s
 18	gode	O	O#O	s
 19	skibe	O	O#O	s
@@ -5342,7 +5342,7 @@
 5	af	O	O#O	s
 6	problemer	O	O#O	s
 7	:	O	O#O	s
-8	Urd	B-OTH	B-MISC#O	s
+8	Urd	O	B-MISC#O	s
 9	måtte	O	O#O	s
 10	i	O	O#O	s
 11	går	O	O#O	s
@@ -5352,7 +5352,7 @@
 15	Havns	I-LOC	I-LOC#O	s
 16	bugserbåd	O	O#O	s
 17	,	O	O#O	s
-18	Hermes	B-OTH	B-MISC#O	s
+18	Hermes	O	B-MISC#O	s
 19	,	O	O#O	s
 20	til	O	O#O	s
 21	at	O	O#O	s
@@ -5433,7 +5433,7 @@
 8	er	O	O#O	s
 9	,	O	O#O	s
 10	at	O	O#O	s
-11	Urd	B-OTH	B-MISC#O	s
+11	Urd	O	B-MISC#O	s
 12	i	O	O#O	s
 13	går	O	O#O	s
 14	havde	O	O#O	s
@@ -5452,7 +5452,7 @@
 5	sammen	O	O#O	s
 6	,	O	O#O	s
 7	hvorefter	O	O#O	s
-8	Urd	B-OTH	B-MISC#O	s
+8	Urd	O	B-MISC#O	s
 9	vendte	O	O#O	s
 10	om	O	O#O	s
 11	og	O	O#O	s
@@ -5471,7 +5471,7 @@
 # text = Imens bankede Ask i kajen i Kalundborg, hvorefter enhver kunne se, at nu skulle Urd i rute som Ask.
 1	Imens	O	O#O	s
 2	bankede	O	O#O	s
-3	Ask	B-OTH	B-MISC#O	s
+3	Ask	O	B-MISC#O	s
 4	i	O	O#O	s
 5	kajen	O	O#O	s
 6	i	O	O#O	s
@@ -5485,11 +5485,11 @@
 14	at	O	O#O	s
 15	nu	O	O#O	s
 16	skulle	O	O#O	s
-17	Urd	B-OTH	B-MISC#O	s
+17	Urd	O	B-MISC#O	s
 18	i	O	O#O	s
 19	rute	O	O#O	s
 20	som	O	O#O	s
-21	Ask	B-OTH	B-MISC#O	s
+21	Ask	O	B-MISC#O	s
 22	.	O	O#O	s
 
 # sent_id = test-261
@@ -6007,8 +6007,8 @@
 12	Lindgrens	I-PER	I-PER#O	s
 13	eventyr	O	O#O	s
 14	"	O	O#O	s
-15	Brødrene	B-OTH	B-MISC#O	s
-16	Løvehjerte	I-OTH	I-MISC#B-PER	s
+15	Brødrene	O	B-MISC#O	s
+16	Løvehjerte	O	I-MISC#B-PER	s
 17	"	O	O#O	s
 18	.	O	O#O	s
 
@@ -6212,9 +6212,9 @@
 16	af	O	O#O	s
 17	bogen	O	O#O	s
 18	"	O	O#O	s
-19	Retfærdighed	B-OTH	B-MISC#O	s
-20	-	I-OTH	I-MISC#O	s
-21	ikke	I-OTH	I-MISC#O	s
+19	Retfærdighed	O	B-MISC#O	s
+20	-	O	I-MISC#O	s
+21	ikke	O	I-MISC#O	s
 22	hævn	O	O#O	s
 23	"	O	O#O	s
 24	,	O	O#O	s
@@ -6438,13 +6438,13 @@
 16	næstformanden	O	O#O	s
 17	i	O	O#O	s
 18	den	O	O#O	s
-19	socialdemokratiske	B-OTH	B-ORGderiv#O	s
+19	socialdemokratiske	O	B-ORGderiv#O	s
 20	gruppe	O	O#O	s
 21	i	O	O#O	s
 22	aftes	O	O#O	s
 23	udtalte	O	O#O	s
 24	til	O	O#O	s
-25	TV-2-Nyhederne	B-OTH	B-MISC#B-ORGpart	s
+25	TV-2-Nyhederne	O	B-MISC#B-ORGpart	s
 26	,	O	O#O	s
 27	at	O	O#O	s
 28	"	O	O#O	s
@@ -6520,7 +6520,7 @@
 12	på	O	O#O	s
 13	44,1	O	O#O	s
 14	mill.	O	O#O	s
-15	kroner	B-OTH	B-MISC#O	s
+15	kroner	O	B-MISC#O	s
 16	,	O	O#O	s
 17	er	O	O#O	s
 18	der	O	O#O	s
@@ -6986,8 +6986,8 @@
 13	sine	O	O#O	s
 14	nye	O	O#O	s
 15	"	O	O#O	s
-16	Anderledes	B-OTH	B-MISC#O	s
-17	Familiebilleder	I-OTH	I-MISC#O	s
+16	Anderledes	O	B-MISC#O	s
+17	Familiebilleder	O	I-MISC#O	s
 18	"	O	O#O	s
 19	.	O	O#O	s
 
@@ -7057,7 +7057,7 @@
 7	af	O	O#O	s
 8	en	O	O#O	s
 9	ung	O	O#O	s
-10	irsk	B-OTH	B-LOCderiv#O	s
+10	irsk	O	B-LOCderiv#O	s
 11	skuespiller	O	O#O	s
 12	.	O	O#O	s
 
@@ -7280,7 +7280,7 @@
 # sent_id = test2-19
 # text = Det serbisk dominerede nyhedsbureau Tanjug har tidligere rapporteret, at omkring 1.700 artillierigranater er havnet inden for de serbisk dominerede områder inden for et døgn.
 1	Det	O	O#O	s
-2	serbisk	B-OTH	B-LOCderiv#O	s
+2	serbisk	O	B-LOCderiv#O	s
 3	dominerede	O	O#O	s
 4	nyhedsbureau	O	O#O	s
 5	Tanjug	B-ORG	B-ORG#O	s
@@ -7297,7 +7297,7 @@
 16	inden	O	O#O	s
 17	for	O	O#O	s
 18	de	O	O#O	s
-19	serbisk	B-OTH	B-LOCderiv#O	s
+19	serbisk	O	B-LOCderiv#O	s
 20	dominerede	O	O#O	s
 21	områder	O	O#O	s
 22	inden	O	O#O	s
@@ -7349,7 +7349,7 @@
 # sent_id = test2-22
 # text = Den danske kvinde får sin store chance med en ny TV-serie, som David Lynch har skabt.
 1	Den	O	O#O	s
-2	danske	B-OTH	B-LOCderiv#O	s
+2	danske	O	B-LOCderiv#O	s
 3	kvinde	O	O#O	s
 4	får	O	O#O	s
 5	sin	O	O#O	s
@@ -7480,22 +7480,22 @@
 
 # sent_id = test2-31
 # text = de fire årstider hører med til opus VIII der hedder "Il Cimento dell'Armonia e dell'Invenzione.
-1	de	B-OTH	B-MISC#O	s
-2	fire	I-OTH	I-MISC#O	s
-3	årstider	I-OTH	I-MISC#O	s
+1	de	O	B-MISC#O	s
+2	fire	O	I-MISC#O	s
+3	årstider	O	I-MISC#O	s
 4	hører	O	O#O	s
 5	med	O	O#O	s
 6	til	O	O#O	s
-7	opus	B-OTH	B-MISC#O	s
-8	VIII	I-OTH	I-MISC#O	s
+7	opus	O	B-MISC#O	s
+8	VIII	O	I-MISC#O	s
 9	der	O	O#O	s
 10	hedder	O	O#O	s
 11	"	O	O#O	s
-12	Il	B-OTH	B-MISC#O	s
-13	Cimento	I-OTH	I-MISC#O	s
-14	dell'Armonia	I-OTH	I-MISC#O	s
-15	e	I-OTH	I-MISC#O	s
-16	dell'Invenzione	I-OTH	I-MISC#O	s
+12	Il	O	B-MISC#O	s
+13	Cimento	O	I-MISC#O	s
+14	dell'Armonia	O	I-MISC#O	s
+15	e	O	I-MISC#O	s
+16	dell'Invenzione	O	I-MISC#O	s
 17	.	O	O#O	s
 
 # sent_id = test2-32
@@ -7583,7 +7583,7 @@
 11	os	O	O#O	s
 12	i	O	O#O	s
 13	"	O	O#O	s
-14	Eleva2ren	B-OTH	B-MISC#O	s
+14	Eleva2ren	O	B-MISC#O	s
 15	"	O	O#O	s
 16	i	O	O#O	s
 17	fredags	O	O#O	s
@@ -7592,7 +7592,7 @@
 20	have	O	O#O	s
 21	ham	O	O#O	s
 22	den	O	O#O	s
-23	grønlandske	B-OTH	B-LOCderiv#O	s
+23	grønlandske	O	B-LOCderiv#O	s
 24	gut	O	O#O	s
 25	til	O	O#O	s
 26	at	O	O#O	s
@@ -7619,7 +7619,7 @@
 9	Orwell	B-PER	B-PER#O	s
 10	gennem	O	O#O	s
 11	den	O	O#O	s
-12	britiske	B-OTH	B-LOCderiv#O	s
+12	britiske	O	B-LOCderiv#O	s
 13	venstreorienterede	O	O#O	s
 14	tradition	O	O#O	s
 15	.	O	O#O	s
@@ -7981,13 +7981,13 @@
 9	reduceret	O	O#O	s
 10	til	O	O#O	s
 11	220	O	O#O	s
-12	dollar	B-OTH	B-MISC#O	s
+12	dollar	O	B-MISC#O	s
 13	,	O	O#O	s
 14	et	O	O#O	s
 15	fald	O	O#O	s
 16	på	O	O#O	s
 17	500	O	O#O	s
-18	dollar	B-OTH	B-MISC#O	s
+18	dollar	O	B-MISC#O	s
 19	.	O	O#O	s
 
 # sent_id = test2-59
@@ -8499,7 +8499,7 @@
 4	tilhører	O	O#O	s
 5	dog	O	O#O	s
 6	det	O	O#O	s
-7	danske	B-OTH	B-LOCderiv#O	s
+7	danske	O	B-LOCderiv#O	s
 8	rigsfællesskab	O	O#O	s
 9	,	O	O#O	s
 10	"	O	O#O	s
@@ -8800,7 +8800,7 @@
 4	en	O	O#O	s
 5	radio-udsendelse	O	O#O	s
 6	i	O	O#O	s
-7	svensk	B-OTH	B-LOCderiv#O	s
+7	svensk	O	B-LOCderiv#O	s
 8	radio	O	O#O	s
 9	have	O	O#O	s
 10	sagt	O	O#O	s
@@ -9049,14 +9049,14 @@
 4	overlever	O	O#O	s
 5	,	O	O#O	s
 6	er	O	O#O	s
-7	Esbjerg-Fanø	B-OTH	B-MISC#B-LOCpart	s
+7	Esbjerg-Fanø	O	B-MISC#B-LOCpart	s
 8	,	O	O#O	s
-9	Bøjden-Fynshav	B-OTH	B-MISC#B-LOCpart	s
+9	Bøjden-Fynshav	O	B-MISC#B-LOCpart	s
 10	,	O	O#O	s
-11	Kalundborg-Samsø	B-OTH	B-MISC#B-LOCpart	s
+11	Kalundborg-Samsø	O	B-MISC#B-LOCpart	s
 12	,	O	O#O	s
-13	Helsingør	B-OTH	B-MISC#B-LOC	s
-14	Helsingborg	I-OTH	I-MISC#B-LOC	s
+13	Helsingør	O	B-MISC#B-LOC	s
+14	Helsingborg	O	I-MISC#B-LOC	s
 15	,	O	O#O	s
 16	dog	O	O#O	s
 17	stærkt	O	O#O	s
@@ -9064,7 +9064,7 @@
 19	,	O	O#O	s
 20	og	O	O#O	s
 21	endelig	O	O#O	s
-22	Gedser-Warnemünde	B-OTH	B-MISC#B-LOCpart	s
+22	Gedser-Warnemünde	O	B-MISC#B-LOCpart	s
 23	.	O	O#O	s
 
 # sent_id = test2-111
@@ -9256,20 +9256,20 @@
 6	en	O	O#O	s
 7	graveret	O	O#O	s
 8	,	O	O#O	s
-9	schweizisk	B-OTH	B-LOCderiv#O	s
+9	schweizisk	O	B-LOCderiv#O	s
 10	,	O	O#O	s
 11	guldpistol	O	O#O	s
 12	vurderet	O	O#O	s
 13	til	O	O#O	s
 14	7.000	O	O#O	s
-15	pund	B-OTH	B-MISC#O	s
+15	pund	O	B-MISC#O	s
 16	fra	O	O#O	s
 17	Asprey's	B-ORG	B-ORG#O	s
 18	,	O	O#O	s
 19	der	O	O#O	s
 20	er	O	O#O	s
 21	den	O	O#O	s
-22	engelske	B-OTH	B-LOCderiv#O	s
+22	engelske	O	B-LOCderiv#O	s
 23	dronnings	O	O#O	s
 24	juvelér	O	O#O	s
 25	i	O	O#O	s
@@ -9654,7 +9654,7 @@
 6	se	O	O#O	s
 7	:	O	O#O	s
 8	Kunne	O	O#O	s
-9	danskerne	B-OTH	B-LOCderiv#O	s
+9	danskerne	O	B-LOCderiv#O	s
 10	klare	O	O#O	s
 11	belastningen	O	O#O	s
 12	og	O	O#O	s
@@ -9757,7 +9757,7 @@
 # text = Det var europæerne, da de første gang stiftede bekendtskab med fænomenet, og ikke anede, at "i morgen" kunne betyde et hvilket som helst tidspunkt ud i fremtiden!
 1	Det	O	O#O	s
 2	var	O	O#O	s
-3	europæerne	B-OTH	B-LOCderiv#O	s
+3	europæerne	O	B-LOCderiv#O	s
 4	,	O	O#O	s
 5	da	O	O#O	s
 6	de	O	O#O	s
@@ -9847,7 +9847,7 @@
 2	vurderer	O	O#O	s
 3	du	O	O#O	s
 4	det	O	O#O	s
-5	danske	B-OTH	B-LOCderiv#O	s
+5	danske	O	B-LOCderiv#O	s
 6	landsholds	O	O#O	s
 7	styrke	O	O#O	s
 8	?	O	O#O	s
@@ -9907,8 +9907,8 @@
 47	af	O	O#O	s
 48	på	O	O#O	s
 49	"	O	O#O	s
-50	Black	B-OTH	B-MISC#O	s
-51	Celebration	I-OTH	I-MISC#O	s
+50	Black	O	B-MISC#O	s
+51	Celebration	O	I-MISC#O	s
 52	"	O	O#O	s
 53	.	O	O#O	s
 
@@ -9973,7 +9973,7 @@
 16	hans	O	O#O	s
 17	kvartfinale-kamp	O	O#O	s
 18	mod	O	O#O	s
-19	svenskeren	B-OTH	B-LOCderiv#O	s
+19	svenskeren	O	B-LOCderiv#O	s
 20	Peter	B-PER	B-PER#O	s
 21	Jaako	I-PER	I-PER#O	s
 22	blev	O	O#O	s
@@ -10503,7 +10503,7 @@
 # text = En ung sovjetisk soldat får som belønning for udvist tapperhed under anden verdenskrig orlov fra fronten.
 1	En	O	O#O	s
 2	ung	O	O#O	s
-3	sovjetisk	B-OTH	B-LOCderiv#O	s
+3	sovjetisk	O	B-LOCderiv#O	s
 4	soldat	O	O#O	s
 5	får	O	O#O	s
 6	som	O	O#O	s
@@ -10512,8 +10512,8 @@
 9	udvist	O	O#O	s
 10	tapperhed	O	O#O	s
 11	under	O	O#O	s
-12	anden	B-OTH	B-MISC#O	s
-13	verdenskrig	I-OTH	I-MISC#O	s
+12	anden	O	B-MISC#O	s
+13	verdenskrig	O	I-MISC#O	s
 14	orlov	O	O#O	s
 15	fra	O	O#O	s
 16	fronten	O	O#O	s
@@ -10853,7 +10853,7 @@
 4	er	O	O#O	s
 5	Ridder	O	O#O	s
 6	af	O	O#O	s
-7	Dannebrog	B-OTH	B-MISC#O	s
+7	Dannebrog	O	B-MISC#O	s
 8	.	O	O#O	s
 
 # sent_id = test2-203
@@ -10906,42 +10906,42 @@
 13	tegneseriehæfter	O	O#O	s
 14	som	O	O#O	s
 15	"	O	O#O	s
-16	Langt	B-OTH	B-MISC#O	s
-17	ud	I-OTH	I-MISC#O	s
-18	af	I-OTH	I-MISC#O	s
-19	halsen	I-OTH	I-MISC#O	s
+16	Langt	O	B-MISC#O	s
+17	ud	O	I-MISC#O	s
+18	af	O	I-MISC#O	s
+19	halsen	O	I-MISC#O	s
 20	"	O	O#O	s
 21	og	O	O#O	s
 22	"	O	O#O	s
-23	Op	B-OTH	B-MISC#O	s
-24	og	I-OTH	I-MISC#O	s
-25	stå	I-OTH	I-MISC#O	s
+23	Op	O	B-MISC#O	s
+24	og	O	I-MISC#O	s
+25	stå	O	I-MISC#O	s
 26	"	O	O#O	s
 27	og	O	O#O	s
 28	de	O	O#O	s
 29	populære	O	O#O	s
 30	børnebøger	O	O#O	s
 31	"	O	O#O	s
-32	Verdens	B-OTH	B-MISC#O	s
-33	grimmeste	I-OTH	I-MISC#O	s
-34	pige	I-OTH	I-MISC#O	s
+32	Verdens	O	B-MISC#O	s
+33	grimmeste	O	I-MISC#O	s
+34	pige	O	I-MISC#O	s
 35	"	O	O#O	s
 36	,	O	O#O	s
 37	"	O	O#O	s
-38	Stor	B-OTH	B-MISC#O	s
-39	og	I-OTH	I-MISC#O	s
-40	stærk	I-OTH	I-MISC#O	s
+38	Stor	O	B-MISC#O	s
+39	og	O	I-MISC#O	s
+40	stærk	O	I-MISC#O	s
 41	"	O	O#O	s
 42	og	O	O#O	s
 43	den	O	O#O	s
 44	grinagtige	O	O#O	s
 45	"	O	O#O	s
-46	Dengang	B-OTH	B-MISC#O	s
-47	min	I-OTH	I-MISC#O	s
-48	onkel	I-OTH	I-MISC#O	s
-49	Kulle	I-OTH	I-MISC#O	s
-50	blev	I-OTH	I-MISC#O	s
-51	skør	I-OTH	I-MISC#O	s
+46	Dengang	O	B-MISC#O	s
+47	min	O	I-MISC#O	s
+48	onkel	O	I-MISC#O	s
+49	Kulle	O	I-MISC#O	s
+50	blev	O	I-MISC#O	s
+51	skør	O	I-MISC#O	s
 52	"	O	O#O	s
 53	.	O	O#O	s
 
@@ -11107,7 +11107,7 @@
 11	,	O	O#O	s
 12	sådan	O	O#O	s
 13	som	O	O#O	s
-14	polakkerne	B-OTH	B-LOCderiv#O	s
+14	polakkerne	O	B-LOCderiv#O	s
 15	ellers	O	O#O	s
 16	kunne	O	O#O	s
 17	se	O	O#O	s
@@ -11133,7 +11133,7 @@
 12	skat	O	O#O	s
 13	af	O	O#O	s
 14	tre	O	O#O	s
-15	kr.	B-OTH	B-MISC#O	s
+15	kr.	O	B-MISC#O	s
 16	pr.	O	O#O	s
 17	km.	O	O#O	s
 18	til	O	O#O	s
@@ -11298,7 +11298,7 @@
 8	af	O	O#O	s
 9	i	O	O#O	s
 10	det	O	O#O	s
-11	danske	B-OTH	B-LOCderiv#O	s
+11	danske	O	B-LOCderiv#O	s
 12	kollektiv	O	O#O	s
 13	,	O	O#O	s
 14	der	O	O#O	s
@@ -11309,7 +11309,7 @@
 19	grebet	O	O#O	s
 20	,	O	O#O	s
 21	så	O	O#O	s
-22	tyskerne	B-OTH	B-LOCderiv#O	s
+22	tyskerne	O	B-LOCderiv#O	s
 23	fik	O	O#O	s
 24	sat	O	O#O	s
 25	gang	O	O#O	s
@@ -11389,7 +11389,7 @@
 # sent_id = test2-227
 # text = LØR Svensk 2 kl. 22.45-0.10
 1	LØR	O	O#O	s
-2	Svensk	B-OTH	B-LOCderiv#O	s
+2	Svensk	O	B-LOCderiv#O	s
 3	2	O	O#O	s
 4	kl.	O	O#O	s
 5	22.45-0.10	O	O#O	s
@@ -11503,7 +11503,7 @@
 2	feminine	O	O#O	s
 3	og	O	O#O	s
 4	romantiske	O	O#O	s
-5	Gug'ske	B-OTH	B-LOCderiv#O	s
+5	Gug'ske	O	B-LOCderiv#O	s
 6	præg	O	O#O	s
 7	er	O	O#O	s
 8	også	O	O#O	s

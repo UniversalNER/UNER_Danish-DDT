@@ -108,7 +108,7 @@
 8	gift	O	O#O	s
 9	med	O	O#O	s
 10	sin	O	O#O	s
-11	socialdemokratiske	B-OTH	B-ORGderiv#O	s
+11	socialdemokratiske	O	B-ORGderiv#O	s
 12	partifælle	O	O#O	s
 13	,	O	O#O	s
 14	Mogens	B-PER	B-PER#O	s
@@ -290,8 +290,8 @@
 8	klorofyl-turister	O	O#O	s
 9	"	O	O#O	s
 10	er	O	O#O	s
-11	Robinson	B-OTH	B-MISC#O	s
-12	Crusoe	I-OTH	I-MISC#O	s
+11	Robinson	O	B-MISC#O	s
+12	Crusoe	O	I-MISC#O	s
 13	et	O	O#O	s
 14	paradis	O	O#O	s
 15	for	O	O#O	s
@@ -352,8 +352,8 @@
 5	er	O	O#O	s
 6	byttet	O	O#O	s
 7	"	O	O#O	s
-8	Living	B-OTH	B-MISC#O	s
-9	Legend	I-OTH	I-MISC#O	s
+8	Living	O	B-MISC#O	s
+9	Legend	O	I-MISC#O	s
 10	"	O	O#O	s
 11	,	O	O#O	s
 12	hvor	O	O#O	s
@@ -689,7 +689,7 @@
 19	ny-nazistisk	O	O#O	s
 20	kamp	O	O#O	s
 21	mod	O	O#O	s
-22	amerikanerne	B-OTH	B-LOCderiv#O	s
+22	amerikanerne	O	B-LOCderiv#O	s
 23	.	O	O#O	s
 
 # sent_id = train-v2-31
@@ -794,9 +794,9 @@
 7	populære	O	O#O	s
 8	lærebøger	O	O#O	s
 9	i	O	O#O	s
-10	spansk	B-OTH	B-LOCderiv#O	s
+10	spansk	O	B-LOCderiv#O	s
 11	og	O	O#O	s
-12	fransk	B-OTH	B-LOCderiv#O	s
+12	fransk	O	B-LOCderiv#O	s
 13	for	O	O#O	s
 14	gymnasierne	O	O#O	s
 15	.	O	O#O	s
@@ -938,12 +938,12 @@
 10	det	O	O#O	s
 11	skrækkelige	O	O#O	s
 12	"	O	O#O	s
-13	hollandske	B-OTH	B-LOCderiv#O	s
+13	hollandske	O	B-LOCderiv#O	s
 14	udtræk	O	O#O	s
 15	"	O	O#O	s
 16	bag	O	O#O	s
 17	på	O	O#O	s
-18	Cosworth'en	B-OTH	B-ORGderiv#O	s
+18	Cosworth'en	O	B-ORGderiv#O	s
 19	,	O	O#O	s
 20	transmissionen	O	O#O	s
 21	og	O	O#O	s
@@ -951,8 +951,8 @@
 23	udstyrsdetaljer	O	O#O	s
 24	,	O	O#O	s
 25	at	O	O#O	s
-26	RS	B-OTH	B-MISC#O	s
-27	2000	I-OTH	I-MISC#O	s
+26	RS	O	B-MISC#O	s
+27	2000	O	I-MISC#O	s
 28	har	O	O#O	s
 29	en	O	O#O	s
 30	fladere	O	O#O	s
@@ -1061,10 +1061,10 @@
 1	Kun	O	O#O	s
 2	den	O	O#O	s
 3	orangegule	O	O#O	s
-4	norske	B-OTH	B-LOCderiv#O	s
-5	Fanta	B-OTH	B-MISC#O	s
+4	norske	O	B-LOCderiv#O	s
+5	Fanta	O	B-MISC#O	s
 6	,	O	O#O	s
-7	Solus	B-OTH	B-MISC#O	s
+7	Solus	O	B-MISC#O	s
 8	,	O	O#O	s
 9	kan	O	O#O	s
 10	holde	O	O#O	s
@@ -1180,8 +1180,8 @@
 3	synger	O	O#O	s
 4	hun	O	O#O	s
 5	i	O	O#O	s
-6	Bakkens	B-OTH	B-MISC#O	s
-7	Hvile	I-OTH	I-MISC#O	s
+6	Bakkens	O	B-MISC#O	s
+7	Hvile	O	I-MISC#O	s
 8	.	O	O#O	s
 
 # sent_id = train-v2-56
@@ -1266,7 +1266,7 @@
 2	cifre	O	O#O	s
 3	,	O	O#O	s
 4	de	O	O#O	s
-5	norske	B-OTH	B-LOCderiv#O	s
+5	norske	O	B-LOCderiv#O	s
 6	piger	O	O#O	s
 7	tabte	O	O#O	s
 8	med	O	O#O	s
@@ -1293,8 +1293,8 @@
 12	af	O	O#O	s
 13	den	O	O#O	s
 14	blyholdige	O	O#O	s
-15	98	B-OTH	B-MISC#O	s
-16	oktan	I-OTH	I-MISC#O	s
+15	98	O	B-MISC#O	s
+16	oktan	O	I-MISC#O	s
 17	erstatte	O	O#O	s
 18	af	O	O#O	s
 19	blyfri	O	O#O	s
@@ -1308,7 +1308,7 @@
 4	juni	O	O#O	s
 5	beskæftigede	O	O#O	s
 6	de	O	O#O	s
-7	danske	B-OTH	B-LOCderiv#O	s
+7	danske	O	B-LOCderiv#O	s
 8	industrivirksomheder	O	O#O	s
 9	korrigeret	O	O#O	s
 10	for	O	O#O	s
@@ -1344,7 +1344,7 @@
 6	bagen	O	O#O	s
 7	er	O	O#O	s
 8	"	O	O#O	s
-9	Spejldans	B-OTH	B-MISC#O	s
+9	Spejldans	O	B-MISC#O	s
 10	"	O	O#O	s
 11	stadig	O	O#O	s
 12	en	O	O#O	s
@@ -1401,7 +1401,7 @@
 18	han	O	O#O	s
 19	til	O	O#O	s
 20	den	O	O#O	s
-21	britiske	B-OTH	B-LOCderiv#O	s
+21	britiske	O	B-LOCderiv#O	s
 22	tv-station	O	O#O	s
 23	Sky	B-ORG	B-ORG#O	s
 24	.	O	O#O	s
@@ -1568,8 +1568,8 @@
 # text = Det et-motorede Cessna 172 fly med plads til fire personer havde da retning mod en række fire meter høje buske.
 1	Det	O	O#O	s
 2	et-motorede	O	O#O	s
-3	Cessna	B-OTH	B-MISC#O	s
-4	172	I-OTH	I-MISC#O	s
+3	Cessna	O	B-MISC#O	s
+4	172	O	I-MISC#O	s
 5	fly	O	O#O	s
 6	med	O	O#O	s
 7	plads	O	O#O	s
@@ -1674,7 +1674,7 @@
 3	modelprogrammet	O	O#O	s
 4	foreløbig	O	O#O	s
 5	kun	O	O#O	s
-6	Legacy	B-OTH	B-MISC#O	s
+6	Legacy	O	B-MISC#O	s
 7	.	O	O#O	s
 
 # sent_id = train-v2-81
@@ -1903,7 +1903,7 @@
 
 # sent_id = train-v2-94
 # text = Europæerne skulle være intelligente nok.
-1	Europæerne	B-OTH	B-LOCderiv#O	s
+1	Europæerne	O	B-LOCderiv#O	s
 2	skulle	O	O#O	s
 3	være	O	O#O	s
 4	intelligente	O	O#O	s
@@ -1941,7 +1941,7 @@
 # sent_id = train-v2-98
 # text = "Jyden er som bekendt stærk og sej.
 1	"	O	O#O	s
-2	Jyden	B-OTH	B-LOCderiv#O	s
+2	Jyden	O	B-LOCderiv#O	s
 3	er	O	O#O	s
 4	som	O	O#O	s
 5	bekendt	O	O#O	s
@@ -1956,7 +1956,7 @@
 2	er	O	O#O	s
 3	det	O	O#O	s
 4	den	O	O#O	s
-5	tyske	B-OTH	B-LOCderiv#O	s
+5	tyske	O	B-LOCderiv#O	s
 6	stabilitets-	O	O#O	s
 7	og	O	O#O	s
 8	pengepolitik	O	O#O	s
@@ -2096,7 +2096,7 @@
 1	Nu	O	O#O	s
 2	måtte	O	O#O	s
 3	det	O	O#O	s
-4	amerikanske	B-OTH	B-LOCderiv#O	s
+4	amerikanske	O	B-LOCderiv#O	s
 5	narkopoliti	O	O#O	s
 6	,	O	O#O	s
 7	DEA	B-ORG	B-ORG#O	s
@@ -2206,7 +2206,7 @@
 15	uværdig	O	O#O	s
 16	i	O	O#O	s
 17	det	O	O#O	s
-18	britiske	B-OTH	B-LOCderiv#O	s
+18	britiske	O	B-LOCderiv#O	s
 19	kongehus	O	O#O	s
 20	.	O	O#O	s
 
@@ -2228,10 +2228,10 @@
 4	stjernebilleder	O	O#O	s
 5	,	O	O#O	s
 6	f.eks.	O	O#O	s
-7	Karlsvognen	B-OTH	B-MISC#O	s
+7	Karlsvognen	O	B-MISC#O	s
 8	og	O	O#O	s
-9	Orions	B-OTH	B-MISC#O	s
-10	Bælte	I-OTH	I-MISC#O	s
+9	Orions	O	B-MISC#O	s
+10	Bælte	O	I-MISC#O	s
 11	.	O	O#O	s
 
 # sent_id = train-v2-112
@@ -2530,7 +2530,7 @@
 6	programmet	O	O#O	s
 7	,	O	O#O	s
 8	hvor	O	O#O	s
-9	"Mellem-Os"-læserne	B-OTH	B-MISCpart#O	s
+9	"Mellem-Os"-læserne	O	B-MISCpart#O	s
 10	også	O	O#O	s
 11	kan	O	O#O	s
 12	glæde	O	O#O	s
@@ -2579,7 +2579,7 @@
 11	70-års	O	O#O	s
 12	fødselsdag	O	O#O	s
 13	"	O	O#O	s
-14	Sætternisse	B-OTH	B-MISC#O	s
+14	Sætternisse	O	B-MISC#O	s
 15	Prisen	O	O#I-MISC	s
 16	"	O	O#O	s
 17	.	O	O#O	s
@@ -3002,7 +3002,7 @@
 6	klar	O	O#O	s
 7	som	O	O#O	s
 8	den	O	O#O	s
-9	norske	B-OTH	B-LOCderiv#O	s
+9	norske	O	B-LOCderiv#O	s
 10	fjeldluft	O	O#O	s
 11	synger	O	O#O	s
 12	udover	O	O#O	s
@@ -3075,7 +3075,7 @@
 # sent_id = train-v2-148
 # text = Firs aserbajdsjanere er blevet tilbageholdt af en militær garnison, og der er blevet iværksat en undersøgelse af episoderne.
 1	Firs	O	O#O	s
-2	aserbajdsjanere	B-OTH	B-LOCderiv#O	s
+2	aserbajdsjanere	O	B-LOCderiv#O	s
 3	er	O	O#O	s
 4	blevet	O	O#O	s
 5	tilbageholdt	O	O#O	s
@@ -3328,8 +3328,8 @@
 16	og	O	O#O	s
 17	forfatter	O	O#O	s
 18	til	O	O#O	s
-19	Politikens	B-OTH	B-MISC#B-ORG	s
-20	Svampebog	I-OTH	I-MISC#O	s
+19	Politikens	O	B-MISC#B-ORG	s
+20	Svampebog	O	I-MISC#O	s
 21	,	O	O#O	s
 22	som	O	O#O	s
 23	er	O	O#O	s
@@ -3432,9 +3432,9 @@
 2	Millers	I-PER	I-PER#O	s
 3	skuespil	O	O#O	s
 4	"	O	O#O	s
-5	Udsigt	B-OTH	B-MISC#O	s
-6	fra	I-OTH	I-MISC#O	s
-7	broen	I-OTH	I-MISC#O	s
+5	Udsigt	O	B-MISC#O	s
+6	fra	O	I-MISC#O	s
+7	broen	O	I-MISC#O	s
 8	"	O	O#O	s
 9	er	O	O#O	s
 10	et	O	O#O	s
@@ -3505,7 +3505,7 @@
 8	pengeafpresning	O	O#O	s
 9	af	O	O#O	s
 10	de	O	O#O	s
-11	spanske	B-OTH	B-LOCderiv#O	s
+11	spanske	O	B-LOCderiv#O	s
 12	politifolk	O	O#O	s
 13	:	O	O#O	s
 
@@ -3589,8 +3589,8 @@
 2	var	O	O#O	s
 3	provinsens	O	O#O	s
 4	"	O	O#O	s
-5	statens	B-OTH	B-MISC#O	s
-6	kunstfond	I-OTH	I-MISC#O	s
+5	statens	O	B-MISC#O	s
+6	kunstfond	O	I-MISC#O	s
 7	"	O	O#O	s
 8	,	O	O#O	s
 9	Canadian	B-ORG	B-ORG#B-LOCderiv	s
@@ -3922,7 +3922,7 @@
 3	ovre	O	O#O	s
 4	fra	O	O#O	s
 5	den	O	O#O	s
-6	bosniske	B-OTH	B-LOCderiv#O	s
+6	bosniske	O	B-LOCderiv#O	s
 7	side	O	O#O	s
 8	af	O	O#O	s
 9	floden	O	O#O	s
@@ -4107,8 +4107,8 @@
 4	andre	O	O#O	s
 5	spørgsmål	O	O#O	s
 6	besvarer	O	O#O	s
-7	Illustreret	B-OTH	B-MISC#O	s
-8	Videnskabs	I-OTH	I-MISC#O	s
+7	Illustreret	O	B-MISC#O	s
+8	Videnskabs	O	I-MISC#O	s
 9	eksperter	O	O#O	s
 
 # sent_id = train-v2-199
@@ -4674,7 +4674,7 @@
 # sent_id = train-v2-229
 # text = Den armenske kilde benægtede forlydender i Moskva og Paris om, at mange armeniere var blevet dræbt.
 1	Den	O	O#O	s
-2	armenske	B-OTH	B-LOCderiv#O	s
+2	armenske	O	B-LOCderiv#O	s
 3	kilde	O	O#O	s
 4	benægtede	O	O#O	s
 5	forlydender	O	O#O	s
@@ -4686,7 +4686,7 @@
 11	,	O	O#O	s
 12	at	O	O#O	s
 13	mange	O	O#O	s
-14	armeniere	B-OTH	B-LOCderiv#O	s
+14	armeniere	O	B-LOCderiv#O	s
 15	var	O	O#O	s
 16	blevet	O	O#O	s
 17	dræbt	O	O#O	s
@@ -4738,7 +4738,7 @@
 # sent_id = train-v2-232
 # text = Det anatolske nyhedsbureau meddelte, at 517 mennesker var blevet kvæstet, og at 251 af dem var blevet indlagt på hospitaler.
 1	Det	O	O#O	s
-2	anatolske	B-OTH	B-LOCderiv#O	s
+2	anatolske	O	B-LOCderiv#O	s
 3	nyhedsbureau	O	O#O	s
 4	meddelte	O	O#O	s
 5	,	O	O#O	s
@@ -4781,7 +4781,7 @@
 16	til	O	O#O	s
 17	blandt	O	O#O	s
 18	dumme	O	O#O	s
-19	Dänen	B-OTH	B-LOCderiv#O	s
+19	Dänen	O	B-LOCderiv#O	s
 20	.	O	O#O	s
 
 # sent_id = train-v2-234
@@ -5019,7 +5019,7 @@
 18	kendt	O	O#O	s
 19	skikkelse	O	O#O	s
 20	i	O	O#O	s
-21	dansk	B-OTH	B-LOCderiv#O	s
+21	dansk	O	B-LOCderiv#O	s
 22	flyvning	O	O#O	s
 23	.	O	O#O	s
 
@@ -5063,7 +5063,7 @@
 
 # sent_id = train-v2-250
 # text = Danskheden kommer under pres.
-1	Danskheden	B-OTH	B-LOCderiv#O	s
+1	Danskheden	O	B-LOCderiv#O	s
 2	kommer	O	O#O	s
 3	under	O	O#O	s
 4	pres	O	O#O	s
@@ -5100,7 +5100,7 @@
 1	I	O	O#O	s
 2	følge	O	O#O	s
 3	det	O	O#O	s
-4	svenske	B-OTH	B-LOCderiv#O	s
+4	svenske	O	B-LOCderiv#O	s
 5	nyhedsbureaus	O	O#O	s
 6	udsendte	O	O#O	s
 7	medarbejder	O	O#O	s
@@ -5476,9 +5476,9 @@
 18	Bjarne	B-PER	B-PER#O	s
 19	Rylander	I-PER	I-PER#O	s
 20	fra	O	O#O	s
-21	Net-	B-OTH	B-MISC#O	s
-22	og	I-OTH	I-MISC#O	s
-23	Trafiksektionen	I-OTH	I-MISC#O	s
+21	Net-	O	B-MISC#O	s
+22	og	O	I-MISC#O	s
+23	Trafiksektionen	O	I-MISC#O	s
 24	i	O	O#O	s
 25	KTAS	B-ORG	B-ORG#O	s
 26	.	O	O#O	s
@@ -5517,7 +5517,7 @@
 5	slynges	O	O#O	s
 6	ud	O	O#O	s
 7	af	O	O#O	s
-8	Ariane-rakettens	B-OTH	B-MISCpart#O	s
+8	Ariane-rakettens	O	B-MISCpart#O	s
 9	lastrum	O	O#O	s
 10	,	O	O#O	s
 11	vil	O	O#O	s
@@ -5702,7 +5702,7 @@
 2	far	O	O#O	s
 3	havde	O	O#O	s
 4	hørt	O	O#O	s
-5	socialdemokraten	B-OTH	B-ORGderiv#O	s
+5	socialdemokraten	O	B-ORGderiv#O	s
 6	Scheidemann	B-PER	B-PER#O	s
 7	udråbe	O	O#O	s
 8	den	O	O#O	s
@@ -5806,9 +5806,9 @@
 14	,	O	O#O	s
 15	er	O	O#O	s
 16	ubåden	O	O#O	s
-17	Spækhuggeren	B-OTH	B-MISC#O	s
+17	Spækhuggeren	O	B-MISC#O	s
 18	,	O	O#O	s
-19	S327	B-OTH	B-MISC#O	s
+19	S327	O	B-MISC#O	s
 20	,	O	O#O	s
 21	som	O	O#O	s
 22	siden	O	O#O	s
@@ -5914,9 +5914,9 @@
 21	krimi	O	O#O	s
 22	,	O	O#O	s
 23	"	O	O#O	s
-24	Gravskrift	B-OTH	B-MISC#O	s
-25	for	I-OTH	I-MISC#O	s
-26	rødhætte	I-OTH	I-MISC#O	s
+24	Gravskrift	O	B-MISC#O	s
+25	for	O	I-MISC#O	s
+26	rødhætte	O	I-MISC#O	s
 27	"	O	O#O	s
 28	.	O	O#O	s
 
@@ -6040,7 +6040,7 @@
 16	med	O	O#O	s
 17	singlen	O	O#O	s
 18	"	O	O#O	s
-19	Jump	B-OTH	B-MISC#O	s
+19	Jump	O	B-MISC#O	s
 20	"	O	O#O	s
 21	,	O	O#O	s
 22	som	O	O#O	s
@@ -6052,7 +6052,7 @@
 # sent_id = train-v2-296
 # text = Den amerikanske valgkamp er gået ind i sin afgørende fase, og for folk, der vil påstå, at politik er en snavset affære, er der masser af argumenter at hente i den måde, hvorpå de tre kandidater optræder over for hinanden.
 1	Den	O	O#O	s
-2	amerikanske	B-OTH	B-LOCderiv#O	s
+2	amerikanske	O	B-LOCderiv#O	s
 3	valgkamp	O	O#O	s
 4	er	O	O#O	s
 5	gået	O	O#O	s
@@ -6187,7 +6187,7 @@
 # text = De fire fynboers helt specielle tone inspireret af tressernes elektriske rock-udladninger på debuten "Shine" fra 1990, fik alle anmeldere til at opføre sig, som om de netop havde fået lønforhøjelse.
 1	De	O	O#O	s
 2	fire	O	O#O	s
-3	fynboers	B-OTH	B-LOCderiv#O	s
+3	fynboers	O	B-LOCderiv#O	s
 4	helt	O	O#O	s
 5	specielle	O	O#O	s
 6	tone	O	O#O	s
@@ -6199,7 +6199,7 @@
 12	på	O	O#O	s
 13	debuten	O	O#O	s
 14	"	O	O#O	s
-15	Shine	B-OTH	B-MISC#O	s
+15	Shine	O	B-MISC#O	s
 16	"	O	O#O	s
 17	fra	O	O#O	s
 18	1990	O	O#O	s
@@ -6475,7 +6475,7 @@
 7	siden	O	O#O	s
 8	,	O	O#O	s
 9	at	O	O#O	s
-10	serberne	B-OTH	B-LOCderiv#O	s
+10	serberne	O	B-LOCderiv#O	s
 11	begyndte	O	O#O	s
 12	krigen	O	O#O	s
 13	for	O	O#O	s
@@ -6568,7 +6568,7 @@
 13	med	O	O#O	s
 14	at	O	O#O	s
 15	tage	O	O#O	s
-16	Chlorella	B-OTH	B-MISC#O	s
+16	Chlorella	O	B-MISC#O	s
 17	fremover	O	O#O	s
 18	.	O	O#O	s
 
@@ -6585,7 +6585,7 @@
 9	røgen	O	O#O	s
 10	ifølge	O	O#O	s
 11	det	O	O#O	s
-12	finske	B-OTH	B-LOCderiv#O	s
+12	finske	O	B-LOCderiv#O	s
 13	nyhedsbureau	O	O#O	s
 14	FNB	B-ORG	B-ORG#O	s
 15	kunne	O	O#O	s
@@ -6605,7 +6605,7 @@
 3	soldaterne	O	O#O	s
 4	fra	O	O#O	s
 5	den	O	O#O	s
-6	afghanske	B-OTH	B-LOCderiv#O	s
+6	afghanske	O	B-LOCderiv#O	s
 7	hær	O	O#O	s
 8	synes	O	O#O	s
 9	også	O	O#O	s
@@ -6847,9 +6847,9 @@
 # sent_id = train-v2-339
 # text = Hverken Justy eller Alto er på programmet, og den lette mellemklassebil Leone er på vej ud.
 1	Hverken	O	O#O	s
-2	Justy	B-OTH	B-MISC#O	s
+2	Justy	O	B-MISC#O	s
 3	eller	O	O#O	s
-4	Alto	B-OTH	B-MISC#O	s
+4	Alto	O	B-MISC#O	s
 5	er	O	O#O	s
 6	på	O	O#O	s
 7	programmet	O	O#O	s
@@ -6858,7 +6858,7 @@
 10	den	O	O#O	s
 11	lette	O	O#O	s
 12	mellemklassebil	O	O#O	s
-13	Leone	B-OTH	B-MISC#O	s
+13	Leone	O	B-MISC#O	s
 14	er	O	O#O	s
 15	på	O	O#O	s
 16	vej	O	O#O	s
@@ -6994,7 +6994,7 @@
 9	udgivelsen	O	O#O	s
 10	af	O	O#O	s
 11	et	O	O#O	s
-12	100-Pfennig-frimærke	B-OTH	B-MISCpart#O	s
+12	100-Pfennig-frimærke	O	B-MISCpart#O	s
 13	.	O	O#O	s
 
 # sent_id = train-v2-348
@@ -7004,7 +7004,7 @@
 3	folkene	O	O#O	s
 4	bag	O	O#O	s
 5	"	O	O#O	s
-6	Stokken	B-OTH	B-MISC#O	s
+6	Stokken	O	B-MISC#O	s
 7	"	O	O#O	s
 8	kun	O	O#O	s
 9	på	O	O#O	s
@@ -7024,7 +7024,7 @@
 # text = - 75 øre stykket, siger Sally og ser ud i luften.
 1	-	O	O#O	s
 2	75	O	O#O	s
-3	øre	B-OTH	B-MISC#O	s
+3	øre	O	B-MISC#O	s
 4	stykket	O	O#O	s
 5	,	O	O#O	s
 6	siger	O	O#O	s
@@ -7552,10 +7552,10 @@
 # sent_id = train-v2-376
 # text = "Dronning i 20 år" markerede, som titlen antyder, Dronningens jubilæum.
 1	"	O	O#O	s
-2	Dronning	B-OTH	B-MISC#O	s
-3	i	I-OTH	I-MISC#O	s
-4	20	I-OTH	I-MISC#O	s
-5	år	I-OTH	I-MISC#O	s
+2	Dronning	O	B-MISC#O	s
+3	i	O	I-MISC#O	s
+4	20	O	I-MISC#O	s
+5	år	O	I-MISC#O	s
 6	"	O	O#O	s
 7	markerede	O	O#O	s
 8	,	O	O#O	s
@@ -7623,7 +7623,7 @@
 # text = At nogle vesttyske TV-selskaber har fået ødelagt kameraudstyr for millioner er mindre tragisk for folk i Lichtenhagen.
 1	At	O	O#O	s
 2	nogle	O	O#O	s
-3	vesttyske	B-OTH	B-LOCderiv#O	s
+3	vesttyske	O	B-LOCderiv#O	s
 4	TV-selskaber	O	O#O	s
 5	har	O	O#O	s
 6	fået	O	O#O	s
@@ -7900,12 +7900,12 @@
 27	direkte	O	O#O	s
 28	underholdningsprogram	O	O#O	s
 29	"	O	O#O	s
-30	Rio	B-OTH	B-MISC#O	s
-31	Bio	I-OTH	I-MISC#O	s
-32	-	I-OTH	I-MISC#O	s
-33	kun	I-OTH	I-MISC#O	s
-34	for	I-OTH	I-MISC#O	s
-35	ottomaner	I-OTH	I-MISC#O	s
+30	Rio	O	B-MISC#O	s
+31	Bio	O	I-MISC#O	s
+32	-	O	I-MISC#O	s
+33	kun	O	I-MISC#O	s
+34	for	O	I-MISC#O	s
+35	ottomaner	O	I-MISC#O	s
 36	"	O	O#O	s
 37	.	O	O#O	s
 
@@ -7964,7 +7964,7 @@
 2	man	O	O#O	s
 3	tro	O	O#O	s
 4	på	O	O#O	s
-5	italienerne	B-OTH	B-LOCderiv#O	s
+5	italienerne	O	B-LOCderiv#O	s
 6	-	O	O#O	s
 7	men	O	O#O	s
 8	det	O	O#O	s
@@ -8008,14 +8008,14 @@
 2	anklagestolene	O	O#O	s
 3	sad	O	O#O	s
 4	seks	O	O#O	s
-5	danske	B-OTH	B-LOCderiv#O	s
+5	danske	O	B-LOCderiv#O	s
 6	søfolk	O	O#O	s
 7	fra	O	O#O	s
 8	narko-skibet	O	O#O	s
-9	Nerma	B-OTH	B-MISC#O	s
+9	Nerma	O	B-MISC#O	s
 10	og	O	O#O	s
 11	tre	O	O#O	s
-12	amerikanske	B-OTH	B-LOCderiv#O	s
+12	amerikanske	O	B-LOCderiv#O	s
 13	medanklagede	O	O#O	s
 14	stumme	O	O#O	s
 15	af	O	O#O	s
@@ -8278,7 +8278,7 @@
 2	og	O	O#O	s
 3	styrmænd	O	O#O	s
 4	på	O	O#O	s
-5	Isafold	B-OTH	B-MISC#O	s
+5	Isafold	O	B-MISC#O	s
 6	mødtes	O	O#O	s
 7	i	O	O#O	s
 8	går	O	O#O	s
@@ -8513,7 +8513,7 @@
 1	Suzanne	B-PER	B-PER#O	s
 2	Swannie	I-PER	I-PER#O	s
 3	,	O	O#O	s
-4	dansk	B-OTH	B-LOCderiv#O	s
+4	dansk	O	B-LOCderiv#O	s
 5	tekstilkunstner	O	O#O	s
 6	som	O	O#O	s
 7	drevet	O	O#O	s
@@ -8548,7 +8548,7 @@
 
 # sent_id = train-v2-429
 # text = Mucomyst brusetabletter er et nyt og anerkendt hostemiddel, der kan bruges ved almindelig forkølelse, men som samtidig har vist sig at være utrolig effektivt ved akut-lindring og hos folk med kronisk bronkitis.
-1	Mucomyst	B-OTH	B-MISC#O	s
+1	Mucomyst	O	B-MISC#O	s
 2	brusetabletter	O	O#O	s
 3	er	O	O#O	s
 4	et	O	O#O	s
@@ -8685,7 +8685,7 @@
 7	det	O	O#O	s
 8	kun	O	O#O	s
 9	er	O	O#O	s
-10	slovakerne	B-OTH	B-LOCderiv#O	s
+10	slovakerne	O	B-LOCderiv#O	s
 11	,	O	O#O	s
 12	der	O	O#O	s
 13	er	O	O#O	s
@@ -8712,7 +8712,7 @@
 9	ud	O	O#O	s
 10	,	O	O#O	s
 11	da	O	O#O	s
-12	tyskerne	B-OTH	B-LOCderiv#O	s
+12	tyskerne	O	B-LOCderiv#O	s
 13	trak	O	O#O	s
 14	sig	O	O#O	s
 15	tilbage	O	O#O	s
@@ -8725,10 +8725,10 @@
 3	spare	O	O#O	s
 4	mellem	O	O#O	s
 5	220	O	O#O	s
-6	kr.	B-OTH	B-MISC#O	s
+6	kr.	O	B-MISC#O	s
 7	og	O	O#O	s
 8	270	O	O#O	s
-9	kr.	B-OTH	B-MISC#O	s
+9	kr.	O	B-MISC#O	s
 10	på	O	O#O	s
 11	vand-	O	O#O	s
 12	og	O	O#O	s
@@ -8764,21 +8764,21 @@
 # sent_id = train-v2-440
 # text = Nye danske ål koster 85 kr. pr. halvkg eller 30 kr. stk. 3 rødfiskefileter 60 kr..
 1	Nye	O	O#O	s
-2	danske	B-OTH	B-LOCderiv#O	s
+2	danske	O	B-LOCderiv#O	s
 3	ål	O	O#O	s
 4	koster	O	O#O	s
 5	85	O	O#O	s
-6	kr.	B-OTH	B-MISC#O	s
+6	kr.	O	B-MISC#O	s
 7	pr.	O	O#O	s
 8	halvkg	O	O#O	s
 9	eller	O	O#O	s
 10	30	O	O#O	s
-11	kr.	B-OTH	B-MISC#O	s
+11	kr.	O	B-MISC#O	s
 12	stk.	O	O#O	s
 13	3	O	O#O	s
 14	rødfiskefileter	O	O#O	s
 15	60	O	O#O	s
-16	kr.	B-OTH	B-MISC#O	s
+16	kr.	O	B-MISC#O	s
 17	.	O	O#O	s
 
 # sent_id = train-v2-441
@@ -8857,7 +8857,7 @@
 6	gamle	O	O#O	s
 7	Platon	B-PER	B-PER#O	s
 8	videregav	O	O#O	s
-9	Atlantis	B-OTH	B-MISC#O	s
+9	Atlantis	O	B-MISC#O	s
 10	historien	O	O#O	s
 11	som	O	O#O	s
 12	et	O	O#O	s
@@ -8984,7 +8984,7 @@
 8	fortjener	O	O#O	s
 9	opmærksomhed	O	O#O	s
 10	i	O	O#O	s
-11	dansk	B-OTH	B-LOCderiv#O	s
+11	dansk	O	B-LOCderiv#O	s
 12	arbejderhistorie	O	O#O	s
 13	.	O	O#O	s
 
@@ -9456,9 +9456,9 @@
 9	vi	O	O#O	s
 10	kan	O	O#O	s
 11	få	O	O#O	s
-12	norsk	B-OTH	B-LOCderiv#O	s
+12	norsk	O	B-LOCderiv#O	s
 13	og	O	O#O	s
-14	svensk	B-OTH	B-LOCderiv#O	s
+14	svensk	O	B-LOCderiv#O	s
 15	ind	O	O#O	s
 16	i	O	O#O	s
 17	danskundervisningen	B-LOC	B-LOCpart#B-LOCderiv	s
@@ -9687,14 +9687,14 @@
 2	er	O	O#O	s
 3	hele	O	O#O	s
 4	tre	O	O#O	s
-5	københavnske	B-OTH	B-LOCderiv#O	s
+5	københavnske	O	B-LOCderiv#O	s
 6	bispevalg	O	O#O	s
 7	siden	O	O#O	s
 8	.	O	O#O	s
 
 # sent_id = train-v2-492
 # text = Franskmændene f.eks. møder hinanden på en mere afslappet måde, de har en anden facon at være sammen på, end vi har.
-1	Franskmændene	B-OTH	B-LOCderiv#O	s
+1	Franskmændene	O	B-LOCderiv#O	s
 2	f.eks.	O	O#O	s
 3	møder	O	O#O	s
 4	hinanden	O	O#O	s
@@ -9855,7 +9855,7 @@
 16	konsekvens	O	O#O	s
 17	,	O	O#O	s
 18	at	O	O#O	s
-19	danske	B-OTH	B-LOCderiv#O	s
+19	danske	O	B-LOCderiv#O	s
 20	illustratorer	O	O#O	s
 21	fremover	O	O#O	s
 22	vil	O	O#O	s
@@ -10195,7 +10195,7 @@
 # sent_id = train-v2-517
 # text = Af dansk rockmusiks fremmeste håb at være, opfører de sig temmelig underligt.
 1	Af	O	O#O	s
-2	dansk	B-OTH	B-LOCderiv#O	s
+2	dansk	O	B-LOCderiv#O	s
 3	rockmusiks	O	O#O	s
 4	fremmeste	O	O#O	s
 5	håb	O	O#O	s
@@ -10339,7 +10339,7 @@
 12	,	O	O#O	s
 13	finansieret	O	O#O	s
 14	af	O	O#O	s
-15	spanske	B-OTH	B-LOCderiv#O	s
+15	spanske	O	B-LOCderiv#O	s
 16	lån	O	O#O	s
 17	gennem	O	O#O	s
 18	FLS'	B-ORG	B-ORG#O	s
@@ -10785,11 +10785,11 @@
 8	omstillingsprocessen	O	O#O	s
 9	fra	O	O#O	s
 10	boblende	O	O#O	s
-11	europæisk	B-OTH	B-LOCderiv#O	s
+11	europæisk	O	B-LOCderiv#O	s
 12	eufori	O	O#O	s
 13	til	O	O#O	s
 14	flad	O	O#O	s
-15	dansk	B-OTH	B-LOCderiv#O	s
+15	dansk	O	B-LOCderiv#O	s
 16	flegma	O	O#O	s
 17	,	O	O#O	s
 18	vil	O	O#O	s
@@ -10958,7 +10958,7 @@
 5	,	O	O#O	s
 6	og	O	O#O	s
 7	specielt	O	O#O	s
-8	Spækhuggeren	B-OTH	B-MISC#O	s
+8	Spækhuggeren	O	B-MISC#O	s
 9	har	O	O#O	s
 10	desuden	O	O#O	s
 11	domineret	O	O#O	s
@@ -10976,8 +10976,8 @@
 23	ved	O	O#O	s
 24	f.eks.	O	O#O	s
 25	"	O	O#O	s
-26	Sjælland	B-OTH	B-MISC#B-LOC	s
-27	Rundt	I-OTH	I-MISC#O	s
+26	Sjælland	O	B-MISC#B-LOC	s
+27	Rundt	O	I-MISC#O	s
 28	"	O	O#O	s
 29	.	O	O#O	s
 
@@ -11219,7 +11219,7 @@
 23	disse	O	O#O	s
 24	dage	O	O#O	s
 25	vises	O	O#O	s
-26	danske	B-OTH	B-LOCderiv#O	s
+26	danske	O	B-LOCderiv#O	s
 27	filmtrailere	O	O#O	s
 28	på	O	O#O	s
 29	video-storskærme	O	O#O	s
@@ -11229,7 +11229,7 @@
 33	med	O	O#O	s
 34	fribilletter	O	O#O	s
 35	til	O	O#O	s
-36	danske	B-OTH	B-LOCderiv#O	s
+36	danske	O	B-LOCderiv#O	s
 37	film	O	O#O	s
 38	som	O	O#O	s
 39	præmier	O	O#O	s
@@ -11273,7 +11273,7 @@
 4	store	O	O#O	s
 5	multi-nationale	O	O#O	s
 6	selskabers	O	O#O	s
-7	danske	B-OTH	B-LOCderiv#O	s
+7	danske	O	B-LOCderiv#O	s
 8	afdelinger	O	O#O	s
 9	,	O	O#O	s
 10	der	O	O#O	s
@@ -11295,7 +11295,7 @@
 8	kortege	O	O#O	s
 9	af	O	O#O	s
 10	gamle	O	O#O	s
-11	Citroën'er	B-OTH	B-ORGderiv#O	s
+11	Citroën'er	O	B-ORGderiv#O	s
 12	.	O	O#O	s
 
 # sent_id = train-v2-574
@@ -11410,10 +11410,10 @@
 3	næsten	O	O#O	s
 4	som	O	O#O	s
 5	"	O	O#O	s
-6	sejle	B-OTH	B-MISC#O	s
-7	op	I-OTH	I-MISC#O	s
-8	ad	I-OTH	I-MISC#O	s
-9	åen	I-OTH	I-MISC#O	s
+6	sejle	O	B-MISC#O	s
+7	op	O	I-MISC#O	s
+8	ad	O	I-MISC#O	s
+9	åen	O	I-MISC#O	s
 10	"	O	O#O	s
 11	.	O	O#O	s
 
@@ -11435,13 +11435,13 @@
 14	Jylland	B-LOC	B-LOC#O	s
 15	,	O	O#O	s
 16	overfart	O	O#O	s
-17	Frederikshavn-Göteborg	B-OTH	B-MISC#B-LOC	s
+17	Frederikshavn-Göteborg	O	B-MISC#B-LOC	s
 18	,	O	O#O	s
 19	bus	O	O#O	s
 20	til	O	O#O	s
 21	Branäs	B-LOC	B-LOC#O	s
 22	og	O	O#O	s
-23	dansk	B-OTH	B-LOCderiv#O	s
+23	dansk	O	B-LOCderiv#O	s
 24	skiguide	O	O#O	s
 25	.	O	O#O	s
 
@@ -11574,7 +11574,7 @@
 12	om	O	O#O	s
 13	den	O	O#O	s
 14	tidligere	O	O#O	s
-15	filippinske	B-OTH	B-LOCderiv#O	s
+15	filippinske	O	B-LOCderiv#O	s
 16	præsidentfrue	O	O#O	s
 17	,	O	O#O	s
 18	Imelda	B-PER	B-PER#O	s
@@ -11719,7 +11719,7 @@
 7	lejemorder	O	O#O	s
 8	for	O	O#O	s
 9	75	O	O#O	s
-10	kr.	B-OTH	B-MISC#O	s
+10	kr.	O	B-MISC#O	s
 11	,	O	O#O	s
 12	"	O	O#O	s
 13	fortæller	O	O#O	s
@@ -11771,7 +11771,7 @@
 # sent_id = train-v2-599
 # text = Den tyske finansminister gav dermed udtryk for, at regeringen i Bonn vil arbejde på at sikre, at den økonomiske stabilitet med D-marken i Tyskland fortsætter også efter, at den økonomiske og monetære union er indført i hele EF.
 1	Den	O	O#O	s
-2	tyske	B-OTH	B-LOCderiv#O	s
+2	tyske	O	B-LOCderiv#O	s
 3	finansminister	O	O#O	s
 4	gav	O	O#O	s
 5	dermed	O	O#O	s
@@ -11793,7 +11793,7 @@
 21	økonomiske	O	O#O	s
 22	stabilitet	O	O#O	s
 23	med	O	O#O	s
-24	D-marken	B-OTH	B-MISC#O	s
+24	D-marken	O	B-MISC#O	s
 25	i	O	O#O	s
 26	Tyskland	B-LOC	B-LOC#O	s
 27	fortsætter	O	O#O	s
@@ -11939,11 +11939,11 @@
 10	ny	O	O#O	s
 11	fase	O	O#O	s
 12	i	O	O#O	s
-13	dansk	B-OTH	B-LOCderiv#O	s
+13	dansk	O	B-LOCderiv#O	s
 14	politik	O	O#O	s
 15	efter	O	O#O	s
-16	anden	B-OTH	B-MISC#O	s
-17	verdenskrig	I-OTH	I-MISC#O	s
+16	anden	O	B-MISC#O	s
+17	verdenskrig	O	I-MISC#O	s
 18	.	O	O#O	s
 
 # sent_id = train-v2-607
@@ -12052,7 +12052,7 @@
 15	flertallet	O	O#O	s
 16	af	O	O#O	s
 17	vore	O	O#O	s
-18	tyske	B-OTH	B-LOCderiv#O	s
+18	tyske	O	B-LOCderiv#O	s
 19	medborgere	O	O#O	s
 20	slet	O	O#O	s
 21	ikke	O	O#O	s
@@ -12115,7 +12115,7 @@
 14	at	O	O#O	s
 15	den	O	O#O	s
 16	Danisco-ejede	B-ORG	B-ORGpart#O	s
-17	lollandske	B-OTH	B-LOCderiv#O	s
+17	lollandske	O	B-LOCderiv#O	s
 18	virksomhed	O	O#O	s
 19	er	O	O#O	s
 20	sikker	O	O#O	s
@@ -12315,7 +12315,7 @@
 5	tale	O	O#O	s
 6	om	O	O#O	s
 7	en	O	O#O	s
-8	dansk	B-OTH	B-LOCderiv#O	s
+8	dansk	O	B-LOCderiv#O	s
 9	bog	O	O#O	s
 10	med	O	O#O	s
 11	lidt	O	O#O	s
@@ -12462,7 +12462,7 @@
 5	til	O	O#O	s
 6	at	O	O#O	s
 7	overtage	O	O#O	s
-8	DOS-dominansen	B-OTH	B-MISCpart#O	s
+8	DOS-dominansen	O	B-MISCpart#O	s
 9	på	O	O#O	s
 10	skrivebordet	O	O#O	s
 11	.	O	O#O	s
@@ -12613,7 +12613,7 @@
 # sent_id = train-v2-635
 # text = De europæiske stålfabrikker befinder sig midt i den værste nedgang i ti år, uden udsigt til forbedring i år.
 1	De	O	O#O	s
-2	europæiske	B-OTH	B-LOCderiv#O	s
+2	europæiske	O	B-LOCderiv#O	s
 3	stålfabrikker	O	O#O	s
 4	befinder	O	O#O	s
 5	sig	O	O#O	s
@@ -12715,7 +12715,7 @@
 5	pr.	O	O#O	s
 6	kg	O	O#O	s
 7	er	O	O#O	s
-8	dansk	B-OTH	B-LOCderiv#O	s
+8	dansk	O	B-LOCderiv#O	s
 9	og	O	O#O	s
 10	slagteren	O	O#O	s
 11	foreslår	O	O#O	s
@@ -13073,9 +13073,9 @@
 11	mindre	O	O#O	s
 12	raket	O	O#O	s
 13	,	O	O#O	s
-14	Escort	B-OTH	B-MISC#O	s
-15	RS	I-OTH	I-MISC#O	s
-16	2000	I-OTH	I-MISC#O	s
+14	Escort	O	B-MISC#O	s
+15	RS	O	I-MISC#O	s
+16	2000	O	I-MISC#O	s
 17	med	O	O#O	s
 18	150	O	O#O	s
 19	hk.	O	O#O	s
@@ -13130,7 +13130,7 @@
 
 # sent_id = train-v2-662
 # text = Polakkerne havde jo lagt hårdt ud og og drillet vore spillere mere, end de brød sig om.
-1	Polakkerne	B-OTH	B-LOCderiv#O	s
+1	Polakkerne	O	B-LOCderiv#O	s
 2	havde	O	O#O	s
 3	jo	O	O#O	s
 4	lagt	O	O#O	s
@@ -13592,7 +13592,7 @@
 
 # sent_id = train-v2-686
 # text = Dansk skib
-1	Dansk	B-OTH	B-LOCderiv#O	s
+1	Dansk	O	B-LOCderiv#O	s
 2	skib	O	O#O	s
 
 # sent_id = train-v2-687
@@ -13879,7 +13879,7 @@
 36	,	O	O#O	s
 37	og	O	O#O	s
 38	en	O	O#O	s
-39	udlands-dansker	B-OTH	B-LOCderiv#B-LOCpart	s
+39	udlands-dansker	O	B-LOCderiv#B-LOCpart	s
 40	i	O	O#O	s
 41	Pattaya	B-LOC	B-LOC#O	s
 42	planlagde	O	O#O	s
@@ -14290,7 +14290,7 @@
 14	skaffet	O	O#O	s
 15	flere	O	O#O	s
 16	betydningsfulde	O	O#O	s
-17	irske	B-OTH	B-LOCderiv#O	s
+17	irske	O	B-LOCderiv#O	s
 18	mål	O	O#O	s
 19	.	O	O#O	s
 
@@ -14306,10 +14306,10 @@
 8	blandt	O	O#O	s
 9	andet	O	O#O	s
 10	en	O	O#O	s
-11	amerikaner	B-OTH	B-LOCderiv#O	s
+11	amerikaner	O	B-LOCderiv#O	s
 12	og	O	O#O	s
 13	tre	O	O#O	s
-14	malayer	B-OTH	B-LOCderiv#O	s
+14	malayer	O	B-LOCderiv#O	s
 15	.	O	O#O	s
 
 # sent_id = train-v2-721
@@ -14592,7 +14592,7 @@
 2	afslørede	O	O#O	s
 3	,	O	O#O	s
 4	at	O	O#O	s
-5	danskerne	B-OTH	B-LOCderiv#O	s
+5	danskerne	O	B-LOCderiv#O	s
 6	nærede	O	O#O	s
 7	en	O	O#O	s
 8	massiv	O	O#O	s
@@ -14767,7 +14767,7 @@
 3	Holiday-Inn-hotellet	B-ORG	B-ORG#O	s
 4	i	O	O#O	s
 5	den	O	O#O	s
-6	bosniske	B-OTH	B-LOCderiv#O	s
+6	bosniske	O	B-LOCderiv#O	s
 7	hovedstad	O	O#O	s
 8	er	O	O#O	s
 9	også	O	O#O	s
@@ -14967,7 +14967,7 @@
 12	til	O	O#O	s
 13	udstyr	O	O#O	s
 14	i	O	O#O	s
-15	japansk	B-OTH	B-LOCderiv#O	s
+15	japansk	O	B-LOCderiv#O	s
 16	topklasse	O	O#O	s
 17	.	O	O#O	s
 
@@ -15036,7 +15036,7 @@
 13	af	O	O#O	s
 14	den	O	O#O	s
 15	modige	O	O#O	s
-16	jyde	B-OTH	B-LOCderiv#O	s
+16	jyde	O	B-LOCderiv#O	s
 17	Finn	B-PER	B-PER#O	s
 18	Nørbygaard	I-PER	I-PER#O	s
 19	.	O	O#O	s
@@ -15136,7 +15136,7 @@
 1	MAKKERSKABET	O	O#O	s
 2	mellem	O	O#O	s
 3	den	O	O#O	s
-4	danske	B-OTH	B-LOCderiv#O	s
+4	danske	O	B-LOCderiv#O	s
 5	filminstruktør	O	O#O	s
 6	,	O	O#O	s
 7	Birger	B-PER	B-PER#O	s
@@ -15144,7 +15144,7 @@
 9	,	O	O#O	s
 10	og	O	O#O	s
 11	den	O	O#O	s
-12	svenske	B-OTH	B-LOCderiv#O	s
+12	svenske	O	B-LOCderiv#O	s
 13	forfatter	O	O#O	s
 14	,	O	O#O	s
 15	Ulf	B-PER	B-PER#O	s
@@ -15164,7 +15164,7 @@
 29	Bodil	B-ORG	B-ORG#B-PER	s
 30	for	O	O#O	s
 31	bedste	O	O#O	s
-32	danske	B-OTH	B-LOCderiv#O	s
+32	danske	O	B-LOCderiv#O	s
 33	film	O	O#O	s
 34	i	O	O#O	s
 35	1990	O	O#O	s
@@ -15238,7 +15238,7 @@
 3	ros	O	O#O	s
 4	skal	O	O#O	s
 5	det	O	O#O	s
-6	kinesiske	B-OTH	B-LOCderiv#O	s
+6	kinesiske	O	B-LOCderiv#O	s
 7	publikum	O	O#O	s
 8	ha'	O	O#O	s
 9	.	O	O#O	s
@@ -15267,7 +15267,7 @@
 2	vandt	O	O#O	s
 3	også	O	O#O	s
 4	det	O	O#O	s
-5	sjællandske	B-OTH	B-LOCderiv#O	s
+5	sjællandske	O	B-LOCderiv#O	s
 6	mesterskab	O	O#O	s
 7	sidste	O	O#O	s
 8	år	O	O#O	s
@@ -15579,7 +15579,7 @@
 
 # sent_id = train-v2-787
 # text = Danskerne er et folk, ikke nogen race, så når Den Danske Forening går ind for at forsvare det danske folk mod at blive fortrængt i eget land af bekvemmelighedsindvandrere, kan foreningen da ikke af den grund beskyldes for at være racistisk, som påstået af direktør Jens Sejersen og i en helt forkert dom af Gentofte Civilret, som er ærekrænkende for det danske folk.
-1	Danskerne	B-OTH	B-LOCderiv#O	s
+1	Danskerne	O	B-LOCderiv#O	s
 2	er	O	O#O	s
 3	et	O	O#O	s
 4	folk	O	O#O	s
@@ -15599,7 +15599,7 @@
 18	at	O	O#O	s
 19	forsvare	O	O#O	s
 20	det	O	O#O	s
-21	danske	B-OTH	B-LOCderiv#O	s
+21	danske	O	B-LOCderiv#O	s
 22	folk	O	O#O	s
 23	mod	O	O#O	s
 24	at	O	O#O	s
@@ -15645,7 +15645,7 @@
 64	ærekrænkende	O	O#O	s
 65	for	O	O#O	s
 66	det	O	O#O	s
-67	danske	B-OTH	B-LOCderiv#O	s
+67	danske	O	B-LOCderiv#O	s
 68	folk	O	O#O	s
 69	.	O	O#O	s
 
@@ -16481,7 +16481,7 @@
 13	koncerter	O	O#O	s
 14	,	O	O#O	s
 15	den	O	O#O	s
-16	norske	B-OTH	B-LOCderiv#O	s
+16	norske	O	B-LOCderiv#O	s
 17	sangerinde	O	O#O	s
 18	Sissel	B-PER	B-PER#O	s
 19	Kyrkjebø	I-PER	I-PER#O	s
@@ -16734,8 +16734,8 @@
 1	Budskabet	O	O#O	s
 2	i	O	O#O	s
 3	"	O	O#O	s
-4	Medicine	B-OTH	B-MISC#O	s
-5	Man	I-OTH	I-MISC#O	s
+4	Medicine	O	B-MISC#O	s
+5	Man	O	I-MISC#O	s
 6	"	O	O#O	s
 7	er	O	O#O	s
 8	stort	O	O#O	s
@@ -16761,7 +16761,7 @@
 3	tror	O	O#O	s
 4	tv-annonce-kampagner	O	O#O	s
 5	skader	O	O#O	s
-6	dansk	B-OTH	B-LOCderiv#O	s
+6	dansk	O	B-LOCderiv#O	s
 7	rock	O	O#O	s
 8	meget	O	O#O	s
 9	.	O	O#O	s
@@ -16888,8 +16888,8 @@
 4	Team	B-ORG	B-ORG#O	s
 5	Hokspeed	I-ORG	I-ORG#O	s
 6	til	O	O#O	s
-7	Nordic	B-OTH	B-MISC#O	s
-8	Cup	I-OTH	I-MISC#O	s
+7	Nordic	O	B-MISC#O	s
+8	Cup	O	I-MISC#O	s
 9	,	O	O#O	s
 10	og	O	O#O	s
 11	midt	O	O#O	s
@@ -16904,7 +16904,7 @@
 20	BMW-fabriksteam	B-ORG	B-ORGpart#O	s
 21	i	O	O#O	s
 22	det	O	O#O	s
-23	engelske	B-OTH	B-LOCderiv#O	s
+23	engelske	O	B-LOCderiv#O	s
 24	mesterskab	O	O#O	s
 25	.	O	O#O	s
 
@@ -17019,7 +17019,7 @@
 3	han	O	O#O	s
 4	i	O	O#O	s
 5	semifinalen	O	O#O	s
-6	polakken	B-OTH	B-LOCderiv#O	s
+6	polakken	O	B-LOCderiv#O	s
 7	Leszek	B-PER	B-PER#O	s
 8	Olszewski	I-PER	I-PER#O	s
 9	,	O	O#O	s
@@ -17098,14 +17098,14 @@
 3	to	O	O#O	s
 4	pænt	O	O#O	s
 5	klædte	O	O#O	s
-6	irakiske	B-OTH	B-LOCderiv#O	s
+6	irakiske	O	B-LOCderiv#O	s
 7	kurdere	O	O#O	s
 8	,	O	O#O	s
 9	som	O	O#O	s
 10	næsten	O	O#O	s
 11	taler	O	O#O	s
 12	flydende	O	O#O	s
-13	svensk	B-OTH	B-LOCderiv#O	s
+13	svensk	O	B-LOCderiv#O	s
 14	.	O	O#O	s
 
 # sent_id = train-v2-854
@@ -17200,9 +17200,9 @@
 
 # sent_id = train-v2-859
 # text = Dansk og engelsk humor ligner hinanden meget.
-1	Dansk	B-OTH	B-LOCderiv#O	s
+1	Dansk	O	B-LOCderiv#O	s
 2	og	O	O#O	s
-3	engelsk	B-OTH	B-LOCderiv#O	s
+3	engelsk	O	B-LOCderiv#O	s
 4	humor	O	O#O	s
 5	ligner	O	O#O	s
 6	hinanden	O	O#O	s
@@ -17221,7 +17221,7 @@
 8	med	O	O#O	s
 9	fem	O	O#O	s
 10	andre	O	O#O	s
-11	danske	B-OTH	B-LOCderiv#O	s
+11	danske	O	B-LOCderiv#O	s
 12	skoler	O	O#O	s
 13	inviteret	O	O#O	s
 14	til	O	O#O	s
@@ -17370,8 +17370,8 @@
 
 # sent_id = train-v2-868
 # text = opus VII blev hørt af offentligeheden første gang i 1720.
-1	opus	B-OTH	B-MISC#O	s
-2	VII	I-OTH	I-MISC#O	s
+1	opus	O	B-MISC#O	s
+2	VII	O	I-MISC#O	s
 3	blev	O	O#O	s
 4	hørt	O	O#O	s
 5	af	O	O#O	s
@@ -17540,7 +17540,7 @@
 4	Olsen	I-PER	I-PER#O	s
 5	før	O	O#O	s
 6	hver	O	O#O	s
-7	Superliga-kamp	B-OTH	B-MISCpart#O	s
+7	Superliga-kamp	O	B-MISCpart#O	s
 8	våger	O	O#O	s
 9	og	O	O#O	s
 10	vogter	O	O#O	s
@@ -17626,9 +17626,9 @@
 34	at	O	O#O	s
 35	komme	O	O#O	s
 36	til	O	O#O	s
-37	De	B-OTH	B-MISC#B-ORG	s
-38	Olympiske	I-OTH	I-MISC#I-ORG	s
-39	Lege	I-OTH	I-MISC#I-ORG	s
+37	De	O	B-MISC#B-ORG	s
+38	Olympiske	O	I-MISC#I-ORG	s
+39	Lege	O	I-MISC#I-ORG	s
 40	,	O	O#O	s
 41	"	O	O#O	s
 42	sagde	O	O#O	s
@@ -17859,7 +17859,7 @@
 7	hvor	O	O#O	s
 8	en	O	O#O	s
 9	ung	O	O#O	s
-10	dansk	B-OTH	B-LOCderiv#O	s
+10	dansk	O	B-LOCderiv#O	s
 11	pige	O	O#O	s
 12	tilbringer	O	O#O	s
 13	en	O	O#O	s
@@ -17997,7 +17997,7 @@
 4	,	O	O#O	s
 5	der	O	O#O	s
 6	gør	O	O#O	s
-7	dansk	B-OTH	B-LOCderiv#O	s
+7	dansk	O	B-LOCderiv#O	s
 8	industri	O	O#O	s
 9	konkurrencedygtig	O	O#O	s
 10	.	O	O#O	s
@@ -18068,7 +18068,7 @@
 # sent_id = train-v2-898
 # text = "Kineserne er skuffede over Danmarks holdning.
 1	"	O	O#O	s
-2	Kineserne	B-OTH	B-LOCderiv#O	s
+2	Kineserne	O	B-LOCderiv#O	s
 3	er	O	O#O	s
 4	skuffede	O	O#O	s
 5	over	O	O#O	s
@@ -18118,7 +18118,7 @@
 21	den	O	O#O	s
 22	liga	O	O#O	s
 23	af	O	O#O	s
-24	danskere	B-OTH	B-LOCderiv#O	s
+24	danskere	O	B-LOCderiv#O	s
 25	,	O	O#O	s
 26	der	O	O#O	s
 27	ifølge	O	O#O	s
@@ -18176,7 +18176,7 @@
 10	men	O	O#O	s
 11	det	O	O#O	s
 12	forbløffede	O	O#O	s
-13	danske	B-OTH	B-LOCderiv#O	s
+13	danske	O	B-LOCderiv#O	s
 14	par	O	O#O	s
 15	skulle	O	O#O	s
 16	snart	O	O#O	s
@@ -18327,7 +18327,7 @@
 5	hemmelighed	O	O#O	s
 6	,	O	O#O	s
 7	at	O	O#O	s
-8	danske	B-OTH	B-LOCderiv#O	s
+8	danske	O	B-LOCderiv#O	s
 9	films	O	O#O	s
 10	markedsandel	O	O#O	s
 11	har	O	O#O	s
@@ -18358,8 +18358,8 @@
 6	Herning	B-ORG	B-ORG#B-LOC	s
 7	Kommune	I-ORG	I-ORG#O	s
 8	på	O	O#O	s
-9	Mona	B-OTH	B-MISC#O	s
-10	Lisas	I-OTH	I-MISC#O	s
+9	Mona	O	B-MISC#O	s
+10	Lisas	O	I-MISC#O	s
 11	sagsmappe	O	O#O	s
 12	,	O	O#O	s
 13	at	O	O#O	s
@@ -18371,8 +18371,8 @@
 19	for	O	O#O	s
 20	psykologsamtaler	O	O#O	s
 21	til	O	O#O	s
-22	Mona	B-OTH	B-MISC#O	s
-23	Lisa	I-OTH	I-MISC#O	s
+22	Mona	O	B-MISC#O	s
+23	Lisa	O	I-MISC#O	s
 24	.	O	O#O	s
 
 # sent_id = train-v2-910
@@ -18430,7 +18430,7 @@
 # sent_id = train-v2-913
 # text = Den jyske familiefar forklarede i retten, at han aldrig har fået at vide, hvad han er beskyldt for, og at det har været en alvorlig belastning for ham, og at det førte til, at han blev syg.
 1	Den	O	O#O	s
-2	jyske	B-OTH	B-LOCderiv#O	s
+2	jyske	O	B-LOCderiv#O	s
 3	familiefar	O	O#O	s
 4	forklarede	O	O#O	s
 5	i	O	O#O	s
@@ -18734,7 +18734,7 @@
 
 # sent_id = train-v2-926
 # text = Unforgettable - hedder den Grammy-belønnede duet mellem Natalie Cole og hendes far, Nat King Cole, der forlod denne verden for 27 år siden.
-1	Unforgettable	B-OTH	B-MISC#O	s
+1	Unforgettable	O	B-MISC#O	s
 2	-	O	O#O	s
 3	hedder	O	O#O	s
 4	den	O	O#O	s
@@ -18812,7 +18812,7 @@
 12	tredages-tur	O	O#O	s
 13	til	O	O#O	s
 14	den	O	O#O	s
-15	østfrisiske	B-OTH	B-LOCderiv#O	s
+15	østfrisiske	O	B-LOCderiv#O	s
 16	ø	O	O#O	s
 17	,	O	O#O	s
 18	Norderney	B-LOC	B-LOC#O	s
@@ -18871,7 +18871,7 @@
 2	kendere	O	O#O	s
 3	af	O	O#O	s
 4	den	O	O#O	s
-5	skotske	B-OTH	B-LOCderiv#O	s
+5	skotske	O	B-LOCderiv#O	s
 6	sækkepibe	O	O#O	s
 7	(	O	O#O	s
 8	ikke	O	O#O	s
@@ -19007,7 +19007,7 @@
 29	særdeleshed	O	O#O	s
 30	om	O	O#O	s
 31	"	O	O#O	s
-32	Oktophonie	B-OTH	B-MISC#O	s
+32	Oktophonie	O	B-MISC#O	s
 33	"	O	O#O	s
 34	.	O	O#O	s
 
@@ -19308,7 +19308,7 @@
 5	udbetaling	O	O#O	s
 6	hos	O	O#O	s
 7	enhver	O	O#O	s
-8	dansk	B-OTH	B-LOCderiv#O	s
+8	dansk	O	B-LOCderiv#O	s
 9	SAS-pilot	B-ORG	B-ORGpart#O	s
 10	,	O	O#O	s
 11	der	O	O#O	s
@@ -19356,12 +19356,12 @@
 6	af	O	O#O	s
 7	de	O	O#O	s
 8	forskellige	O	O#O	s
-9	europæiske	B-OTH	B-LOCderiv#O	s
+9	europæiske	O	B-LOCderiv#O	s
 10	kulturer	O	O#O	s
 11	,	O	O#O	s
 12	en	O	O#O	s
 13	slags	O	O#O	s
-14	amerikanisering	B-OTH	B-LOCderiv#O	s
+14	amerikanisering	O	B-LOCderiv#O	s
 15	,	O	O#O	s
 16	via	O	O#O	s
 17	de	O	O#O	s
@@ -19509,14 +19509,14 @@
 13	,	O	O#O	s
 14	var	O	O#O	s
 15	60	O	O#O	s
-16	armenske	B-OTH	B-LOCderiv#O	s
+16	armenske	O	B-LOCderiv#O	s
 17	huse	O	O#O	s
 18	blevet	O	O#O	s
 19	brændt	O	O#O	s
 20	ned	O	O#O	s
 21	af	O	O#O	s
 22	rasende	O	O#O	s
-23	aserbajdsjanske	B-OTH	B-LOCderiv#O	s
+23	aserbajdsjanske	O	B-LOCderiv#O	s
 24	grupper	O	O#O	s
 25	.	O	O#O	s
 
@@ -19661,11 +19661,11 @@
 4	fik	O	O#O	s
 5	sin	O	O#O	s
 6	"	O	O#O	s
-7	Diana	B-OTH	B-MISC#B-PER	s
-8	-	I-OTH	I-MISC#O	s
-9	Her	I-OTH	I-MISC#O	s
-10	True	I-OTH	I-MISC#O	s
-11	Story	I-OTH	I-MISC#O	s
+7	Diana	O	B-MISC#B-PER	s
+8	-	O	I-MISC#O	s
+9	Her	O	I-MISC#O	s
+10	True	O	I-MISC#O	s
+11	Story	O	I-MISC#O	s
 12	"	O	O#O	s
 13	på	O	O#O	s
 14	gaden	O	O#O	s
@@ -19705,7 +19705,7 @@
 2	,	O	O#O	s
 3	afledt	O	O#O	s
 4	af	O	O#O	s
-5	fransk	B-OTH	B-LOCderiv#O	s
+5	fransk	O	B-LOCderiv#O	s
 6	,	O	O#O	s
 7	og	O	O#O	s
 8	betyder	O	O#O	s
@@ -19873,7 +19873,7 @@
 13	er	O	O#O	s
 14	bundet	O	O#O	s
 15	et	O	O#O	s
-16	dannebrogsflag	B-OTH	B-MISC#O	s
+16	dannebrogsflag	O	B-MISC#O	s
 17	på	O	O#O	s
 18	hver	O	O#O	s
 19	visker	O	O#O	s
@@ -20188,7 +20188,7 @@
 
 # sent_id = train-v2-998
 # text = Dansk.
-1	Dansk	B-OTH	B-LOCderiv#O	s
+1	Dansk	O	B-LOCderiv#O	s
 2	.	O	O#O	s
 
 # sent_id = train-v2-999
@@ -20202,7 +20202,7 @@
 7	,	O	O#O	s
 8	får	O	O#O	s
 9	vi	O	O#O	s
-10	jugoslaviske	B-OTH	B-LOCderiv#O	s
+10	jugoslaviske	O	B-LOCderiv#O	s
 11	tilstande	O	O#O	s
 12	,	O	O#O	s
 13	"	O	O#O	s
@@ -20253,8 +20253,8 @@
 17	nåede	O	O#O	s
 18	semifinalen	O	O#O	s
 19	i	O	O#O	s
-20	Europa	B-OTH	B-MISC#B-LOC	s
-21	Cup'en	I-OTH	I-MISC#O	s
+20	Europa	O	B-MISC#B-LOC	s
+21	Cup'en	O	I-MISC#O	s
 22	.	O	O#O	s
 
 # sent_id = train-v2-1002
@@ -20414,7 +20414,7 @@
 24	kan	O	O#O	s
 25	være	O	O#O	s
 26	mere	O	O#O	s
-27	fransk	B-OTH	B-LOCderiv#O	s
+27	fransk	O	B-LOCderiv#O	s
 28	,	O	O#O	s
 29	og	O	O#O	s
 30	som	O	O#O	s
@@ -20851,9 +20851,9 @@
 7	i	O	O#O	s
 8	serien	O	O#O	s
 9	"	O	O#O	s
-10	Den	B-OTH	B-MISC#O	s
-11	offentlige	I-OTH	I-MISC#O	s
-12	mening	I-OTH	I-MISC#O	s
+10	Den	O	B-MISC#O	s
+11	offentlige	O	I-MISC#O	s
+12	mening	O	I-MISC#O	s
 13	,	O	O#O	s
 14	denne	O	O#O	s
 15	gang	O	O#O	s
@@ -20952,7 +20952,7 @@
 2	,	O	O#O	s
 3	den	O	O#O	s
 4	tidligere	O	O#O	s
-5	amerikanske	B-OTH	B-LOCderiv#O	s
+5	amerikanske	O	B-LOCderiv#O	s
 6	udenrigsminister	O	O#O	s
 7	Cyrus	B-PER	B-PER#O	s
 8	Vance's	I-PER	I-PER#O	s
@@ -21076,7 +21076,7 @@
 3	grundlaget	O	O#O	s
 4	for	O	O#O	s
 5	mange	O	O#O	s
-6	tyrkiske	B-OTH	B-LOCderiv#O	s
+6	tyrkiske	O	B-LOCderiv#O	s
 7	hovedretter	O	O#O	s
 8	,	O	O#O	s
 9	men	O	O#O	s
@@ -21198,7 +21198,7 @@
 21	lejesoldater	O	O#O	s
 22	for	O	O#O	s
 23	en	O	O#O	s
-24	amerikansk	B-OTH	B-LOCderiv#O	s
+24	amerikansk	O	B-LOCderiv#O	s
 25	organisation	O	O#O	s
 26	.	O	O#O	s
 
@@ -21345,7 +21345,7 @@
 5	letvægts-teknologi	O	O#O	s
 6	vil	O	O#O	s
 7	de	O	O#O	s
-8	danske	B-OTH	B-LOCderiv#O	s
+8	danske	O	B-LOCderiv#O	s
 9	forskere	O	O#O	s
 10	løse	O	O#O	s
 11	en	O	O#O	s
@@ -21573,7 +21573,7 @@
 40	Llosa	I-PER	I-PER#O	s
 41	eller	O	O#O	s
 42	deres	O	O#O	s
-43	europæiske	B-OTH	B-LOCderiv#O	s
+43	europæiske	O	B-LOCderiv#O	s
 44	slægtninge	O	O#O	s
 45	Italo	B-PER	B-PER#O	s
 46	Calvino	I-PER	I-PER#O	s
@@ -21718,8 +21718,8 @@
 32	altså	O	O#O	s
 33	have	O	O#O	s
 34	en	O	O#O	s
-35	Sort	B-OTH	B-MISC#O	s
-36	Guld	I-OTH	I-MISC#O	s
+35	Sort	O	B-MISC#O	s
+36	Guld	O	I-MISC#O	s
 37	,	O	O#O	s
 38	inden	O	O#O	s
 39	du	O	O#O	s
@@ -22128,8 +22128,8 @@
 11	,	O	O#O	s
 12	i	O	O#O	s
 13	"	O	O#O	s
-14	Køkkengudens	B-OTH	B-MISC#O	s
-15	hustru	I-OTH	I-MISC#O	s
+14	Køkkengudens	O	B-MISC#O	s
+15	hustru	O	I-MISC#O	s
 16	"	O	O#O	s
 17	.	O	O#O	s
 
@@ -22385,7 +22385,7 @@
 7	,	O	O#O	s
 8	varsler	O	O#O	s
 9	ingen	O	O#O	s
-10	VM-billet	B-OTH	B-MISCpart#O	s
+10	VM-billet	O	B-MISCpart#O	s
 11	til	O	O#O	s
 12	Danmark	B-ORG	B-ORG#B-LOC	s
 13	i	O	O#O	s
@@ -22498,7 +22498,7 @@
 10	minder	O	O#O	s
 11	om	O	O#O	s
 12	den	O	O#O	s
-13	græske	B-OTH	B-LOCderiv#O	s
+13	græske	O	B-LOCderiv#O	s
 14	ouzo	O	O#O	s
 15	.	O	O#O	s
 
@@ -22652,7 +22652,7 @@
 20	i	O	O#O	s
 21	et	O	O#O	s
 22	andet	O	O#O	s
-23	europæisk	B-OTH	B-LOCderiv#O	s
+23	europæisk	O	B-LOCderiv#O	s
 24	land	O	O#O	s
 25	.	O	O#O	s
 
@@ -22762,8 +22762,8 @@
 6	,	O	O#O	s
 7	der	O	O#O	s
 8	meddeles	O	O#O	s
-9	Mona	B-OTH	B-MISC#O	s
-10	Lisa	I-OTH	I-MISC#O	s
+9	Mona	O	B-MISC#O	s
+10	Lisa	O	I-MISC#O	s
 11	i	O	O#O	s
 12	et	O	O#O	s
 13	brev	O	O#O	s
@@ -22886,8 +22886,8 @@
 10	hedder	O	O#O	s
 11	-	O	O#O	s
 12	af	O	O#O	s
-13	Højlunds	B-OTH	B-MISC#B-PER	s
-14	Forsamlingshus	I-OTH	I-MISC#O	s
+13	Højlunds	O	B-MISC#B-PER	s
+14	Forsamlingshus	O	I-MISC#O	s
 15	,	O	O#O	s
 16	der	O	O#O	s
 17	havde	O	O#O	s
@@ -23240,7 +23240,7 @@
 5	for	O	O#O	s
 6	eksport	O	O#O	s
 7	af	O	O#O	s
-8	japanske	B-OTH	B-LOCderiv#O	s
+8	japanske	O	B-LOCderiv#O	s
 9	biler	O	O#O	s
 10	til	O	O#O	s
 11	Europa	B-LOC	B-LOC#O	s
@@ -23258,7 +23258,7 @@
 23	disse	O	O#O	s
 24	har	O	O#O	s
 25	den	O	O#O	s
-26	danske	B-OTH	B-LOCderiv#O	s
+26	danske	O	B-LOCderiv#O	s
 27	importør	O	O#O	s
 28	fået	O	O#O	s
 29	tildelt	O	O#O	s
@@ -23407,7 +23407,7 @@
 6	forhandlet	O	O#O	s
 7	med	O	O#O	s
 8	de	O	O#O	s
-9	serbiske	B-OTH	B-LOCderiv#O	s
+9	serbiske	O	B-LOCderiv#O	s
 10	ledere	O	O#O	s
 11	og	O	O#O	s
 12	gjort	O	O#O	s
@@ -23623,7 +23623,7 @@
 
 # sent_id = train-v2-1156
 # text = Danske culotter sælges for 150 kr. pr. kg, kalvelever for 60 kr. pr. kg..
-1	Danske	B-OTH	B-LOCderiv#O	s
+1	Danske	O	B-LOCderiv#O	s
 2	culotter	O	O#O	s
 3	sælges	O	O#O	s
 4	for	O	O#O	s
@@ -23715,7 +23715,7 @@
 22	dag	O	O#O	s
 23	ejes	O	O#O	s
 24	af	O	O#O	s
-25	tyskere	B-OTH	B-LOCderiv#O	s
+25	tyskere	O	B-LOCderiv#O	s
 26	.	O	O#O	s
 
 # sent_id = train-v2-1159
@@ -23786,7 +23786,7 @@
 4	i	O	O#O	s
 5	en	O	O#O	s
 6	stærk	O	O#O	s
-7	engelsk	B-OTH	B-LOCderiv#O	s
+7	engelsk	O	B-LOCderiv#O	s
 8	tradition	O	O#O	s
 9	for	O	O#O	s
 10	begavet	O	O#O	s
@@ -23957,7 +23957,7 @@
 3	på	O	O#O	s
 4	midtbanen	O	O#O	s
 5	i	O	O#O	s
-6	dansk	B-OTH	B-LOCderiv#O	s
+6	dansk	O	B-LOCderiv#O	s
 7	politik	O	O#O	s
 8	,	O	O#O	s
 9	vinder	O	O#O	s
@@ -24138,7 +24138,7 @@
 4	jeg	O	O#O	s
 5	ikke	O	O#O	s
 6	,	O	O#O	s
-7	tyskerne	B-OTH	B-LOCderiv#O	s
+7	tyskerne	O	B-LOCderiv#O	s
 8	og	O	O#O	s
 9	spanierne	O	O#O	s
 10	har	O	O#O	s
@@ -24315,7 +24315,7 @@
 25	laboratorium	O	O#O	s
 26	på	O	O#O	s
 27	den	O	O#O	s
-28	lollandske	B-OTH	B-LOCderiv#O	s
+28	lollandske	O	B-LOCderiv#O	s
 29	afdeling	O	O#O	s
 30	af	O	O#O	s
 31	Maribo	B-ORG	B-ORG#B-LOC	s
@@ -24338,7 +24338,7 @@
 12	i	O	O#O	s
 13	kvarten	O	O#O	s
 14	mod	O	O#O	s
-15	kineseren	B-OTH	B-LOCderiv#O	s
+15	kineseren	O	B-LOCderiv#O	s
 16	Wan	B-PER	B-PER#O	s
 17	Shengwen	I-PER	I-PER#O	s
 18	:	O	O#O	s
@@ -24587,7 +24587,7 @@
 7	,	O	O#O	s
 8	som	O	O#O	s
 9	efter	O	O#O	s
-10	græsk	B-OTH	B-LOCderiv#O	s
+10	græsk	O	B-LOCderiv#O	s
 11	opfattelse	O	O#O	s
 12	er	O	O#O	s
 13	betegnelsen	O	O#O	s
@@ -24750,7 +24750,7 @@
 1	Selv	O	O#O	s
 2	om	O	O#O	s
 3	den	O	O#O	s
-4	danske	B-OTH	B-LOCderiv#O	s
+4	danske	O	B-LOCderiv#O	s
 5	rente	O	O#O	s
 6	og	O	O#O	s
 7	valutakurs	O	O#O	s
@@ -24781,7 +24781,7 @@
 32	store	O	O#O	s
 33	konsekvenser	O	O#O	s
 34	for	O	O#O	s
-35	dansk	B-OTH	B-LOCderiv#O	s
+35	dansk	O	B-LOCderiv#O	s
 36	eksport	O	O#O	s
 37	.	O	O#O	s
 
@@ -24921,7 +24921,7 @@
 6	i	O	O#O	s
 7	projekt	O	O#O	s
 8	"	O	O#O	s
-9	Æterdrama	B-OTH	B-MISC#O	s
+9	Æterdrama	O	B-MISC#O	s
 10	"	O	O#O	s
 11	i	O	O#O	s
 12	foråret	O	O#O	s
@@ -24930,13 +24930,13 @@
 15	instrueret	O	O#O	s
 16	hans	O	O#O	s
 17	komedie	O	O#O	s
-18	Hvor	B-OTH	B-MISC#O	s
-19	er	I-OTH	I-MISC#O	s
-20	det	I-OTH	I-MISC#O	s
-21	dog	I-OTH	I-MISC#O	s
-22	synd	I-OTH	I-MISC#O	s
-23	for	I-OTH	I-MISC#O	s
-24	Dora	I-OTH	I-MISC#O	s
+18	Hvor	O	B-MISC#O	s
+19	er	O	I-MISC#O	s
+20	det	O	I-MISC#O	s
+21	dog	O	I-MISC#O	s
+22	synd	O	I-MISC#O	s
+23	for	O	I-MISC#O	s
+24	Dora	O	I-MISC#O	s
 25	.	O	O#O	s
 
 # sent_id = train-v2-1212
@@ -25096,7 +25096,7 @@
 10	års	O	O#O	s
 11	tid	O	O#O	s
 12	,	O	O#O	s
-13	Empressa	B-OTH	B-MISC#O	s
+13	Empressa	O	B-MISC#O	s
 14	,	O	O#O	s
 15	som	O	O#O	s
 16	formentlig	O	O#O	s
@@ -25107,7 +25107,7 @@
 21	indlemmes	O	O#O	s
 22	i	O	O#O	s
 23	det	O	O#O	s
-24	danske	B-OTH	B-LOCderiv#O	s
+24	danske	O	B-LOCderiv#O	s
 25	modelprogram	O	O#O	s
 26	.	O	O#O	s
 
@@ -25514,17 +25514,17 @@
 2	Nu	O	O#O	s
 3	bliver	O	O#O	s
 4	jeg	O	O#O	s
-5	kineser	B-OTH	B-LOCderiv#O	s
+5	kineser	O	B-LOCderiv#O	s
 6	,	O	O#O	s
 7	"	O	O#O	s
 8	siger	O	O#O	s
 9	datteren	O	O#O	s
 10	i	O	O#O	s
 11	"	O	O#O	s
-12	Klub	B-OTH	B-MISC#O	s
-13	Held	I-OTH	I-MISC#O	s
-14	og	I-OTH	I-MISC#O	s
-15	Glæde	I-OTH	I-MISC#O	s
+12	Klub	O	B-MISC#O	s
+13	Held	O	I-MISC#O	s
+14	og	O	I-MISC#O	s
+15	Glæde	O	I-MISC#O	s
 16	"	O	O#O	s
 17	,	O	O#O	s
 18	da	O	O#O	s
@@ -25532,7 +25532,7 @@
 20	kører	O	O#O	s
 21	over	O	O#O	s
 22	den	O	O#O	s
-23	kinesiske	B-OTH	B-LOCderiv#O	s
+23	kinesiske	O	B-LOCderiv#O	s
 24	grænse	O	O#O	s
 25	.	O	O#O	s
 
@@ -25664,7 +25664,7 @@
 13	siger	O	O#O	s
 14	den	O	O#O	s
 15	23-årige	O	O#O	s
-16	dansker	B-OTH	B-LOCderiv#O	s
+16	dansker	O	B-LOCderiv#O	s
 17	afværgende	O	O#O	s
 18	.	O	O#O	s
 
@@ -26056,13 +26056,13 @@
 # sent_id = train-v2-1261
 # text = Siden Anden Verdenskrig har alle vindere af amerikanske præsidentvalg sejret i deres hjemstater, og det samme gælder alle tabere bortset fra Adlai Stevenson og George McGovern.
 1	Siden	O	O#O	s
-2	Anden	B-OTH	B-MISC#O	s
-3	Verdenskrig	I-OTH	I-MISC#O	s
+2	Anden	O	B-MISC#O	s
+3	Verdenskrig	O	I-MISC#O	s
 4	har	O	O#O	s
 5	alle	O	O#O	s
 6	vindere	O	O#O	s
 7	af	O	O#O	s
-8	amerikanske	B-OTH	B-LOCderiv#O	s
+8	amerikanske	O	B-LOCderiv#O	s
 9	præsidentvalg	O	O#O	s
 10	sejret	O	O#O	s
 11	i	O	O#O	s
@@ -26226,7 +26226,7 @@
 22	og	O	O#O	s
 23	Tuborgs	B-ORG	B-ORG#O	s
 24	to	O	O#O	s
-25	københavnske	B-OTH	B-LOCderiv#O	s
+25	københavnske	O	B-LOCderiv#O	s
 26	bryggerier	O	O#O	s
 27	i	O	O#O	s
 28	ét	O	O#O	s
@@ -26370,7 +26370,7 @@
 7	hvilken	O	O#O	s
 8	som	O	O#O	s
 9	helst	O	O#O	s
-10	fransk	B-OTH	B-LOCderiv#O	s
+10	fransk	O	B-LOCderiv#O	s
 11	film	O	O#O	s
 12	-	O	O#O	s
 13	kriminalfilm	O	O#O	s
@@ -26546,8 +26546,8 @@
 6	ikke	O	O#O	s
 7	som	O	O#O	s
 8	"	O	O#O	s
-9	Twin	B-OTH	B-MISC#O	s
-10	Peaks	I-OTH	I-MISC#O	s
+9	Twin	O	B-MISC#O	s
+10	Peaks	O	I-MISC#O	s
 11	"	O	O#O	s
 12	.	O	O#O	s
 
@@ -26701,7 +26701,7 @@
 1	På	O	O#O	s
 2	tirsdag	O	O#O	s
 3	åbner	O	O#O	s
-4	ACO	B-OTH	B-MISC#B-ORG	s
+4	ACO	O	B-MISC#B-ORG	s
 5	for	O	O#O	s
 6	tilmeldinger	O	O#O	s
 7	til	O	O#O	s
@@ -26900,7 +26900,7 @@
 18	udviklingen	O	O#O	s
 19	i	O	O#O	s
 20	den	O	O#O	s
-21	tyske	B-OTH	B-LOCderiv#O	s
+21	tyske	O	B-LOCderiv#O	s
 22	republik	O	O#O	s
 23	.	O	O#O	s
 
@@ -26998,7 +26998,7 @@
 
 # sent_id = train-v2-1308
 # text = Svenskerne var helt utrolige.
-1	Svenskerne	B-OTH	B-LOCderiv#O	s
+1	Svenskerne	O	B-LOCderiv#O	s
 2	var	O	O#O	s
 3	helt	O	O#O	s
 4	utrolige	O	O#O	s
@@ -27107,7 +27107,7 @@
 8	sagde	O	O#O	s
 9	til	O	O#O	s
 10	det	O	O#O	s
-11	svenske	B-OTH	B-LOCderiv#O	s
+11	svenske	O	B-LOCderiv#O	s
 12	nyhedsbureau	O	O#O	s
 13	,	O	O#O	s
 14	at	O	O#O	s
@@ -27368,8 +27368,8 @@
 7	hvert	O	O#O	s
 8	år	O	O#O	s
 9	sejler	O	O#O	s
-10	Sjælland	B-OTH	B-MISC#B-LOC	s
-11	Rundt	I-OTH	I-MISC#O	s
+10	Sjælland	O	B-MISC#B-LOC	s
+11	Rundt	O	I-MISC#O	s
 12	med	O	O#O	s
 13	sin	O	O#O	s
 14	søn	O	O#O	s
@@ -27486,7 +27486,7 @@
 # sent_id = train-v2-1334
 # text = Det armenske kvarter bliver sikkert bevogtet af soldater.
 1	Det	O	O#O	s
-2	armenske	B-OTH	B-LOCderiv#O	s
+2	armenske	O	B-LOCderiv#O	s
 3	kvarter	O	O#O	s
 4	bliver	O	O#O	s
 5	sikkert	O	O#O	s
@@ -27726,18 +27726,18 @@
 3	kærlighedstemaet	O	O#O	s
 4	,	O	O#O	s
 5	"	O	O#O	s
-6	Up	B-OTH	B-MISC#O	s
-7	Where	I-OTH	I-MISC#O	s
-8	We	I-OTH	I-MISC#O	s
-9	Belong	I-OTH	I-MISC#O	s
+6	Up	O	B-MISC#O	s
+7	Where	O	I-MISC#O	s
+8	We	O	I-MISC#O	s
+9	Belong	O	I-MISC#O	s
 10	fra	O	O#O	s
 11	filmen	O	O#O	s
 12	"	O	O#O	s
-13	An	B-OTH	B-MISC#O	s
-14	Officer	I-OTH	I-MISC#O	s
-15	&	I-OTH	I-MISC#O	s
-16	A	I-OTH	I-MISC#O	s
-17	Gentleman	I-OTH	I-MISC#O	s
+13	An	O	B-MISC#O	s
+14	Officer	O	I-MISC#O	s
+15	&	O	I-MISC#O	s
+16	A	O	I-MISC#O	s
+17	Gentleman	O	I-MISC#O	s
 18	"	O	O#O	s
 19	,	O	O#O	s
 20	og	O	O#O	s
@@ -27908,14 +27908,14 @@
 4	den	O	O#O	s
 5	store	O	O#O	s
 6	mellemklassebil	O	O#O	s
-7	Croma	B-OTH	B-MISC#O	s
+7	Croma	O	B-MISC#O	s
 8	-	O	O#O	s
 9	der	O	O#O	s
 10	deler	O	O#O	s
 11	karosseri	O	O#O	s
 12	med	O	O#O	s
-13	Saab	B-OTH	B-MISC#B-ORG	s
-14	9000	I-OTH	I-MISC#O	s
+13	Saab	O	B-MISC#B-ORG	s
+14	9000	O	I-MISC#O	s
 15	-	O	O#O	s
 16	er	O	O#O	s
 17	nylig	O	O#O	s
@@ -27970,7 +27970,7 @@
 17	gang	O	O#O	s
 18	køber	O	O#O	s
 19	en	O	O#O	s
-20	tyrkisk	B-OTH	B-LOCderiv#O	s
+20	tyrkisk	O	B-LOCderiv#O	s
 21	avis	O	O#O	s
 22	af	O	O#O	s
 23	hensyn	O	O#O	s
@@ -27999,7 +27999,7 @@
 7	premiere	O	O#O	s
 8	i	O	O#O	s
 9	de	O	O#O	s
-10	danske	B-OTH	B-LOCderiv#O	s
+10	danske	O	B-LOCderiv#O	s
 11	biografer	O	O#O	s
 12	,	O	O#O	s
 13	og	O	O#O	s
@@ -28027,9 +28027,9 @@
 10	VIVALDIS	B-PER	B-PER#O	s
 11	største	O	O#O	s
 12	sucses	O	O#O	s
-13	de	B-OTH	B-MISC#O	s
-14	fire	I-OTH	I-MISC#O	s
-15	årstider	I-OTH	I-MISC#O	s
+13	de	O	B-MISC#O	s
+14	fire	O	I-MISC#O	s
+15	årstider	O	I-MISC#O	s
 16	kommer	O	O#O	s
 17	.	O	O#O	s
 
@@ -28089,7 +28089,7 @@
 2	gang	O	O#O	s
 3	på	O	O#O	s
 4	godt	O	O#O	s
-5	engelsk	B-OTH	B-LOCderiv#O	s
+5	engelsk	O	B-LOCderiv#O	s
 6	,	O	O#O	s
 7	som	O	O#O	s
 8	er	O	O#O	s
@@ -28098,7 +28098,7 @@
 11	,	O	O#O	s
 12	den	O	O#O	s
 13	udfrittende	O	O#O	s
-14	danske	B-OTH	B-LOCderiv#O	s
+14	danske	O	B-LOCderiv#O	s
 15	journalist	O	O#O	s
 16	bedst	O	O#O	s
 17	kan	O	O#O	s
@@ -28417,7 +28417,7 @@
 4	,	O	O#O	s
 5	som	O	O#O	s
 6	de	O	O#O	s
-7	danske	B-OTH	B-LOCderiv#O	s
+7	danske	O	B-LOCderiv#O	s
 8	FN-soldater	B-ORG	B-ORGpart#O	s
 9	har	O	O#O	s
 10	været	O	O#O	s
@@ -28539,7 +28539,7 @@
 
 # sent_id = train-v2-1385
 # text = Danskernes forbrug af smertestillende håndkøbsmedicin er så alarmerende stort, at det for mange er det rene misbrug, mener embedslæge Niels Agdal, Randers.
-1	Danskernes	B-OTH	B-LOCderiv#O	s
+1	Danskernes	O	B-LOCderiv#O	s
 2	forbrug	O	O#O	s
 3	af	O	O#O	s
 4	smertestillende	O	O#O	s
@@ -28606,7 +28606,7 @@
 5	sine	O	O#O	s
 6	færdigheder	O	O#O	s
 7	før	O	O#O	s
-8	DM-finalen	B-OTH	B-MISC#O	s
+8	DM-finalen	O	B-MISC#O	s
 9	i	O	O#O	s
 10	Middelfart	B-LOC	B-LOC#O	s
 11	,	O	O#O	s
@@ -29707,7 +29707,7 @@
 28	de	O	O#O	s
 29	knap	O	O#O	s
 30	3.000	O	O#O	s
-31	tamilske	B-OTH	B-LOCderiv#O	s
+31	tamilske	O	B-LOCderiv#O	s
 32	flygtninge	O	O#O	s
 33	,	O	O#O	s
 34	der	O	O#O	s
@@ -29797,7 +29797,7 @@
 2	Vi	O	O#O	s
 3	er	O	O#O	s
 4	i	O	O#O	s
-5	VMs	B-OTH	B-MISC#O	s
+5	VMs	O	B-MISC#O	s
 6	suverænt	O	O#O	s
 7	bedste	O	O#O	s
 8	gruppe	O	O#O	s
@@ -30102,7 +30102,7 @@
 # text = Derfor skal ungarerne i Rumænien diskrimineres, så de ikke får magt, som de har agt, mener han.
 1	Derfor	O	O#O	s
 2	skal	O	O#O	s
-3	ungarerne	B-OTH	B-LOCderiv#O	s
+3	ungarerne	O	B-LOCderiv#O	s
 4	i	O	O#O	s
 5	Rumænien	B-LOC	B-LOC#O	s
 6	diskrimineres	O	O#O	s
@@ -30279,7 +30279,7 @@
 # sent_id = train-v2-1460
 # text = Det jugoslaviske præsidentråd appellerede i sidste øjeblik til FN om at undlade at iværksætte en boykot og opfordrede til, at der i stedet indkaldes til en international konference om konflikten.
 1	Det	O	O#O	s
-2	jugoslaviske	B-OTH	B-LOCderiv#O	s
+2	jugoslaviske	O	B-LOCderiv#O	s
 3	præsidentråd	O	O#O	s
 4	appellerede	O	O#O	s
 5	i	O	O#O	s
@@ -30556,7 +30556,7 @@
 3	Så	O	O#O	s
 4	er	O	O#O	s
 5	den	O	O#O	s
-6	koldingensiske	B-OTH	B-LOCderiv#O	s
+6	koldingensiske	O	B-LOCderiv#O	s
 7	bilsælger	O	O#O	s
 8	Christian	B-PER	B-PER#O	s
 9	Christensen	I-PER	I-PER#O	s
@@ -30607,7 +30607,7 @@
 5	sent	O	O#O	s
 6	ind	O	O#O	s
 7	i	O	O#O	s
-8	Parken	B-OTH	B-MISC#O	s
+8	Parken	O	B-MISC#O	s
 9	,	O	O#O	s
 10	at	O	O#O	s
 11	de	O	O#O	s
@@ -30637,7 +30637,7 @@
 # text = Men den russiske FN-ambassadør afviste straks forslaget.
 1	Men	O	O#O	s
 2	den	O	O#O	s
-3	russiske	B-OTH	B-LOCderiv#O	s
+3	russiske	O	B-LOCderiv#O	s
 4	FN-ambassadør	B-ORG	B-ORGpart#O	s
 5	afviste	O	O#O	s
 6	straks	O	O#O	s
@@ -30676,7 +30676,7 @@
 9	og	O	O#O	s
 10	Bedemændenes	B-ORG	B-ORG#O	s
 11	Landsforenings	I-ORG	I-ORG#O	s
-12	nordjyske	B-OTH	B-LOCderiv#O	s
+12	nordjyske	O	B-LOCderiv#O	s
 13	kreds	O	O#O	s
 14	har	O	O#O	s
 15	portørerne	O	O#O	s
@@ -30862,8 +30862,8 @@
 16	celle	O	O#O	s
 17	i	O	O#O	s
 18	fængslet	O	O#O	s
-19	Scremska	B-OTH	B-MISC#O	s
-20	Mitrovica	I-OTH	I-MISC#O	s
+19	Scremska	O	B-MISC#O	s
+20	Mitrovica	O	I-MISC#O	s
 21	ca.	O	O#O	s
 22	65	O	O#O	s
 23	km	O	O#O	s
@@ -31019,7 +31019,7 @@
 9	de	O	O#O	s
 10	seks	O	O#O	s
 11	er	O	O#O	s
-12	danske	B-OTH	B-LOCderiv#O	s
+12	danske	O	B-LOCderiv#O	s
 13	.	O	O#O	s
 
 # sent_id = train-v2-1496
@@ -31085,7 +31085,7 @@
 # sent_id = train-v2-1499
 # text = Det tyske Transall fly taxier ind på stand-pladsen - vi skal med det en halv time efter.
 1	Det	O	O#O	s
-2	tyske	B-OTH	B-LOCderiv#O	s
+2	tyske	O	B-LOCderiv#O	s
 3	Transall	B-ORG	B-ORG#O	s
 4	fly	O	O#O	s
 5	taxier	O	O#O	s
@@ -31292,7 +31292,7 @@
 8	-	O	O#O	s
 9	selv	O	O#O	s
 10	en	O	O#O	s
-11	dansk	B-OTH	B-LOCderiv#O	s
+11	dansk	O	B-LOCderiv#O	s
 12	krone	O	O#O	s
 13	-	O	O#O	s
 14	er	O	O#O	s
@@ -31490,8 +31490,8 @@
 35	får	O	O#O	s
 36	premiere	O	O#O	s
 37	i	O	O#O	s
-38	Dagmar	B-OTH	B-MISC#O	s
-39	Teatret	I-OTH	I-MISC#O	s
+38	Dagmar	O	B-MISC#O	s
+39	Teatret	O	I-MISC#O	s
 40	i	O	O#O	s
 41	København	B-LOC	B-LOC#O	s
 42	og	O	O#O	s
@@ -31617,7 +31617,7 @@
 33	talsmand	O	O#O	s
 34	for	O	O#O	s
 35	det	O	O#O	s
-36	aserbajdsjanske	B-OTH	B-LOCderiv#O	s
+36	aserbajdsjanske	O	B-LOCderiv#O	s
 37	udenrigsministerium	O	O#O	s
 38	.	O	O#O	s
 
@@ -32081,7 +32081,7 @@
 28	Dietrich	I-PER	I-PER#O	s
 29	af	O	O#O	s
 30	mange	O	O#O	s
-31	tyskere	B-OTH	B-LOCderiv#O	s
+31	tyskere	O	B-LOCderiv#O	s
 32	fejlagtigt	O	O#O	s
 33	blev	O	O#O	s
 34	opfattet	O	O#O	s
@@ -32265,7 +32265,7 @@
 15	nøje	O	O#O	s
 16	af	O	O#O	s
 17	det	O	O#O	s
-18	danske	B-OTH	B-LOCderiv#O	s
+18	danske	O	B-LOCderiv#O	s
 19	aktiemarked	O	O#O	s
 20	på	O	O#O	s
 21	grund	O	O#O	s
@@ -32307,7 +32307,7 @@
 25	genre	O	O#O	s
 26	,	O	O#O	s
 27	som	O	O#O	s
-28	dansk	B-OTH	B-LOCderiv#O	s
+28	dansk	O	B-LOCderiv#O	s
 29	TV	O	O#O	s
 30	ikke	O	O#O	s
 31	gør	O	O#O	s
@@ -32426,7 +32426,7 @@
 61	vigtige	O	O#O	s
 62	Dale-Pas	B-LOC	B-LOCpart#O	s
 63	i	O	O#O	s
-64	Tol-Bjergene	B-OTH	B-LOCderiv#O	s
+64	Tol-Bjergene	O	B-LOCderiv#O	s
 65	.	O	O#O	s
 
 # sent_id = train-v2-1558
@@ -32495,7 +32495,7 @@
 
 # sent_id = train-v2-1562
 # text = Polakkerne fik ingen mål, men de spillede så hurtigt, opfindsomt individuelt og kollektivt, at det ikke kan udelukkes, at et dansk hold i samme opstilling kan få problemer i returkampen.
-1	Polakkerne	B-OTH	B-LOCderiv#O	s
+1	Polakkerne	O	B-LOCderiv#O	s
 2	fik	O	O#O	s
 3	ingen	O	O#O	s
 4	mål	O	O#O	s
@@ -32519,7 +32519,7 @@
 22	,	O	O#O	s
 23	at	O	O#O	s
 24	et	O	O#O	s
-25	dansk	B-OTH	B-LOCderiv#O	s
+25	dansk	O	B-LOCderiv#O	s
 26	hold	O	O#O	s
 27	i	O	O#O	s
 28	samme	O	O#O	s
@@ -32696,7 +32696,7 @@
 11	indadrettede	O	O#O	s
 12	musik	O	O#O	s
 13	til	O	O#O	s
-14	skotske	B-OTH	B-LOCderiv#O	s
+14	skotske	O	B-LOCderiv#O	s
 15	Wolffstones	B-ORG	B-ORG#O	s
 16	var	O	O#O	s
 17	til	O	O#O	s
@@ -32773,7 +32773,7 @@
 31	mest	O	O#O	s
 32	præcise	O	O#O	s
 33	i	O	O#O	s
-34	Superligaen	B-OTH	B-MISC#O	s
+34	Superligaen	O	B-MISC#O	s
 35	.	O	O#O	s
 
 # sent_id = train-v2-1573
@@ -32877,16 +32877,16 @@
 13	sejre	O	O#O	s
 14	,	O	O#O	s
 15	fem	O	O#O	s
-16	jyske	B-OTH	B-LOCderiv#O	s
+16	jyske	O	B-LOCderiv#O	s
 17	mesterskaber	O	O#O	s
 18	,	O	O#O	s
 19	én	O	O#O	s
-20	SM-titel	B-OTH	B-MISCpart#O	s
+20	SM-titel	O	B-MISCpart#O	s
 21	og	O	O#O	s
 22	to	O	O#O	s
 23	guld-medaljer	O	O#O	s
 24	i	O	O#O	s
-25	CBC	B-OTH	B-MISC#O	s
+25	CBC	O	B-MISC#O	s
 26	,	O	O#O	s
 27	skal	O	O#O	s
 28	krones	O	O#O	s
@@ -33010,7 +33010,7 @@
 # sent_id = train-v2-1585
 # text = - Vagga, mumlede han.
 1	-	O	O#O	s
-2	Vagga	B-OTH	B-MISC#O	s
+2	Vagga	O	B-MISC#O	s
 3	,	O	O#O	s
 4	mumlede	O	O#O	s
 5	han	O	O#O	s
@@ -33180,7 +33180,7 @@
 16	udlægning	O	O#O	s
 17	af	O	O#O	s
 18	den	O	O#O	s
-19	slovakiske	B-OTH	B-LOCderiv#O	s
+19	slovakiske	O	B-LOCderiv#O	s
 20	nationalisme	O	O#O	s
 21	.	O	O#O	s
 
@@ -33193,11 +33193,11 @@
 5	det	O	O#O	s
 6	sigende	O	O#O	s
 7	titelnummer	O	O#O	s
-8	Follow	B-OTH	B-MISC#O	s
-9	me	I-OTH	I-MISC#O	s
-10	,	I-OTH	I-MISC#O	s
-11	Follow	I-OTH	I-MISC#O	s
-12	you	I-OTH	I-MISC#O	s
+8	Follow	O	B-MISC#O	s
+9	me	O	I-MISC#O	s
+10	,	O	I-MISC#O	s
+11	Follow	O	I-MISC#O	s
+12	you	O	I-MISC#O	s
 13	på	O	O#O	s
 14	guitaristen	O	O#O	s
 15	Karsten	B-PER	B-PER#O	s
@@ -33255,8 +33255,8 @@
 67	fredags	O	O#O	s
 68	spillede	O	O#O	s
 69	i	O	O#O	s
-70	Copenhagen	B-OTH	B-MISC#B-LOC	s
-71	Jazzhouse	B-OTH	B-MISC#O	s
+70	Copenhagen	O	B-MISC#B-LOC	s
+71	Jazzhouse	O	B-MISC#O	s
 72	.	O	O#O	s
 
 # sent_id = train-v2-1596
@@ -33463,7 +33463,7 @@
 7	demonstrerede	O	O#O	s
 8	ved	O	O#O	s
 9	de	O	O#O	s
-10	sjællandske	B-OTH	B-LOCderiv#O	s
+10	sjællandske	O	B-LOCderiv#O	s
 11	mesterskaber	O	O#O	s
 12	i	O	O#O	s
 13	Dansborghallen	B-LOC	B-LOC#O	s
@@ -33481,13 +33481,13 @@
 25	fremtrædende	O	O#O	s
 26	skikkelse	O	O#O	s
 27	i	O	O#O	s
-28	dansk	B-OTH	B-LOCderiv#O	s
+28	dansk	O	B-LOCderiv#O	s
 29	boksning	O	O#O	s
 30	.	O	O#O	s
 
 # sent_id = train-v2-1606
 # text = P-PILLER I OVERGANGSALDEREN?
-1	P-PILLER	B-OTH	B-MISC#O	s
+1	P-PILLER	O	B-MISC#O	s
 2	I	O	O#O	s
 3	OVERGANGSALDEREN	O	O#O	s
 4	?	O	O#O	s
@@ -33759,15 +33759,15 @@
 # sent_id = train-v2-1619
 # text = "Skygger og tåge" ("Shadows and Fog") foregår i 1920'rne i en europæisk landsby, som hærges af en mystisk morder.
 1	"	O	O#O	s
-2	Skygger	B-OTH	B-MISC#O	s
-3	og	I-OTH	I-MISC#O	s
-4	tåge	I-OTH	I-MISC#O	s
+2	Skygger	O	B-MISC#O	s
+3	og	O	I-MISC#O	s
+4	tåge	O	I-MISC#O	s
 5	"	O	O#O	s
 6	(	O	O#O	s
 7	"	O	O#O	s
-8	Shadows	B-OTH	B-MISC#O	s
-9	and	I-OTH	I-MISC#O	s
-10	Fog	I-OTH	I-MISC#O	s
+8	Shadows	O	B-MISC#O	s
+9	and	O	I-MISC#O	s
+10	Fog	O	I-MISC#O	s
 11	"	O	O#O	s
 12	)	O	O#O	s
 13	foregår	O	O#O	s
@@ -33775,7 +33775,7 @@
 15	1920'rne	O	O#O	s
 16	i	O	O#O	s
 17	en	O	O#O	s
-18	europæisk	B-OTH	B-LOCderiv#O	s
+18	europæisk	O	B-LOCderiv#O	s
 19	landsby	O	O#O	s
 20	,	O	O#O	s
 21	som	O	O#O	s
@@ -33843,7 +33843,7 @@
 6	nu	O	O#O	s
 7	til	O	O#O	s
 8	den	O	O#O	s
-9	bosniske	B-OTH	B-LOCderiv#O	s
+9	bosniske	O	B-LOCderiv#O	s
 10	hovedstad	O	O#O	s
 11	Sarajevo	B-LOC	B-LOC#O	s
 12	.	O	O#O	s
@@ -34326,7 +34326,7 @@
 2	Men	O	O#O	s
 3	de	O	O#O	s
 4	lod	O	O#O	s
-5	tyskerne	B-OTH	B-LOCderiv#O	s
+5	tyskerne	O	B-LOCderiv#O	s
 6	gøre	O	O#O	s
 7	det	O	O#O	s
 8	beskidte	O	O#O	s
@@ -34335,7 +34335,7 @@
 11	"	O	O#O	s
 12	kommenterede	O	O#O	s
 13	en	O	O#O	s
-14	kroatisk	B-OTH	B-LOCderiv#O	s
+14	kroatisk	O	B-LOCderiv#O	s
 15	embedsmand	O	O#O	s
 16	,	O	O#O	s
 17	da	O	O#O	s
@@ -34414,7 +34414,7 @@
 3	DDR-materiellet	B-ORG	B-ORGpart#O	s
 4	i	O	O#O	s
 5	den	O	O#O	s
-6	tyske	B-OTH	B-LOCderiv#O	s
+6	tyske	O	B-LOCderiv#O	s
 7	NATO-hær	B-ORG	B-ORGpart#O	s
 8	,	O	O#O	s
 9	og	O	O#O	s
@@ -34427,7 +34427,7 @@
 16	et	O	O#O	s
 17	stort	O	O#O	s
 18	antal	O	O#O	s
-19	russiske	B-OTH	B-LOCderiv#O	s
+19	russiske	O	B-LOCderiv#O	s
 20	soldater	O	O#O	s
 21	i	O	O#O	s
 22	det	O	O#O	s
@@ -34537,7 +34537,7 @@
 
 # sent_id = train-v2-1656
 # text = Svenskeren forbereder sig grundigt.
-1	Svenskeren	B-OTH	B-LOCderiv#O	s
+1	Svenskeren	O	B-LOCderiv#O	s
 2	forbereder	O	O#O	s
 3	sig	O	O#O	s
 4	grundigt	O	O#O	s
@@ -34580,7 +34580,7 @@
 15	i	O	O#O	s
 16	alt	O	O#O	s
 17	700-750	O	O#O	s
-18	danskere	B-OTH	B-LOCderiv#O	s
+18	danskere	O	B-LOCderiv#O	s
 19	,	O	O#O	s
 20	og	O	O#O	s
 21	det	O	O#O	s
@@ -34651,7 +34651,7 @@
 86	at	O	O#O	s
 87	irritere	O	O#O	s
 88	det	O	O#O	s
-89	spanske	B-OTH	B-LOCderiv#O	s
+89	spanske	O	B-LOCderiv#O	s
 90	politi	O	O#O	s
 91	.	O	O#O	s
 
@@ -34832,7 +34832,7 @@
 12	:	O	O#O	s
 13	Først	O	O#O	s
 14	trekvart	O	O#O	s
-15	DTM-sæson	B-OTH	B-MISC#B-ORGpart	s
+15	DTM-sæson	O	B-MISC#B-ORGpart	s
 16	hos	O	O#O	s
 17	det	O	O#O	s
 18	private	O	O#O	s
@@ -35428,7 +35428,7 @@
 16	han	O	O#O	s
 17	modtog	O	O#O	s
 18	en	O	O#O	s
-19	Grammy	B-OTH	B-MISC#O	s
+19	Grammy	O	B-MISC#O	s
 20	for	O	O#O	s
 21	medvirken	O	O#O	s
 22	i	O	O#O	s
@@ -35477,7 +35477,7 @@
 35	angår	O	O#O	s
 36	maskiner	O	O#O	s
 37	med	O	O#O	s
-38	Unix-styresystem	B-OTH	B-MISCpart#O	s
+38	Unix-styresystem	O	B-MISCpart#O	s
 39	.	O	O#O	s
 
 # sent_id = train-v2-1691
@@ -35514,7 +35514,7 @@
 # sent_id = train-v2-1693
 # text = "Unix-delen af mindre flerbrugersystemer nåede i '90 cirka halvdelen af salget.
 1	"	O	O#O	s
-2	Unix-delen	B-OTH	B-MISCpart#O	s
+2	Unix-delen	O	B-MISCpart#O	s
 3	af	O	O#O	s
 4	mindre	O	O#O	s
 5	flerbrugersystemer	O	O#O	s
@@ -35681,7 +35681,7 @@
 22	tilvejebringelsen	O	O#O	s
 23	af	O	O#O	s
 24	den	O	O#O	s
-25	irakiske	B-OTH	B-LOCderiv#O	s
+25	irakiske	O	B-LOCderiv#O	s
 26	råolie	O	O#O	s
 27	på	O	O#O	s
 28	lang	O	O#O	s
@@ -35836,7 +35836,7 @@
 18	pågribelse	O	O#O	s
 19	af	O	O#O	s
 20	den	O	O#O	s
-21	bosniske	B-OTH	B-LOCderiv#O	s
+21	bosniske	O	B-LOCderiv#O	s
 22	præsident	O	O#O	s
 23	,	O	O#O	s
 24	da	O	O#O	s
@@ -35975,7 +35975,7 @@
 43	et	O	O#O	s
 44	større	O	O#O	s
 45	antal	O	O#O	s
-46	danskere	B-OTH	B-LOCderiv#O	s
+46	danskere	O	B-LOCderiv#O	s
 47	kan	O	O#O	s
 48	blive	O	O#O	s
 49	blot	O	O#O	s
@@ -36324,7 +36324,7 @@
 8	USA	B-LOC	B-LOC#O	s
 9	under	O	O#O	s
 10	betegnelsen	O	O#O	s
-11	junkmail	B-OTH	B-MISC#O	s
+11	junkmail	O	B-MISC#O	s
 12	,	O	O#O	s
 13	og	O	O#O	s
 14	det	O	O#O	s
@@ -36432,8 +36432,8 @@
 7	fra	O	O#O	s
 8	bunden	O	O#O	s
 9	i	O	O#O	s
-10	Turbo	B-OTH	B-MISC#O	s
-11	Pascal	I-OTH	I-MISC#O	s
+10	Turbo	O	B-MISC#O	s
+11	Pascal	O	I-MISC#O	s
 12	,	O	O#O	s
 13	og	O	O#O	s
 14	det	O	O#O	s
@@ -36651,7 +36651,7 @@
 
 # sent_id = train-v2-1747
 # text = Infas-prognosen viser også, at Iliescus tilhængere i gruppen DNSF bliver den største gruppe i parlamentet.
-1	Infas-prognosen	B-OTH	B-MISC#O	s
+1	Infas-prognosen	O	B-MISC#O	s
 2	viser	O	O#O	s
 3	også	O	O#O	s
 4	,	O	O#O	s
@@ -36864,7 +36864,7 @@
 2	blot	O	O#O	s
 3	den	O	O#O	s
 4	"	O	O#O	s
-5	Træpersonage	B-OTH	B-MISC#O	s
+5	Træpersonage	O	B-MISC#O	s
 6	"	O	O#O	s
 7	,	O	O#O	s
 8	der	O	O#O	s
@@ -37055,7 +37055,7 @@
 1	Desværre	O	O#O	s
 2	har	O	O#O	s
 3	vi	O	O#O	s
-4	danskere	B-OTH	B-LOCderiv#O	s
+4	danskere	O	B-LOCderiv#O	s
 5	rekord	O	O#O	s
 6	i	O	O#O	s
 7	at	O	O#O	s
@@ -37118,7 +37118,7 @@
 2	bil	O	O#O	s
 3	bygget	O	O#O	s
 4	af	O	O#O	s
-5	franske	B-OTH	B-LOCderiv#O	s
+5	franske	O	B-LOCderiv#O	s
 6	studerende	O	O#O	s
 7	kunne	O	O#O	s
 8	ruinere	O	O#O	s
@@ -37220,7 +37220,7 @@
 11	op	O	O#O	s
 12	til	O	O#O	s
 13	dette	O	O#O	s
-14	DM	B-OTH	B-MISC#O	s
+14	DM	O	B-MISC#O	s
 15	.	O	O#O	s
 
 # sent_id = train-v2-1776
@@ -37263,9 +37263,9 @@
 
 # sent_id = train-v2-1777
 # text = Lademanns Store Leksikon indeholder omkring 100.000 opslagsord fordelt på knap 8.000 sider - heraf 40 procent illustrationer.
-1	Lademanns	B-OTH	B-MISC#O	s
-2	Store	I-OTH	I-MISC#O	s
-3	Leksikon	I-OTH	I-MISC#O	s
+1	Lademanns	O	B-MISC#O	s
+2	Store	O	I-MISC#O	s
+3	Leksikon	O	I-MISC#O	s
 4	indeholder	O	O#O	s
 5	omkring	O	O#O	s
 6	100.000	O	O#O	s
@@ -37368,9 +37368,9 @@
 12	i	O	O#O	s
 13	filmen	O	O#O	s
 14	"	O	O#O	s
-15	Dommen	B-OTH	B-MISC#O	s
-16	i	I-OTH	I-MISC#O	s
-17	Nürnberg	I-OTH	I-MISC#O	s
+15	Dommen	O	B-MISC#O	s
+16	i	O	I-MISC#O	s
+17	Nürnberg	O	I-MISC#O	s
 18	"	O	O#O	s
 19	,	O	O#O	s
 20	sagde	O	O#O	s
@@ -37419,7 +37419,7 @@
 63	taktfast	O	O#O	s
 64	,	O	O#O	s
 65	da	O	O#O	s
-66	cadillac'en	B-OTH	B-MISCderiv#O	s
+66	cadillac'en	O	B-MISCderiv#O	s
 67	med	O	O#O	s
 68	hendes	O	O#O	s
 69	kiste	O	O#O	s
@@ -37504,7 +37504,7 @@
 42	succes-mennesker	O	O#O	s
 43	fra	O	O#O	s
 44	den	O	O#O	s
-45	amerikanske	B-OTH	B-LOCderiv#O	s
+45	amerikanske	O	B-LOCderiv#O	s
 46	bladverden	O	O#O	s
 47	.	O	O#O	s
 
@@ -37524,7 +37524,7 @@
 12	Hafnia	B-ORG	B-ORG#O	s
 13	Bank	I-ORG	I-ORG#O	s
 14	,	O	O#O	s
-15	engelske	B-OTH	B-LOCderiv#O	s
+15	engelske	O	B-LOCderiv#O	s
 16	Prolific	B-ORG	B-ORG#O	s
 17	,	O	O#O	s
 18	og	O	O#O	s
@@ -37546,7 +37546,7 @@
 
 # sent_id = train-v2-1785
 # text = Hash fortjener en lige så grundig politiindsats, som de hårde stoffer udsættes for andre steder i byen."
-1	Hash	B-OTH	B-MISC#O	s
+1	Hash	O	B-MISC#O	s
 2	fortjener	O	O#O	s
 3	en	O	O#O	s
 4	lige	O	O#O	s
@@ -37614,7 +37614,7 @@
 9	vin	O	O#O	s
 10	vil	O	O#O	s
 11	mindske	O	O#O	s
-12	danskernes	B-OTH	B-LOCderiv#O	s
+12	danskernes	O	B-LOCderiv#O	s
 13	interesse	O	O#O	s
 14	for	O	O#O	s
 15	at	O	O#O	s
@@ -37647,9 +37647,9 @@
 2	et	O	O#O	s
 3	tidsskrift	O	O#O	s
 4	som	O	O#O	s
-5	Nature	B-OTH	B-MISC#O	s
+5	Nature	O	B-MISC#O	s
 6	eller	O	O#O	s
-7	Science	B-OTH	B-MISC#O	s
+7	Science	O	B-MISC#O	s
 8	optages	O	O#O	s
 9	kun	O	O#O	s
 10	artikler	O	O#O	s
@@ -37722,7 +37722,7 @@
 2	Men	O	O#O	s
 3	med	O	O#O	s
 4	den	O	O#O	s
-5	danske	B-OTH	B-LOCderiv#O	s
+5	danske	O	B-LOCderiv#O	s
 6	bilparks	O	O#O	s
 7	nuværende	O	O#O	s
 8	sammensætning	O	O#O	s
@@ -37938,7 +37938,7 @@
 # sent_id = train-v2-1804
 # text = "Hash er også narkotika.
 1	"	O	O#O	s
-2	Hash	B-OTH	B-MISC#O	s
+2	Hash	O	B-MISC#O	s
 3	er	O	O#O	s
 4	også	O	O#O	s
 5	narkotika	O	O#O	s
@@ -37972,7 +37972,7 @@
 2	har	O	O#O	s
 3	lavet	O	O#O	s
 4	"	O	O#O	s
-5	Chicism	B-OTH	B-MISC#O	s
+5	Chicism	O	B-MISC#O	s
 6	"	O	O#O	s
 7	,	O	O#O	s
 8	fordi	O	O#O	s
@@ -38125,8 +38125,8 @@
 21	afsnit	O	O#O	s
 22	14-26	O	O#O	s
 23	kaldes	O	O#O	s
-24	Gøngehøvdingen	B-OTH	B-MISC#O	s
-25	II	I-OTH	I-MISC#O	s
+24	Gøngehøvdingen	O	B-MISC#O	s
+25	II	O	I-MISC#O	s
 26	og	O	O#O	s
 27	skal	O	O#O	s
 28	sendes	O	O#O	s
@@ -38333,7 +38333,7 @@
 15	Europa	B-LOC	B-LOC#O	s
 16	i	O	O#O	s
 17	to	O	O#O	s
-18	Boing-747-fragtmaskiner	B-OTH	B-MISC#O	s
+18	Boing-747-fragtmaskiner	O	B-MISC#O	s
 19	,	O	O#O	s
 20	to	O	O#O	s
 21	ton	O	O#O	s
@@ -38370,7 +38370,7 @@
 52	kunne	O	O#O	s
 53	forsyne	O	O#O	s
 54	en	O	O#O	s
-55	dansk	B-OTH	B-LOCderiv#O	s
+55	dansk	O	B-LOCderiv#O	s
 56	købstadkommune	O	O#O	s
 57	med	O	O#O	s
 58	strøm	O	O#O	s
@@ -38456,7 +38456,7 @@
 6	spiller	O	O#O	s
 7	,	O	O#O	s
 8	mens	O	O#O	s
-9	danskeren	B-OTH	B-LOCderiv#O	s
+9	danskeren	O	B-LOCderiv#O	s
 10	spørger	O	O#O	s
 11	:	O	O#O	s
 12	Skal	O	O#O	s
@@ -38507,13 +38507,13 @@
 10	Rasmussens	I-PER	I-PER#O	s
 11	roman	O	O#O	s
 12	"	O	O#O	s
-13	Der	B-OTH	B-MISC#O	s
-14	ligger	I-OTH	I-MISC#O	s
-15	en	I-OTH	I-MISC#O	s
-16	mand	I-OTH	I-MISC#O	s
-17	på	I-OTH	I-MISC#O	s
-18	en	I-OTH	I-MISC#O	s
-19	bænk	I-OTH	I-MISC#O	s
+13	Der	O	B-MISC#O	s
+14	ligger	O	I-MISC#O	s
+15	en	O	I-MISC#O	s
+16	mand	O	I-MISC#O	s
+17	på	O	I-MISC#O	s
+18	en	O	I-MISC#O	s
+19	bænk	O	I-MISC#O	s
 20	"	O	O#O	s
 21	,	O	O#O	s
 22	er	O	O#O	s
@@ -38951,7 +38951,7 @@
 
 # sent_id = train-v2-1847
 # text = Danskerne indtager årligt ca. 400 ton aktivt stof - Acetylsalicylsyre eller Paracetamol - "og den mængde må tages som udtryk for misbrug," siger Niels Agdal.
-1	Danskerne	B-OTH	B-LOCderiv#O	s
+1	Danskerne	O	B-LOCderiv#O	s
 2	indtager	O	O#O	s
 3	årligt	O	O#O	s
 4	ca.	O	O#O	s
@@ -38960,9 +38960,9 @@
 7	aktivt	O	O#O	s
 8	stof	O	O#O	s
 9	-	O	O#O	s
-10	Acetylsalicylsyre	B-OTH	B-MISC#O	s
+10	Acetylsalicylsyre	O	B-MISC#O	s
 11	eller	O	O#O	s
-12	Paracetamol	B-OTH	B-MISC#O	s
+12	Paracetamol	O	B-MISC#O	s
 13	-	O	O#O	s
 14	"	O	O#O	s
 15	og	O	O#O	s
@@ -39037,7 +39037,7 @@
 2	magtmonopol	O	O#O	s
 3	kan	O	O#O	s
 4	det	O	O#O	s
-5	danske	B-OTH	B-LOCderiv#O	s
+5	danske	O	B-LOCderiv#O	s
 6	retssystem	O	O#O	s
 7	ikke	O	O#O	s
 8	tillade	O	O#O	s
@@ -39100,7 +39100,7 @@
 # text = Og på dansk...
 1	Og	O	O#O	s
 2	på	O	O#O	s
-3	dansk	B-OTH	B-LOCderiv#O	s
+3	dansk	O	B-LOCderiv#O	s
 4	...	O	O#O	s
 
 # sent_id = train-v2-1857
@@ -39123,8 +39123,8 @@
 6	fra	O	O#O	s
 7	området	O	O#O	s
 8	sin	O	O#O	s
-9	Toyota	B-OTH	B-MISC#B-ORG	s
-10	Carina	I-OTH	I-MISC#O	s
+9	Toyota	O	B-MISC#B-ORG	s
+10	Carina	O	I-MISC#O	s
 11	frontalt	O	O#O	s
 12	ind	O	O#O	s
 13	i	O	O#O	s
@@ -39280,24 +39280,24 @@
 1	"	O	O#O	s
 2	De	O	O#O	s
 3	taler	O	O#O	s
-4	tyrkisk	B-OTH	B-LOCderiv#O	s
+4	tyrkisk	O	B-LOCderiv#O	s
 5	hjemme	O	O#O	s
 6	,	O	O#O	s
 7	de	O	O#O	s
 8	taler	O	O#O	s
-9	tyrkisk	B-OTH	B-LOCderiv#O	s
+9	tyrkisk	O	B-LOCderiv#O	s
 10	her	O	O#O	s
 11	,	O	O#O	s
 12	de	O	O#O	s
 13	taler	O	O#O	s
-14	tyrkisk	B-OTH	B-LOCderiv#O	s
+14	tyrkisk	O	B-LOCderiv#O	s
 15	på	O	O#O	s
 16	arbejdspladsen	O	O#O	s
 17	,	O	O#O	s
 18	de	O	O#O	s
 19	kan	O	O#O	s
 20	se	O	O#O	s
-21	tyrkisk	B-OTH	B-LOCderiv#O	s
+21	tyrkisk	O	B-LOCderiv#O	s
 22	fjernsyn	O	O#O	s
 23	,	O	O#O	s
 24	og	O	O#O	s
@@ -39309,7 +39309,7 @@
 30	at	O	O#O	s
 31	man	O	O#O	s
 32	glemmer	O	O#O	s
-33	dansk	B-OTH	B-LOCderiv#O	s
+33	dansk	O	B-LOCderiv#O	s
 34	.	O	O#O	s
 35	"	O	O#O	s
 
@@ -39337,7 +39337,7 @@
 11	i	O	O#O	s
 12	almindelighed	O	O#O	s
 13	og	O	O#O	s
-14	Pio-sagen	B-OTH	B-MISC#O	s
+14	Pio-sagen	O	B-MISC#O	s
 15	i	O	O#O	s
 16	særdeleshed	O	O#O	s
 17	.	O	O#O	s
@@ -39389,7 +39389,7 @@
 6	som	O	O#O	s
 7	dagen	O	O#O	s
 8	før	O	O#O	s
-9	EM-finalekampen	B-OTH	B-MISC#O	s
+9	EM-finalekampen	O	B-MISC#O	s
 10	over	O	O#O	s
 11	hele	O	O#O	s
 12	forsiden	O	O#O	s
@@ -39397,7 +39397,7 @@
 14	:	O	O#O	s
 15	"	O	O#O	s
 16	Undskyld	O	O#O	s
-17	danskere	B-OTH	B-LOCderiv#O	s
+17	danskere	O	B-LOCderiv#O	s
 18	,	O	O#O	s
 19	men	O	O#O	s
 20	i	O	O#O	s
@@ -39460,7 +39460,7 @@
 17	,	O	O#O	s
 18	siger	O	O#O	s
 19	tre	O	O#O	s
-20	amerikanske	B-OTH	B-LOCderiv#O	s
+20	amerikanske	O	B-LOCderiv#O	s
 21	"	O	O#O	s
 22	hvidløgs-læger	O	O#O	s
 23	"	O	O#O	s
@@ -39679,7 +39679,7 @@
 21	af	O	O#O	s
 22	ændringen	O	O#O	s
 23	til	O	O#O	s
-24	regionplanen	B-OTH	B-MISC#O	s
+24	regionplanen	O	B-MISC#O	s
 25	,	O	O#O	s
 26	samtidig	O	O#O	s
 27	havde	O	O#O	s
@@ -39699,7 +39699,7 @@
 41	for	O	O#O	s
 42	ændring	O	O#O	s
 43	af	O	O#O	s
-44	regionplanen	B-OTH	B-MISC#O	s
+44	regionplanen	O	B-MISC#O	s
 45	.	O	O#O	s
 
 # sent_id = train-v2-1879
@@ -39790,7 +39790,7 @@
 4	betyder	O	O#O	s
 5	morsom	O	O#O	s
 6	på	O	O#O	s
-7	svensk	B-OTH	B-LOCderiv#O	s
+7	svensk	O	B-LOCderiv#O	s
 8	.	O	O#O	s
 
 # sent_id = train-v2-1885
@@ -39817,7 +39817,7 @@
 1	Chefen	O	O#O	s
 2	for	O	O#O	s
 3	den	O	O#O	s
-4	jugoslaviske	B-OTH	B-LOCderiv#O	s
+4	jugoslaviske	O	B-LOCderiv#O	s
 5	hær	O	O#O	s
 6	siger	O	O#O	s
 7	,	O	O#O	s
@@ -39840,8 +39840,8 @@
 24	som	O	O#O	s
 25	truer	O	O#O	s
 26	de	O	O#O	s
-27	bosniske	B-OTH	B-LOCderiv#O	s
-28	serberes	B-OTH	B-LOCderiv#O	s
+27	bosniske	O	B-LOCderiv#O	s
+28	serberes	O	B-LOCderiv#O	s
 29	overlevelse	O	O#O	s
 30	.	O	O#O	s
 
@@ -39857,8 +39857,8 @@
 8	seneste	O	O#O	s
 9	udgivelse	O	O#O	s
 10	"	O	O#O	s
-11	Moscow	B-OTH	B-MISC#O	s
-12	Calling	I-OTH	I-MISC#O	s
+11	Moscow	O	B-MISC#O	s
+12	Calling	O	I-MISC#O	s
 13	"	O	O#O	s
 14	vist	O	O#O	s
 15	sig	O	O#O	s
@@ -39952,22 +39952,22 @@
 3	succes'er	O	O#O	s
 4	som	O	O#O	s
 5	"	O	O#O	s
-6	Mit	B-OTH	B-MISC#O	s
-7	Afrika	I-OTH	I-MISC#O	s
+6	Mit	O	B-MISC#O	s
+7	Afrika	O	I-MISC#O	s
 8	"	O	O#O	s
 9	,	O	O#O	s
 10	"	O	O#O	s
-11	Danser	B-OTH	B-MISC#O	s
-12	med	I-OTH	I-MISC#O	s
-13	Ulve	I-OTH	I-MISC#O	s
+11	Danser	O	B-MISC#O	s
+12	med	O	I-MISC#O	s
+13	Ulve	O	I-MISC#O	s
 14	"	O	O#O	s
 15	og	O	O#O	s
 16	den	O	O#O	s
-17	danske	B-OTH	B-LOCderiv#O	s
+17	danske	O	B-LOCderiv#O	s
 18	"	O	O#O	s
-19	Dansen	B-OTH	B-MISC#O	s
-20	med	I-OTH	I-MISC#O	s
-21	Regitze	I-OTH	I-MISC#B-PER	s
+19	Dansen	O	B-MISC#O	s
+20	med	O	I-MISC#O	s
+21	Regitze	O	I-MISC#B-PER	s
 22	"	O	O#O	s
 23	vist	O	O#O	s
 24	,	O	O#O	s
@@ -40108,12 +40108,12 @@
 2	har	O	O#O	s
 3	den	O	O#O	s
 4	sejge	O	O#O	s
-5	jyde	B-OTH	B-LOCderiv#O	s
+5	jyde	O	B-LOCderiv#O	s
 6	udfordret	O	O#O	s
 7	boksesportens	O	O#O	s
 8	bomstærke	O	O#O	s
 9	,	O	O#O	s
-10	sjællandske	B-OTH	B-LOCderiv#O	s
+10	sjællandske	O	B-LOCderiv#O	s
 11	Brian	B-PER	B-PER#O	s
 12	igen-igen	O	O#O	s
 13	til	O	O#O	s
@@ -40354,7 +40354,7 @@
 # sent_id = train-v2-1907
 # text = Mange danskere har for længst hørt hende synge.
 1	Mange	O	O#O	s
-2	danskere	B-OTH	B-LOCderiv#O	s
+2	danskere	O	B-LOCderiv#O	s
 3	har	O	O#O	s
 4	for	O	O#O	s
 5	længst	O	O#O	s
@@ -40495,7 +40495,7 @@
 16	passivt	O	O#O	s
 17	på	O	O#O	s
 18	de	O	O#O	s
-19	serbiske	B-OTH	B-LOCderiv#O	s
+19	serbiske	O	B-LOCderiv#O	s
 20	militsers	O	O#O	s
 21	myrderier	O	O#O	s
 22	i	O	O#O	s
@@ -40700,7 +40700,7 @@
 1	Mens	O	O#O	s
 2	f.eks.	O	O#O	s
 3	de	O	O#O	s
-4	tyske	B-OTH	B-LOCderiv#O	s
+4	tyske	O	B-LOCderiv#O	s
 5	støtteprogrammer	O	O#O	s
 6	synes	O	O#O	s
 7	udformet	O	O#O	s
@@ -40726,7 +40726,7 @@
 27	,	O	O#O	s
 28	præges	O	O#O	s
 29	det	O	O#O	s
-30	danske	B-OTH	B-LOCderiv#O	s
+30	danske	O	B-LOCderiv#O	s
 31	i	O	O#O	s
 32	høj	O	O#O	s
 33	grad	O	O#O	s
@@ -40899,7 +40899,7 @@
 
 # sent_id = train-v2-1933
 # text = Fransk cocktail
-1	Fransk	B-OTH	B-LOCderiv#O	s
+1	Fransk	O	B-LOCderiv#O	s
 2	cocktail	O	O#O	s
 
 # sent_id = train-v2-1934
@@ -41027,7 +41027,7 @@
 5	økonomer	O	O#O	s
 6	fra	O	O#O	s
 7	de	O	O#O	s
-8	sydøstasiatiske	B-OTH	B-LOCderiv#O	s
+8	sydøstasiatiske	O	B-LOCderiv#O	s
 9	lande	O	O#O	s
 10	gjort	O	O#O	s
 11	opmærksom	O	O#O	s
@@ -41065,7 +41065,7 @@
 43	forklare	O	O#O	s
 44	"	O	O#O	s
 45	det	O	O#O	s
-46	japanske	B-OTH	B-LOCderiv#O	s
+46	japanske	O	B-LOCderiv#O	s
 47	mirakel	O	O#O	s
 48	"	O	O#O	s
 49	.	O	O#O	s
@@ -41145,7 +41145,7 @@
 18	hjulpet	O	O#O	s
 19	en	O	O#O	s
 20	masse	O	O#O	s
-21	australske	B-OTH	B-LOCderiv#O	s
+21	australske	O	B-LOCderiv#O	s
 22	ordblinde	O	O#O	s
 23	.	O	O#O	s
 
@@ -41286,7 +41286,7 @@
 14	Nissan	B-ORG	B-ORG#O	s
 15	involveret	O	O#O	s
 16	i	O	O#O	s
-17	BTCC-serien	B-OTH	B-MISC#B-ORG	s
+17	BTCC-serien	O	B-MISC#B-ORG	s
 18	,	O	O#O	s
 19	som	O	O#O	s
 20	Thorkild	B-PER	B-PER#O	s
@@ -41491,8 +41491,8 @@
 17	forhindrede	O	O#O	s
 18	,	O	O#O	s
 19	at	O	O#O	s
-20	Mona	B-OTH	B-MISC#O	s
-21	Lisa	I-OTH	I-MISC#O	s
+20	Mona	O	B-MISC#O	s
+21	Lisa	O	I-MISC#O	s
 22	blev	O	O#O	s
 23	fjernet	O	O#O	s
 24	fra	O	O#O	s
@@ -41552,7 +41552,7 @@
 2	findes	O	O#O	s
 3	i	O	O#O	s
 4	enhver	O	O#O	s
-5	dansk	B-OTH	B-LOCderiv#O	s
+5	dansk	O	B-LOCderiv#O	s
 6	skov	O	O#O	s
 7	,	O	O#O	s
 8	men	O	O#O	s
@@ -41690,7 +41690,7 @@
 # sent_id = train-v2-1972
 # text = De danske sundhedsmyndigheder har de seneste år afsløret gassede druer også fra europæiske producentlande - men her begynder druesæsonen først senere på året.
 1	De	O	O#O	s
-2	danske	B-OTH	B-LOCderiv#O	s
+2	danske	O	B-LOCderiv#O	s
 3	sundhedsmyndigheder	O	O#O	s
 4	har	O	O#O	s
 5	de	O	O#O	s
@@ -41701,7 +41701,7 @@
 10	druer	O	O#O	s
 11	også	O	O#O	s
 12	fra	O	O#O	s
-13	europæiske	B-OTH	B-LOCderiv#O	s
+13	europæiske	O	B-LOCderiv#O	s
 14	producentlande	O	O#O	s
 15	-	O	O#O	s
 16	men	O	O#O	s
@@ -41923,7 +41923,7 @@
 9	selv	O	O#O	s
 10	om	O	O#O	s
 11	en	O	O#O	s
-12	norsk	B-OTH	B-LOCderiv#O	s
+12	norsk	O	B-LOCderiv#O	s
 13	avis	O	O#O	s
 14	havde	O	O#O	s
 15	SAS-bossen	B-ORG	B-ORGpart#O	s
@@ -42040,7 +42040,7 @@
 4	optagelser	O	O#O	s
 5	i	O	O#O	s
 6	det	O	O#O	s
-7	tyrkiske	B-OTH	B-LOCderiv#O	s
+7	tyrkiske	O	B-LOCderiv#O	s
 8	fjernsyns	O	O#O	s
 9	dækning	O	O#O	s
 10	af	O	O#O	s
@@ -42337,7 +42337,7 @@
 
 # sent_id = train-v2-2005
 # text = Skandinaviske komikere er også forskellige indbyrdes.
-1	Skandinaviske	B-OTH	B-LOCderiv#O	s
+1	Skandinaviske	O	B-LOCderiv#O	s
 2	komikere	O	O#O	s
 3	er	O	O#O	s
 4	også	O	O#O	s
@@ -42390,7 +42390,7 @@
 30	hædret	O	O#O	s
 31	med	O	O#O	s
 32	Bakkens	B-ORG	B-ORG#O	s
-33	Oscar	I-OTH	I-MISC#B-PER	s
+33	Oscar	O	I-MISC#B-PER	s
 34	,	O	O#O	s
 35	et	O	O#O	s
 36	stort	O	O#O	s
@@ -42467,7 +42467,7 @@
 5	for	O	O#O	s
 6	,	O	O#O	s
 7	at	O	O#O	s
-8	italienerne	B-OTH	B-LOCderiv#O	s
+8	italienerne	O	B-LOCderiv#O	s
 9	fra	O	O#O	s
 10	Torino	B-LOC	B-LOC#O	s
 11	er	O	O#O	s
@@ -42481,7 +42481,7 @@
 19	onsdagens	O	O#O	s
 20	kvartfinale	O	O#O	s
 21	i	O	O#O	s
-22	UEFA-turneringen	B-OTH	B-MISC#B-ORGpart	s
+22	UEFA-turneringen	O	B-MISC#B-ORGpart	s
 23	på	O	O#O	s
 24	Gentoftes	B-LOC	B-LOC#O	s
 25	tætpakkede	O	O#O	s
@@ -42782,7 +42782,7 @@
 1	Også	O	O#O	s
 2	ekstraudsendelser	O	O#O	s
 3	i	O	O#O	s
-4	Radioavisen	B-OTH	B-MISC#O	s
+4	Radioavisen	O	B-MISC#O	s
 5	opfordrede	O	O#O	s
 6	folk	O	O#O	s
 7	til	O	O#O	s
@@ -42894,7 +42894,7 @@
 21	for	O	O#O	s
 22	genopretningen	O	O#O	s
 23	af	O	O#O	s
-24	dansk	B-OTH	B-LOCderiv#O	s
+24	dansk	O	B-LOCderiv#O	s
 25	økonomi	O	O#O	s
 26	:	O	O#O	s
 
@@ -43078,7 +43078,7 @@
 60	,	O	O#O	s
 61	og	O	O#O	s
 62	en	O	O#O	s
-63	Kings	B-OTH	B-MISC#O	s
+63	Kings	O	B-MISC#O	s
 64	i	O	O#O	s
 65	kæften	O	O#O	s
 66	.	O	O#O	s
@@ -43348,7 +43348,7 @@
 12	til	O	O#O	s
 13	størstedelen	O	O#O	s
 14	af	O	O#O	s
-15	hostemedicin	B-OTH	B-MISC#O	s
+15	hostemedicin	O	B-MISC#O	s
 16	er	O	O#O	s
 17	helt	O	O#O	s
 18	uden	O	O#O	s
@@ -43431,7 +43431,7 @@
 15	besidde	O	O#O	s
 16	eller	O	O#O	s
 17	forhandle	O	O#O	s
-18	hash	B-OTH	B-MISC#O	s
+18	hash	O	B-MISC#O	s
 19	,	O	O#O	s
 20	19	O	O#O	s
 21	kilo	O	O#O	s
@@ -43444,7 +43444,7 @@
 28	og	O	O#O	s
 29	165	O	O#O	s
 30	kilo	O	O#O	s
-31	marihuana	B-OTH	B-MISC#O	s
+31	marihuana	O	B-MISC#O	s
 32	er	O	O#O	s
 33	høstet	O	O#O	s
 34	på	O	O#O	s
@@ -43539,7 +43539,7 @@
 12	en	O	O#O	s
 13	snes	O	O#O	s
 14	"	O	O#O	s
-15	danske	B-OTH	B-LOCderiv#O	s
+15	danske	O	B-LOCderiv#O	s
 16	illustratorer	O	O#O	s
 17	ramt	O	O#O	s
 18	af	O	O#O	s
@@ -43760,7 +43760,7 @@
 1	Da	O	O#O	s
 2	det	O	O#O	s
 3	multinationale	O	O#O	s
-4	amerikanske	B-OTH	B-LOCderiv#O	s
+4	amerikanske	O	B-LOCderiv#O	s
 5	pladeselskab	O	O#O	s
 6	Warner	B-ORG	B-ORG#O	s
 7	Brothers	I-ORG	I-ORG#O	s
@@ -43782,15 +43782,15 @@
 23	og	O	O#O	s
 24	deres	O	O#O	s
 25	store	O	O#O	s
-26	danske	B-OTH	B-LOCderiv#O	s
+26	danske	O	B-LOCderiv#O	s
 27	gennembruds-lp	O	O#O	s
 28	"	O	O#O	s
-29	No	B-OTH	B-MISC#O	s
-30	Fuel	I-OTH	I-MISC#O	s
-31	Left	I-OTH	I-MISC#O	s
-32	For	I-OTH	I-MISC#O	s
-33	The	I-OTH	I-MISC#O	s
-34	Pilgrims	I-OTH	I-MISC#O	s
+29	No	O	B-MISC#O	s
+30	Fuel	O	I-MISC#O	s
+31	Left	O	I-MISC#O	s
+32	For	O	I-MISC#O	s
+33	The	O	I-MISC#O	s
+34	Pilgrims	O	I-MISC#O	s
 35	"	O	O#O	s
 36	dermed	O	O#O	s
 37	skulle	O	O#O	s
@@ -44131,9 +44131,9 @@
 # text = Nemlig "Sport og Sprut".
 1	Nemlig	O	O#O	s
 2	"	O	O#O	s
-3	Sport	B-OTH	B-MISC#O	s
-4	og	I-OTH	I-MISC#O	s
-5	Sprut	I-OTH	I-MISC#O	s
+3	Sport	O	B-MISC#O	s
+4	og	O	I-MISC#O	s
+5	Sprut	O	I-MISC#O	s
 6	"	O	O#O	s
 7	.	O	O#O	s
 
@@ -44385,7 +44385,7 @@
 7	have	O	O#O	s
 8	lagt	O	O#O	s
 9	over	O	O#O	s
-10	Bibelen	B-OTH	B-MISC#O	s
+10	Bibelen	O	B-MISC#O	s
 11	og	O	O#O	s
 12	over	O	O#O	s
 13	den	O	O#O	s
@@ -44795,8 +44795,8 @@
 1	Og	O	O#O	s
 2	prismæssigt	O	O#O	s
 3	ligger	O	O#O	s
-4	Seat	B-OTH	B-MISC#B-ORG	s
-5	Toledo	I-OTH	I-MISC#O	s
+4	Seat	O	B-MISC#B-ORG	s
+5	Toledo	O	I-MISC#O	s
 6	også	O	O#O	s
 7	pænt	O	O#O	s
 8	i	O	O#O	s
@@ -44921,7 +44921,7 @@
 29	svovlbehandlede	O	O#O	s
 30	druer	O	O#O	s
 31	til	O	O#O	s
-32	danske	B-OTH	B-LOCderiv#O	s
+32	danske	O	B-LOCderiv#O	s
 33	forbrugere	O	O#O	s
 34	.	O	O#O	s
 
@@ -44953,7 +44953,7 @@
 17	,	O	O#O	s
 18	at	O	O#O	s
 19	de	O	O#O	s
-20	polske	B-OTH	B-LOCderiv#O	s
+20	polske	O	B-LOCderiv#O	s
 21	lærere	O	O#O	s
 22	har	O	O#O	s
 23	kunnet	O	O#O	s
@@ -44993,7 +44993,7 @@
 8	engagere	O	O#O	s
 9	sig	O	O#O	s
 10	i	O	O#O	s
-11	britisk	B-OTH	B-LOCderiv#O	s
+11	britisk	O	B-LOCderiv#O	s
 12	standardvogns	O	O#O	s
 13	racing	O	O#O	s
 14	i	O	O#O	s
@@ -45073,7 +45073,7 @@
 # sent_id = train-v2-2135
 # text = Kystvagtskibet Lafjord har bjærget en del vraggods fra det forliste skib, bl.a. to tomme redningsflåder og en redningsbåd.
 1	Kystvagtskibet	O	O#O	s
-2	Lafjord	B-OTH	B-MISC#O	s
+2	Lafjord	O	B-MISC#O	s
 3	har	O	O#O	s
 4	bjærget	O	O#O	s
 5	en	O	O#O	s
@@ -45169,7 +45169,7 @@
 17	hormoner	O	O#O	s
 18	kan	O	O#O	s
 19	erstatte	O	O#O	s
-20	P-piller	B-OTH	B-MISC#O	s
+20	P-piller	O	B-MISC#O	s
 21	.	O	O#O	s
 
 # sent_id = train-v2-2139
@@ -45317,7 +45317,7 @@
 2	holdet	O	O#O	s
 3	i	O	O#O	s
 4	designede	O	O#O	s
-5	Carola-jakker	B-OTH	B-MISC#O	s
+5	Carola-jakker	O	B-MISC#O	s
 6	,	O	O#O	s
 7	cocktail-parties	O	O#O	s
 8	,	O	O#O	s
@@ -45339,7 +45339,7 @@
 24	detalje	O	O#O	s
 25	til	O	O#O	s
 26	det	O	O#O	s
-27	italienske	B-OTH	B-LOCderiv#O	s
+27	italienske	O	B-LOCderiv#O	s
 28	TV	O	O#O	s
 29	.	O	O#O	s
 
@@ -45469,9 +45469,9 @@
 # sent_id = train-v2-2154
 # text = I Det Fri Aktuelt opfordrer Ritt Bjerregaard til en ny folkeafstemning om noget, der ligner Maastricht-Traktaten.
 1	I	O	O#O	s
-2	Det	B-OTH	B-MISC#O	s
-3	Fri	I-OTH	I-MISC#O	s
-4	Aktuelt	I-OTH	I-MISC#O	s
+2	Det	O	B-MISC#O	s
+3	Fri	O	I-MISC#O	s
+4	Aktuelt	O	I-MISC#O	s
 5	opfordrer	O	O#O	s
 6	Ritt	B-PER	B-PER#O	s
 7	Bjerregaard	I-PER	I-PER#O	s
@@ -45484,7 +45484,7 @@
 14	,	O	O#O	s
 15	der	O	O#O	s
 16	ligner	O	O#O	s
-17	Maastricht-Traktaten	B-OTH	B-MISC#O	s
+17	Maastricht-Traktaten	O	B-MISC#O	s
 18	.	O	O#O	s
 
 # sent_id = train-v2-2155
@@ -45497,7 +45497,7 @@
 6	kone	O	O#O	s
 7	,	O	O#O	s
 8	illegal	O	O#O	s
-9	italiensk	B-OTH	B-LOCderiv#O	s
+9	italiensk	O	B-LOCderiv#O	s
 10	immigrant	O	O#O	s
 11	.	O	O#O	s
 
@@ -45620,7 +45620,7 @@
 27	chefen	O	O#O	s
 28	for	O	O#O	s
 29	den	O	O#O	s
-30	danske	B-OTH	B-LOCderiv#O	s
+30	danske	O	B-LOCderiv#O	s
 31	FN-styrke	B-ORG	B-ORGpart#O	s
 32	Dancon	B-ORG	B-ORG#O	s
 33	,	O	O#O	s
@@ -45856,8 +45856,8 @@
 7	ud	O	O#O	s
 8	af	O	O#O	s
 9	den	O	O#O	s
-10	tyske	B-OTH	B-LOCderiv#O	s
-11	Gruppe-A-serie	B-OTH	B-MISC#O	s
+10	tyske	O	B-LOCderiv#O	s
+11	Gruppe-A-serie	O	B-MISC#O	s
 12	efter	O	O#O	s
 13	kontroverser	O	O#O	s
 14	omkring	O	O#O	s
@@ -45866,7 +45866,7 @@
 17	krumtapaksel	O	O#O	s
 18	i	O	O#O	s
 19	teamets	O	O#O	s
-20	V8'ere	B-OTH	B-MISCderiv#O	s
+20	V8'ere	O	B-MISCderiv#O	s
 21	,	O	O#O	s
 22	har	O	O#O	s
 23	meddelt	O	O#O	s
@@ -46162,9 +46162,9 @@
 9	Plum	I-PER	I-PER#O	s
 10	om	O	O#O	s
 11	"	O	O#O	s
-12	Kejserens	B-OTH	B-MISC#O	s
-13	ny	I-OTH	I-MISC#O	s
-14	bevidsthed	I-OTH	I-MISC#O	s
+12	Kejserens	O	B-MISC#O	s
+13	ny	O	I-MISC#O	s
+14	bevidsthed	O	I-MISC#O	s
 15	"	O	O#O	s
 16	af	O	O#O	s
 17	Roger	B-PER	B-PER#O	s
@@ -46202,7 +46202,7 @@
 12	af	O	O#O	s
 13	en	O	O#O	s
 14	tidligere	O	O#O	s
-15	irakisk	B-OTH	B-LOCderiv#O	s
+15	irakisk	O	B-LOCderiv#O	s
 16	regeringsminister	O	O#O	s
 17	.	O	O#O	s
 
@@ -46228,13 +46228,13 @@
 7	Plc	I-ORG	I-ORG#O	s
 8	,	O	O#O	s
 9	det	O	O#O	s
-10	tyske	B-OTH	B-LOCderiv#O	s
+10	tyske	O	B-LOCderiv#O	s
 11	Thyssen	B-ORG	B-ORG#O	s
 12	AG	I-ORG	I-ORG#O	s
 13	og	O	O#O	s
 14	det	O	O#O	s
-15	svenske	B-OTH	B-LOCderiv#O	s
-16	SSAB	B-OTH	B-ORGderiv#O	s
+15	svenske	O	B-LOCderiv#O	s
+16	SSAB	O	B-ORGderiv#O	s
 17	Svenskt	B-ORG	B-ORG#B-LOCderiv	s
 18	Stål	I-ORG	I-ORG#O	s
 19	AB	I-ORG	I-ORG#O	s
@@ -46260,7 +46260,7 @@
 
 # sent_id = train-v2-2192
 # text = Pemmican er plader af fedt, vitaminer og mineraler, der er velegnet til både hunde og mennesker i polarkulden - og smager af lige præcis det smagsstof, der tilsættes.
-1	Pemmican	B-OTH	B-MISC#O	s
+1	Pemmican	O	B-MISC#O	s
 2	er	O	O#O	s
 3	plader	O	O#O	s
 4	af	O	O#O	s
@@ -46358,7 +46358,7 @@
 
 # sent_id = train-v2-2196
 # text = Monoetylenglycol er normalt grønt eller blåt, og giver ved en 50 % blanding med vand en frostsikring på ca. minus 40 grader.
-1	Monoetylenglycol	B-OTH	B-MISC#O	s
+1	Monoetylenglycol	O	B-MISC#O	s
 2	er	O	O#O	s
 3	normalt	O	O#O	s
 4	grønt	O	O#O	s
@@ -46388,7 +46388,7 @@
 1	Chefen	O	O#O	s
 2	for	O	O#O	s
 3	det	O	O#O	s
-4	bosniske	B-OTH	B-LOCderiv#O	s
+4	bosniske	O	B-LOCderiv#O	s
 5	hjemmeværn	O	O#O	s
 6	,	O	O#O	s
 7	der	O	O#O	s
@@ -46449,7 +46449,7 @@
 32	inddraget	O	O#O	s
 33	af	O	O#O	s
 34	de	O	O#O	s
-35	danske	B-OTH	B-LOCderiv#O	s
+35	danske	O	B-LOCderiv#O	s
 36	luftfartsmyndigheder	O	O#O	s
 37	.	O	O#O	s
 
@@ -46468,7 +46468,7 @@
 4	sjældne	O	O#O	s
 5	tilfælde	O	O#O	s
 6	kan	O	O#O	s
-7	salmonella-bakterien	B-OTH	B-MISC#O	s
+7	salmonella-bakterien	O	B-MISC#O	s
 8	gå	O	O#O	s
 9	over	O	O#O	s
 10	i	O	O#O	s
@@ -46498,8 +46498,8 @@
 
 # sent_id = train-v2-2203
 # text = SVX Coupe har derimod træk på alle fire hjul, når den skal overføre de 230 hk fra den 3,3 liter store 6-cylinder boxermotor med en topfart på 235 km/t..
-1	SVX	B-OTH	B-MISC#O	s
-2	Coupe	I-OTH	I-MISC#O	s
+1	SVX	O	B-MISC#O	s
+2	Coupe	O	I-MISC#O	s
 3	har	O	O#O	s
 4	derimod	O	O#O	s
 5	træk	O	O#O	s
@@ -46667,7 +46667,7 @@
 53	og	O	O#O	s
 54	anti-holdning	O	O#O	s
 55	i	O	O#O	s
-56	Vietnamkrigen	B-OTH	B-MISC#O	s
+56	Vietnamkrigen	O	B-MISC#O	s
 57	.	O	O#O	s
 
 # sent_id = train-v2-2212
@@ -46705,7 +46705,7 @@
 
 # sent_id = train-v2-2214
 # text = Danskerne laver gerne sjov med politik, vi har friheden til det.
-1	Danskerne	B-OTH	B-LOCderiv#O	s
+1	Danskerne	O	B-LOCderiv#O	s
 2	laver	O	O#O	s
 3	gerne	O	O#O	s
 4	sjov	O	O#O	s
@@ -46853,7 +46853,7 @@
 7	spil	O	O#O	s
 8	fra	O	O#O	s
 9	det	O	O#O	s
-10	jyske	B-OTH	B-LOCderiv#O	s
+10	jyske	O	B-LOCderiv#O	s
 11	lokalopgør	O	O#O	s
 12	mellem	O	O#O	s
 13	på	O	O#O	s
@@ -46922,17 +46922,17 @@
 7	styrken	O	O#O	s
 8	også	O	O#O	s
 9	får	O	O#O	s
-10	amerikansk	B-OTH	B-LOCderiv#O	s
+10	amerikansk	O	B-LOCderiv#O	s
 11	deltagelse	O	O#O	s
 12	,	O	O#O	s
 13	og	O	O#O	s
 14	dermed	O	O#O	s
 15	fastholdes	O	O#O	s
 16	det	O	O#O	s
-17	atlantiske	B-OTH	B-LOCderiv#O	s
+17	atlantiske	O	B-LOCderiv#O	s
 18	perspektiv	O	O#O	s
 19	i	O	O#O	s
-20	europæisk	B-OTH	B-LOCderiv#O	s
+20	europæisk	O	B-LOCderiv#O	s
 21	sikkerhed	O	O#O	s
 22	.	O	O#O	s
 
@@ -47244,7 +47244,7 @@
 11	drive	O	O#O	s
 12	rock	O	O#O	s
 13	på	O	O#O	s
-14	bistandshjælp	B-OTH	B-MISC#O	s
+14	bistandshjælp	O	B-MISC#O	s
 15	,	O	O#O	s
 16	blind	O	O#O	s
 17	tro	O	O#O	s
@@ -47280,7 +47280,7 @@
 11	er	O	O#O	s
 12	ridder	O	O#O	s
 13	af	O	O#O	s
-14	Dannebrog	B-OTH	B-MISC#O	s
+14	Dannebrog	O	B-MISC#O	s
 15	,	O	O#O	s
 16	gennem	O	O#O	s
 17	de	O	O#O	s
@@ -47326,7 +47326,7 @@
 6	af	O	O#O	s
 7	de	O	O#O	s
 8	nyere	O	O#O	s
-9	danske	B-OTH	B-LOCderiv#O	s
+9	danske	O	B-LOCderiv#O	s
 10	mærker	O	O#O	s
 11	,	O	O#O	s
 12	der	O	O#O	s
@@ -47336,7 +47336,7 @@
 16	historie	O	O#O	s
 17	om	O	O#O	s
 18	det	O	O#O	s
-19	danske	B-OTH	B-LOCderiv#O	s
+19	danske	O	B-LOCderiv#O	s
 20	folk	O	O#O	s
 21	og	O	O#O	s
 22	dets	O	O#O	s
@@ -47451,7 +47451,7 @@
 7	forbudt	O	O#O	s
 8	at	O	O#O	s
 9	besidde	O	O#O	s
-10	hash	B-OTH	B-MISC#O	s
+10	hash	O	B-MISC#O	s
 11	eller	O	O#O	s
 12	overdrage	O	O#O	s
 13	det	O	O#O	s
@@ -47571,7 +47571,7 @@
 16	går	O	O#O	s
 17	til	O	O#O	s
 18	et	O	O#O	s
-19	AIDS-projekt	B-OTH	B-MISCpart#O	s
+19	AIDS-projekt	O	B-MISCpart#O	s
 20	i	O	O#O	s
 21	Tanzania	B-LOC	B-LOC#O	s
 22	.	O	O#O	s
@@ -47727,8 +47727,8 @@
 8	,	O	O#O	s
 9	dagen	O	O#O	s
 10	hvor	O	O#O	s
-11	Anden	B-OTH	B-MISC#O	s
-12	Verdenskrig	I-OTH	I-MISC#O	s
+11	Anden	O	B-MISC#O	s
+12	Verdenskrig	O	I-MISC#O	s
 13	blev	O	O#O	s
 14	startet	O	O#O	s
 15	i	O	O#O	s
@@ -47887,13 +47887,13 @@
 3	idémændene	O	O#O	s
 4	bag	O	O#O	s
 5	programmet	O	O#O	s
-6	Scout	B-OTH	B-MISC#O	s
+6	Scout	O	B-MISC#O	s
 7	,	O	O#O	s
 8	der	O	O#O	s
 9	ved	O	O#O	s
 10	indgangen	O	O#O	s
 11	til	O	O#O	s
-12	MikroData-messen	B-OTH	B-MISCpart#O	s
+12	MikroData-messen	O	B-MISCpart#O	s
 13	viser	O	O#O	s
 14	vej	O	O#O	s
 15	i	O	O#O	s
@@ -48216,7 +48216,7 @@
 18	i	O	O#O	s
 19	udlandet	O	O#O	s
 20	for	O	O#O	s
-21	sclerosepatienter	B-OTH	B-MISCpart#O	s
+21	sclerosepatienter	O	B-MISCpart#O	s
 22	.	O	O#O	s
 
 # sent_id = train-v2-2288
@@ -48474,7 +48474,7 @@
 13	"	O	O#O	s
 14	siger	O	O#O	s
 15	den	O	O#O	s
-16	socialdemokratiske	B-OTH	B-ORGderiv#O	s
+16	socialdemokratiske	O	B-ORGderiv#O	s
 17	formand	O	O#O	s
 18	for	O	O#O	s
 19	Markedudvalget	B-ORG	B-ORG#O	s
@@ -48596,9 +48596,9 @@
 3	en	O	O#O	s
 4	soldat	O	O#O	s
 5	(	O	O#O	s
-6	Ballada	B-OTH	B-MISC#O	s
-7	0	I-OTH	I-MISC#O	s
-8	soldate	I-OTH	I-MISC#O	s
+6	Ballada	O	B-MISC#O	s
+7	0	O	I-MISC#O	s
+8	soldate	O	I-MISC#O	s
 9	)	O	O#O	s
 10	,	O	O#O	s
 11	Sovjet	B-LOC	B-LOC#O	s
@@ -48671,9 +48671,9 @@
 19	præsentere	O	O#O	s
 20	Dorrit	B-PER	B-PER#O	s
 21	Willumsens	I-PER	I-PER#O	s
-22	Ud	B-OTH	B-MISC#O	s
-23	af	I-OTH	I-MISC#O	s
-24	billedet	I-OTH	I-MISC#O	s
+22	Ud	O	B-MISC#O	s
+23	af	O	I-MISC#O	s
+24	billedet	O	I-MISC#O	s
 25	17	O	O#O	s
 26	år	O	O#O	s
 27	efter	O	O#O	s
@@ -49076,7 +49076,7 @@
 26	der	O	O#O	s
 27	tvang	O	O#O	s
 28	de	O	O#O	s
-29	irakiske	B-OTH	B-LOCderiv#O	s
+29	irakiske	O	B-LOCderiv#O	s
 30	styrker	O	O#O	s
 31	ud	O	O#O	s
 32	af	O	O#O	s
@@ -49118,7 +49118,7 @@
 3	netop	O	O#O	s
 4	af	O	O#O	s
 5	de	O	O#O	s
-6	spanske	B-OTH	B-LOCderiv#O	s
+6	spanske	O	B-LOCderiv#O	s
 7	myndigheder	O	O#O	s
 8	fået	O	O#O	s
 9	tilladelse	O	O#O	s
@@ -49199,7 +49199,7 @@
 4	til	O	O#O	s
 5	næste	O	O#O	s
 6	års	O	O#O	s
-7	Le-Mans-race	B-OTH	B-MISC#O	s
+7	Le-Mans-race	O	B-MISC#O	s
 8	kører	O	O#O	s
 9	ACO	B-ORG	B-ORG#O	s
 10	en	O	O#O	s
@@ -49242,7 +49242,7 @@
 1	"	O	O#O	s
 2	Det	O	O#O	s
 3	har	O	O#O	s
-4	danskerne	B-OTH	B-LOCderiv#O	s
+4	danskerne	O	B-LOCderiv#O	s
 5	nu	O	O#O	s
 6	altid	O	O#O	s
 7	været	O	O#O	s
@@ -49366,7 +49366,7 @@
 16	at	O	O#O	s
 17	stadig	O	O#O	s
 18	flere	O	O#O	s
-19	danskere	B-OTH	B-LOCderiv#O	s
+19	danskere	O	B-LOCderiv#O	s
 20	vil	O	O#O	s
 21	uddanne	O	O#O	s
 22	sig	O	O#O	s
@@ -49449,7 +49449,7 @@
 4	den	O	O#O	s
 5	lille	O	O#O	s
 6	målfarlige	O	O#O	s
-7	franskmand	B-OTH	B-LOCderiv#O	s
+7	franskmand	O	B-LOCderiv#O	s
 8	i	O	O#O	s
 9	sæsonen	O	O#O	s
 10	1985-86	O	O#O	s
@@ -49465,8 +49465,8 @@
 20	fem	O	O#O	s
 21	pletskud	O	O#O	s
 22	i	O	O#O	s
-23	UEFA	B-OTH	B-MISC#B-ORG	s
-24	Cup'en	I-OTH	I-MISC#O	s
+23	UEFA	O	B-MISC#B-ORG	s
+24	Cup'en	O	I-MISC#O	s
 25	.	O	O#O	s
 
 # sent_id = train-v2-2343
@@ -49522,7 +49522,7 @@
 15	sammen	O	O#O	s
 16	med	O	O#O	s
 17	det	O	O#O	s
-18	danske	B-OTH	B-LOCderiv#O	s
+18	danske	O	B-LOCderiv#O	s
 19	dansemiljøs	O	O#O	s
 20	"	O	O#O	s
 21	svingende	O	O#O	s
@@ -49557,7 +49557,7 @@
 13	programsætte	O	O#O	s
 14	returkampen	O	O#O	s
 15	i	O	O#O	s
-16	Europa-Cup-turneringen	B-OTH	B-MISC#O	s
+16	Europa-Cup-turneringen	O	B-MISC#O	s
 17	for	O	O#O	s
 18	mestre	O	O#O	s
 19	til	O	O#O	s
@@ -49585,7 +49585,7 @@
 
 # sent_id = train-v2-2349
 # text = Danskheden overlever
-1	Danskheden	B-OTH	B-LOCderiv#O	s
+1	Danskheden	O	B-LOCderiv#O	s
 2	overlever	O	O#O	s
 
 # sent_id = train-v2-2350
@@ -49780,7 +49780,7 @@
 3	det	O	O#O	s
 4	med	O	O#O	s
 5	"	O	O#O	s
-6	Karlavagnen	B-OTH	B-MISC#O	s
+6	Karlavagnen	O	B-MISC#O	s
 7	"	O	O#O	s
 8	som	O	O#O	s
 9	Ulf	B-PER	B-PER#O	s
@@ -49788,7 +49788,7 @@
 11	børnebog	O	O#O	s
 12	hedder	O	O#O	s
 13	på	O	O#O	s
-14	svensk	B-OTH	B-LOCderiv#O	s
+14	svensk	O	B-LOCderiv#O	s
 15	,	O	O#O	s
 16	hvor	O	O#O	s
 17	der	O	O#O	s
@@ -49870,7 +49870,7 @@
 6	hos	O	O#O	s
 7	de	O	O#O	s
 8	store	O	O#O	s
-9	tyske	B-OTH	B-LOCderiv#O	s
+9	tyske	O	B-LOCderiv#O	s
 10	partier	O	O#O	s
 11	,	O	O#O	s
 12	både	O	O#O	s
@@ -50091,7 +50091,7 @@
 
 # sent_id = train-v2-2378
 # text = Hollandsk Gouda med enten brændenælder eller hvidløg koster 11,50 kr. for 100 g..
-1	Hollandsk	B-OTH	B-LOCderiv#O	s
+1	Hollandsk	O	B-LOCderiv#O	s
 2	Gouda	O	O#O	s
 3	med	O	O#O	s
 4	enten	O	O#O	s
@@ -50189,7 +50189,7 @@
 1	I	O	O#O	s
 2	1996	O	O#O	s
 3	vil	O	O#O	s
-4	Unix-andelen	B-OTH	B-MISCpart#O	s
+4	Unix-andelen	O	B-MISCpart#O	s
 5	være	O	O#O	s
 6	på	O	O#O	s
 7	70-80	O	O#O	s
@@ -50208,7 +50208,7 @@
 20	for	O	O#O	s
 21	analysen	O	O#O	s
 22	af	O	O#O	s
-23	Unix-markedet	B-OTH	B-MISCpart#O	s
+23	Unix-markedet	O	B-MISCpart#O	s
 24	.	O	O#O	s
 
 # sent_id = train-v2-2385
@@ -50617,19 +50617,19 @@
 2	Vi	O	O#O	s
 3	tar'	O	O#O	s
 4	en	O	O#O	s
-5	tysker	B-OTH	B-LOCderiv#O	s
+5	tysker	O	B-LOCderiv#O	s
 6	frem	O	O#O	s
 7	,	O	O#O	s
 8	vi	O	O#O	s
 9	tar'	O	O#O	s
 10	en	O	O#O	s
-11	tysker	B-OTH	B-LOCderiv#O	s
+11	tysker	O	B-LOCderiv#O	s
 12	tilbage	O	O#O	s
 13	,	O	O#O	s
 14	vi	O	O#O	s
 15	tar'	O	O#O	s
 16	en	O	O#O	s
-17	tysker	B-OTH	B-LOCderiv#O	s
+17	tysker	O	B-LOCderiv#O	s
 18	frem	O	O#O	s
 19	,	O	O#O	s
 20	åååårrr	O	O#O	s
@@ -50659,8 +50659,8 @@
 10	hoppede	O	O#O	s
 11	ind	O	O#O	s
 12	i	O	O#O	s
-13	Land	B-OTH	B-MISC#B-ORG	s
-14	Roveren	I-OTH	I-MISC#I-ORG	s
+13	Land	O	B-MISC#B-ORG	s
+14	Roveren	O	I-MISC#I-ORG	s
 15	og	O	O#O	s
 16	snuppede	O	O#O	s
 17	radiotelefonen	O	O#O	s
@@ -50684,7 +50684,7 @@
 35	han	O	O#O	s
 36	på	O	O#O	s
 37	gebrokkent	O	O#O	s
-38	engelsk	B-OTH	B-LOCderiv#O	s
+38	engelsk	O	B-LOCderiv#O	s
 39	.	O	O#O	s
 
 # sent_id = train-v2-2404
@@ -50826,14 +50826,14 @@
 23	med	O	O#O	s
 24	filmen	O	O#O	s
 25	"	O	O#O	s
-26	Gensyn	B-OTH	B-MISC#O	s
-27	med	I-OTH	I-MISC#O	s
-28	vennerne	I-OTH	I-MISC#O	s
+26	Gensyn	O	B-MISC#O	s
+27	med	O	I-MISC#O	s
+28	vennerne	O	I-MISC#O	s
 29	"	O	O#O	s
 30	og	O	O#O	s
 31	senere	O	O#O	s
 32	"	O	O#O	s
-33	Valmont	B-OTH	B-MISC#O	s
+33	Valmont	O	B-MISC#O	s
 34	"	O	O#O	s
 35	.	O	O#O	s
 
@@ -51262,7 +51262,7 @@
 3	forstår	O	O#O	s
 4	sig	O	O#O	s
 5	på	O	O#O	s
-6	Maastricht-aftalerne	B-OTH	B-MISC#O	s
+6	Maastricht-aftalerne	O	B-MISC#O	s
 7	og	O	O#O	s
 8	hvilke	O	O#O	s
 9	konsekvenser	O	O#O	s
@@ -51420,7 +51420,7 @@
 6	til	O	O#O	s
 7	Østersøen	B-LOC	B-LOC#O	s
 8	,	O	O#O	s
-9	bælterne	B-OTH	B-LOCderiv#O	s
+9	bælterne	O	B-LOCderiv#O	s
 10	og	O	O#O	s
 11	Kattegat	B-LOC	B-LOC#O	s
 12	er	O	O#O	s
@@ -51429,14 +51429,14 @@
 15	,	O	O#O	s
 16	belaster	O	O#O	s
 17	hver	O	O#O	s
-18	dansker	B-OTH	B-LOCderiv#O	s
+18	dansker	O	B-LOCderiv#O	s
 19	dette	O	O#O	s
 20	havmiljø	O	O#O	s
 21	meget	O	O#O	s
 22	kraftigere	O	O#O	s
 23	end	O	O#O	s
 24	hver	O	O#O	s
-25	polak	B-OTH	B-LOCderiv#O	s
+25	polak	O	B-LOCderiv#O	s
 26	eller	O	O#O	s
 27	hver	O	O#O	s
 28	sovjetborger	B-LOC	B-LOCpart#O	s
@@ -51655,12 +51655,12 @@
 15	Swayze	I-PER	I-PER#O	s
 16	(	O	O#O	s
 17	"	O	O#O	s
-18	Ghost	B-OTH	B-MISC#O	s
+18	Ghost	O	B-MISC#O	s
 19	"	O	O#O	s
 20	og	O	O#O	s
 21	"	O	O#O	s
-22	Point	B-OTH	B-MISC#O	s
-23	Break	I-OTH	I-MISC#O	s
+22	Point	O	B-MISC#O	s
+23	Break	O	I-MISC#O	s
 24	"	O	O#O	s
 25	)	O	O#O	s
 26	,	O	O#O	s
@@ -51668,8 +51668,8 @@
 28	Gere	I-PER	I-PER#O	s
 29	(	O	O#O	s
 30	"	O	O#O	s
-31	Pretty	B-OTH	B-MISC#O	s
-32	Woman	I-OTH	I-MISC#O	s
+31	Pretty	O	B-MISC#O	s
+32	Woman	O	I-MISC#O	s
 33	"	O	O#O	s
 34	)	O	O#O	s
 35	og	O	O#O	s
@@ -51677,13 +51677,13 @@
 37	Costner	I-PER	I-PER#O	s
 38	(	O	O#O	s
 39	"	O	O#O	s
-40	Danser	B-OTH	B-MISC#O	s
-41	med	I-OTH	I-MISC#O	s
-42	Ulve	I-OTH	I-MISC#O	s
+40	Danser	O	B-MISC#O	s
+41	med	O	I-MISC#O	s
+42	Ulve	O	I-MISC#O	s
 43	"	O	O#O	s
 44	,	O	O#O	s
 45	"	O	O#O	s
-46	JFK	B-OTH	B-MISC#O	s
+46	JFK	O	B-MISC#O	s
 47	"	O	O#O	s
 48	)	O	O#O	s
 49	-	O	O#O	s
@@ -51730,8 +51730,8 @@
 3	er	O	O#O	s
 4	også	O	O#O	s
 5	en	O	O#O	s
-6	Ducato	B-OTH	B-MISC#B-ORG	s
-7	Panorama	I-OTH	I-MISC#O	s
+6	Ducato	O	B-MISC#B-ORG	s
+7	Panorama	O	I-MISC#O	s
 8	minibus	O	O#O	s
 9	med	O	O#O	s
 10	10	O	O#O	s
@@ -51739,12 +51739,12 @@
 12	og	O	O#O	s
 13	yderligere	O	O#O	s
 14	en	O	O#O	s
-15	Ducato	B-OTH	B-MISC#B-ORG	s
-16	14	I-OTH	I-MISC#O	s
+15	Ducato	O	B-MISC#B-ORG	s
+16	14	O	I-MISC#O	s
 17	kassevogn	O	O#O	s
 18	,	O	O#O	s
-19	Ducato	B-OTH	B-MISC#B-ORG	s
-20	18	I-OTH	I-MISC#O	s
+19	Ducato	O	B-MISC#B-ORG	s
+20	18	O	I-MISC#O	s
 21	kassevogn	O	O#O	s
 22	med	O	O#O	s
 23	højt	O	O#O	s
@@ -51755,8 +51755,8 @@
 28	diesel	O	O#O	s
 29	motor	O	O#O	s
 30	,	O	O#O	s
-31	Ducato	B-OTH	B-MISC#B-ORG	s
-32	18	I-OTH	I-MISC#O	s
+31	Ducato	O	B-MISC#B-ORG	s
+32	18	O	I-MISC#O	s
 33	med	O	O#O	s
 34	dobbeltkabine	O	O#O	s
 35	og	O	O#O	s
@@ -51765,9 +51765,9 @@
 38	kran	O	O#O	s
 39	,	O	O#O	s
 40	samt	O	O#O	s
-41	Ducato	B-OTH	B-MISC#B-ORG	s
-42	18	I-OTH	I-MISC#O	s
-43	Chassis	I-OTH	I-MISC#O	s
+41	Ducato	O	B-MISC#B-ORG	s
+42	18	O	I-MISC#O	s
+43	Chassis	O	I-MISC#O	s
 44	med	O	O#O	s
 45	tiplad	O	O#O	s
 46	.	O	O#O	s
@@ -51970,9 +51970,9 @@
 1	Som	O	O#O	s
 2	følge	O	O#O	s
 3	af	O	O#O	s
-4	Den	B-OTH	B-MISC#O	s
-5	Kolde	I-OTH	I-MISC#O	s
-6	Krigs	I-OTH	I-MISC#O	s
+4	Den	O	B-MISC#O	s
+5	Kolde	O	I-MISC#O	s
+6	Krigs	O	I-MISC#O	s
 7	afslutning	O	O#O	s
 8	og	O	O#O	s
 9	mange	O	O#O	s
@@ -52110,7 +52110,7 @@
 # sent_id = train-v2-2476
 # text = De scleroseramte får ofte psykiske, sociale og økonomiske problemer.
 1	De	O	O#O	s
-2	scleroseramte	B-OTH	B-MISCpart#O	s
+2	scleroseramte	O	B-MISCpart#O	s
 3	får	O	O#O	s
 4	ofte	O	O#O	s
 5	psykiske	O	O#O	s
@@ -52457,7 +52457,7 @@
 7	mod	O	O#O	s
 8	det	O	O#O	s
 9	åbenlyse	O	O#O	s
-10	hashmarked	B-OTH	B-MISCpart#O	s
+10	hashmarked	O	B-MISCpart#O	s
 11	,	O	O#O	s
 12	og	O	O#O	s
 13	vi	O	O#O	s
@@ -52673,7 +52673,7 @@
 
 # sent_id = train-v2-2502
 # text = Astma-Bodil og Rødberg var færdige med deres lufttur.
-1	Astma-Bodil	B-OTH	B-MISCpart#B-PERpart	s
+1	Astma-Bodil	O	B-MISCpart#B-PERpart	s
 2	og	O	O#O	s
 3	Rødberg	B-PER	B-PER#O	s
 4	var	O	O#O	s
@@ -52718,8 +52718,8 @@
 14	-	O	O#O	s
 15	mærkerne	O	O#O	s
 16	fra	O	O#O	s
-17	Solens	B-OTH	B-MISC#O	s
-18	Rige	I-OTH	I-MISC#O	s
+17	Solens	O	B-MISC#O	s
+18	Rige	O	I-MISC#O	s
 19	får	O	O#O	s
 20	det	O	O#O	s
 21	til	O	O#O	s
@@ -52939,7 +52939,7 @@
 21	op	O	O#O	s
 22	i	O	O#O	s
 23	en	O	O#O	s
-24	kinesisk	B-OTH	B-LOCderiv#O	s
+24	kinesisk	O	B-LOCderiv#O	s
 25	familie	O	O#O	s
 26	i	O	O#O	s
 27	USA	B-LOC	B-LOC#O	s
@@ -53293,9 +53293,9 @@
 10	John	B-PER	B-PER#O	s
 11	Mellencamps	I-PER	I-PER#O	s
 12	"	O	O#O	s
-13	Whenever	B-OTH	B-MISC#O	s
-14	We	I-OTH	I-MISC#O	s
-15	Wanted	I-OTH	I-MISC#O	s
+13	Whenever	O	B-MISC#O	s
+14	We	O	I-MISC#O	s
+15	Wanted	O	I-MISC#O	s
 16	"	O	O#O	s
 17	fra	O	O#O	s
 18	sidste	O	O#O	s
@@ -53316,7 +53316,7 @@
 10	handelstid	O	O#O	s
 11	"	O	O#O	s
 12	i	O	O#O	s
-13	tyrkisk	B-OTH	B-LOCderiv#O	s
+13	tyrkisk	O	B-LOCderiv#O	s
 14	fodbold	O	O#O	s
 15	.	O	O#O	s
 
@@ -53339,7 +53339,7 @@
 # text = For hver engelsk mil og femte kilometer er der opstillet ure, så løberne kan regne ud, om de holder deres personlige tider.
 1	For	O	O#O	s
 2	hver	O	O#O	s
-3	engelsk	B-OTH	B-LOCderiv#O	s
+3	engelsk	O	B-LOCderiv#O	s
 4	mil	O	O#O	s
 5	og	O	O#O	s
 6	femte	O	O#O	s
@@ -53469,7 +53469,7 @@
 4	,	O	O#O	s
 5	at	O	O#O	s
 6	amtets	O	O#O	s
-7	AIDS-sekretariat	B-OTH	B-MISCpart#O	s
+7	AIDS-sekretariat	O	B-MISCpart#O	s
 8	skulle	O	O#O	s
 9	have	O	O#O	s
 10	været	O	O#O	s
@@ -53551,7 +53551,7 @@
 4	medvirker	O	O#O	s
 5	desuden	O	O#O	s
 6	den	O	O#O	s
-7	britiske	B-OTH	B-LOCderiv#O	s
+7	britiske	O	B-LOCderiv#O	s
 8	sangerinde	O	O#O	s
 9	Norma	B-PER	B-PER#O	s
 10	Winstone	I-PER	I-PER#O	s
@@ -53599,7 +53599,7 @@
 # sent_id = train-v2-2548
 # text = "Karlsvognen".
 1	"	O	O#O	s
-2	Karlsvognen	B-OTH	B-MISC#O	s
+2	Karlsvognen	O	B-MISC#O	s
 3	"	O	O#O	s
 4	.	O	O#O	s
 
@@ -53783,7 +53783,7 @@
 4	,	O	O#O	s
 5	at	O	O#O	s
 6	mange	O	O#O	s
-7	danskere	B-OTH	B-LOCderiv#O	s
+7	danskere	O	B-LOCderiv#O	s
 8	er	O	O#O	s
 9	villige	O	O#O	s
 10	til	O	O#O	s
@@ -53822,7 +53822,7 @@
 12	der	O	O#O	s
 13	kaldes	O	O#O	s
 14	for	O	O#O	s
-15	Cairo-step	B-OTH	B-MISC#B-LOCpart	s
+15	Cairo-step	O	B-MISC#B-LOCpart	s
 16	.	O	O#O	s
 
 # sent_id = train-v2-2559
@@ -54082,7 +54082,7 @@
 10	manglende	O	O#O	s
 11	respekt	O	O#O	s
 12	for	O	O#O	s
-13	Grundloven	B-OTH	B-MISC#O	s
+13	Grundloven	O	B-MISC#O	s
 14	.	O	O#O	s
 
 # sent_id = train-v2-2574
@@ -54117,7 +54117,7 @@
 14	kursus	O	O#O	s
 15	for	O	O#O	s
 16	34	O	O#O	s
-17	polske	B-OTH	B-LOCderiv#O	s
+17	polske	O	B-LOCderiv#O	s
 18	lærere	O	O#O	s
 19	fra	O	O#O	s
 20	tekniske	O	O#O	s
@@ -54503,7 +54503,7 @@
 # sent_id = train-v2-2593
 # text = Hver dansker sit klagepunkt over Danmarks Radios hidtil dyreste egenproduktion.
 1	Hver	O	O#O	s
-2	dansker	B-OTH	B-LOCderiv#O	s
+2	dansker	O	B-LOCderiv#O	s
 3	sit	O	O#O	s
 4	klagepunkt	O	O#O	s
 5	over	O	O#O	s
@@ -54630,7 +54630,7 @@
 23	analytiker	O	O#O	s
 24	af	O	O#O	s
 25	den	O	O#O	s
-26	europæiske	B-OTH	B-LOCderiv#O	s
+26	europæiske	O	B-LOCderiv#O	s
 27	stålindustri	O	O#O	s
 28	hos	O	O#O	s
 29	Morgan	B-ORG	B-ORG#B-PER	s
@@ -54954,7 +54954,7 @@
 11	,	O	O#O	s
 12	står	O	O#O	s
 13	hendes	O	O#O	s
-14	danske	B-OTH	B-LOCderiv#O	s
+14	danske	O	B-LOCderiv#O	s
 15	kollega	O	O#O	s
 16	Anne-Mette	B-PER	B-PER#O	s
 17	Larsen	I-PER	I-PER#O	s
@@ -55290,14 +55290,14 @@
 4	foruroligende	O	O#O	s
 5	er	O	O#O	s
 6	det	O	O#O	s
-7	bosniske	B-OTH	B-LOCderiv#O	s
+7	bosniske	O	B-LOCderiv#O	s
 8	baghold	O	O#O	s
 9	,	O	O#O	s
 10	hvorved	O	O#O	s
 11	nogle	O	O#O	s
 12	af	O	O#O	s
 13	de	O	O#O	s
-14	serbiske	B-OTH	B-LOCderiv#O	s
+14	serbiske	O	B-LOCderiv#O	s
 15	soldater	O	O#O	s
 16	,	O	O#O	s
 17	der	O	O#O	s
@@ -55358,7 +55358,7 @@
 13	været	O	O#O	s
 14	omtalt	O	O#O	s
 15	i	O	O#O	s
-16	Skalk	B-OTH	B-MISC#O	s
+16	Skalk	O	B-MISC#O	s
 17	(	O	O#O	s
 18	1986:5	O	O#O	s
 19	)	O	O#O	s
@@ -55419,7 +55419,7 @@
 7	en	O	O#O	s
 8	formentlig	O	O#O	s
 9	professionel	O	O#O	s
-10	jugoslavisk	B-OTH	B-LOCderiv#O	s
+10	jugoslavisk	O	B-LOCderiv#O	s
 11	bande	O	O#O	s
 12	en	O	O#O	s
 13	række	O	O#O	s
@@ -55581,8 +55581,8 @@
 24	Danmark	B-LOC	B-LOC#O	s
 25	med	O	O#O	s
 26	"	O	O#O	s
-27	Bang	B-OTH	B-MISC#O	s
-28	Bang	I-OTH	I-MISC#O	s
+27	Bang	O	B-MISC#O	s
+28	Bang	O	I-MISC#O	s
 29	"	O	O#O	s
 30	for	O	O#O	s
 31	små	O	O#O	s
@@ -55615,7 +55615,7 @@
 5	i	O	O#O	s
 6	succesforestillingen	O	O#O	s
 7	"	O	O#O	s
-8	Hamlet	B-OTH	B-MISC#O	s
+8	Hamlet	O	B-MISC#O	s
 9	"	O	O#O	s
 10	på	O	O#O	s
 11	Betty	B-ORG	B-ORG#O	s
@@ -55918,14 +55918,14 @@
 21	af	O	O#O	s
 22	rummeligheds-giganter	O	O#O	s
 23	som	O	O#O	s
-24	Citroen	B-OTH	B-MISC#B-ORG	s
-25	XM	I-OTH	I-MISC#O	s
+24	Citroen	O	B-MISC#B-ORG	s
+25	XM	O	I-MISC#O	s
 26	,	O	O#O	s
-27	Opel	B-OTH	B-MISC#B-ORG	s
-28	Omega	I-OTH	I-MISC#O	s
+27	Opel	O	B-MISC#B-ORG	s
+28	Omega	O	I-MISC#O	s
 29	og	O	O#O	s
-30	Peugeot	B-OTH	B-MISC#B-ORG	s
-31	605	I-OTH	I-MISC#O	s
+30	Peugeot	O	B-MISC#B-ORG	s
+31	605	O	I-MISC#O	s
 32	.	O	O#O	s
 
 # sent_id = train-v2-2656
@@ -55937,7 +55937,7 @@
 5	Gorky	B-ORG	B-ORG#O	s
 6	Park	I-ORG	I-ORG#O	s
 7	på	O	O#O	s
-8	Roskilde	B-OTH	B-MISC#B-LOC	s
+8	Roskilde	O	B-MISC#B-LOC	s
 9	Festivalen	I-ORG	I-ORG#O	s
 10	og	O	O#O	s
 11	flyttede	O	O#O	s
@@ -56179,7 +56179,7 @@
 16	køber	O	O#O	s
 17	en	O	O#O	s
 18	dåse	O	O#O	s
-19	Motorrens	B-OTH	B-MISC#O	s
+19	Motorrens	O	B-MISC#O	s
 20	på	O	O#O	s
 21	en	O	O#O	s
 22	tankstation	O	O#O	s
@@ -56212,10 +56212,10 @@
 12	saftige	O	O#O	s
 13	roman	O	O#O	s
 14	"	O	O#O	s
-15	Stille	B-OTH	B-MISC#O	s
-16	dage	I-OTH	I-MISC#O	s
-17	i	I-OTH	I-MISC#O	s
-18	Clichy	I-OTH	I-MISC#B-LOC	s
+15	Stille	O	B-MISC#O	s
+16	dage	O	I-MISC#O	s
+17	i	O	I-MISC#O	s
+18	Clichy	O	I-MISC#B-LOC	s
 19	"	O	O#O	s
 20	,	O	O#O	s
 21	hvor	O	O#O	s
@@ -56416,7 +56416,7 @@
 14	deltager	O	O#O	s
 15	i	O	O#O	s
 16	årets	O	O#O	s
-17	uha-festival	B-OTH	B-MISC#O	s
+17	uha-festival	O	B-MISC#O	s
 18	.	O	O#O	s
 
 # sent_id = train-v2-2676
@@ -56426,7 +56426,7 @@
 3	man	O	O#O	s
 4	fra	O	O#O	s
 5	velmenende	O	O#O	s
-6	danskeres	B-OTH	B-LOCderiv#O	s
+6	danskeres	O	B-LOCderiv#O	s
 7	side	O	O#O	s
 8	fortsætter	O	O#O	s
 9	med	O	O#O	s
@@ -56446,7 +56446,7 @@
 23	sig	O	O#O	s
 24	i	O	O#O	s
 25	det	O	O#O	s
-26	danske	B-OTH	B-LOCderiv#O	s
+26	danske	O	B-LOCderiv#O	s
 27	samfund	O	O#O	s
 28	,	O	O#O	s
 29	vil	O	O#O	s
@@ -56589,7 +56589,7 @@
 31	der	O	O#O	s
 32	i	O	O#O	s
 33	den	O	O#O	s
-34	danske	B-OTH	B-LOCderiv#O	s
+34	danske	O	B-LOCderiv#O	s
 35	straffelov	O	O#O	s
 36	indsættes	O	O#O	s
 37	en	O	O#O	s
@@ -56603,7 +56603,7 @@
 45	ulovliggør	O	O#O	s
 46	,	O	O#O	s
 47	at	O	O#O	s
-48	HIV-smittede	B-OTH	B-MISCpart#O	s
+48	HIV-smittede	O	B-MISCpart#O	s
 49	personer	O	O#O	s
 50	bevidst	O	O#O	s
 51	smitter	O	O#O	s
@@ -56737,8 +56737,8 @@
 
 # sent_id = train-v2-2689
 # text = Tønder Festivalen, lørdag.
-1	Tønder	B-OTH	B-MISC#B-ORG	s
-2	Festivalen	I-OTH	I-MISC#I-ORG	s
+1	Tønder	O	B-MISC#B-ORG	s
+2	Festivalen	O	I-MISC#I-ORG	s
 3	,	O	O#O	s
 4	lørdag	O	O#O	s
 5	.	O	O#O	s
@@ -57059,7 +57059,7 @@
 18	som	O	O#O	s
 19	drejede	O	O#O	s
 20	en	O	O#O	s
-21	dansk	B-OTH	B-LOCderiv#O	s
+21	dansk	O	B-LOCderiv#O	s
 22	spillefilm	O	O#O	s
 23	i	O	O#O	s
 24	farver	O	O#O	s
@@ -57068,7 +57068,7 @@
 # sent_id = train-v2-2705
 # text = Det tyske landshold spillede uden kvalitet i alle kampe undtagen kampen mod Sverige.
 1	Det	O	O#O	s
-2	tyske	B-OTH	B-LOCderiv#O	s
+2	tyske	O	B-LOCderiv#O	s
 3	landshold	O	O#O	s
 4	spillede	O	O#O	s
 5	uden	O	O#O	s
@@ -57225,8 +57225,8 @@
 5	understregede	O	O#O	s
 6	linien	O	O#O	s
 7	til	O	O#O	s
-8	Moving	B-OTH	B-MISC#O	s
-9	Hearts	I-OTH	I-MISC#O	s
+8	Moving	O	B-MISC#O	s
+9	Hearts	O	I-MISC#O	s
 10	med	O	O#O	s
 11	sin	O	O#O	s
 12	tydelige	O	O#O	s
@@ -57246,7 +57246,7 @@
 26	høre	O	O#O	s
 27	på	O	O#O	s
 28	en	O	O#O	s
-29	dansk	B-OTH	B-LOCderiv#O	s
+29	dansk	O	B-LOCderiv#O	s
 30	scene	O	O#O	s
 31	)	O	O#O	s
 32	.	O	O#O	s
@@ -57361,7 +57361,7 @@
 7	øvrige	O	O#O	s
 8	besætningsmedlemmer	O	O#O	s
 9	på	O	O#O	s
-10	Kamilla	B-OTH	B-MISC#B-PER	s
+10	Kamilla	O	B-MISC#B-PER	s
 11	,	O	O#O	s
 12	der	O	O#O	s
 13	var	O	O#O	s
@@ -57907,7 +57907,7 @@
 24	demokratiet	O	O#O	s
 25	-	O	O#O	s
 26	som	O	O#O	s
-27	danskere	B-OTH	B-LOCderiv#O	s
+27	danskere	O	B-LOCderiv#O	s
 28	tværtimod	O	O#O	s
 29	hylder	O	O#O	s
 30	endnu	O	O#O	s
@@ -58010,7 +58010,7 @@
 19	at	O	O#O	s
 20	den	O	O#O	s
 21	demokratiske	O	O#O	s
-22	russiske	B-OTH	B-LOCderiv#O	s
+22	russiske	O	B-LOCderiv#O	s
 23	regering	O	O#O	s
 24	ikke	O	O#O	s
 25	kan	O	O#O	s
@@ -58331,7 +58331,7 @@
 11	hermetisk	O	O#O	s
 12	lukket	O	O#O	s
 13	for	O	O#O	s
-14	danske	B-OTH	B-LOCderiv#O	s
+14	danske	O	B-LOCderiv#O	s
 15	engagementer	O	O#O	s
 16	i	O	O#O	s
 17	Kina	B-LOC	B-LOC#O	s
@@ -58378,7 +58378,7 @@
 31	krigsskibe	O	O#O	s
 32	patruljere	O	O#O	s
 33	den	O	O#O	s
-34	jugoslaviske	B-OTH	B-LOCderiv#O	s
+34	jugoslaviske	O	B-LOCderiv#O	s
 35	kyst	O	O#O	s
 36	.	O	O#O	s
 
@@ -58428,7 +58428,7 @@
 9	har	O	O#O	s
 10	dannet	O	O#O	s
 11	et	O	O#O	s
-12	vestjysk	B-OTH	B-LOCderiv#O	s
+12	vestjysk	O	B-LOCderiv#O	s
 13	konsortium	O	O#O	s
 14	,	O	O#O	s
 15	der	O	O#O	s
@@ -58470,7 +58470,7 @@
 9	mellem	O	O#O	s
 10	at	O	O#O	s
 11	kunne	O	O#O	s
-12	dansk	B-OTH	B-LOCderiv#O	s
+12	dansk	O	B-LOCderiv#O	s
 13	og	O	O#O	s
 14	at	O	O#O	s
 15	kunne	O	O#O	s
@@ -58478,7 +58478,7 @@
 17	sig	O	O#O	s
 18	i	O	O#O	s
 19	det	O	O#O	s
-20	danske	B-OTH	B-LOCderiv#O	s
+20	danske	O	B-LOCderiv#O	s
 21	samfund	O	O#O	s
 22	.	O	O#O	s
 
@@ -58488,7 +58488,7 @@
 2	vej	O	O#O	s
 3	ud	O	O#O	s
 4	fra	O	O#O	s
-5	Wimpy	B-OTH	B-MISC#O	s
+5	Wimpy	O	B-MISC#O	s
 6	passer	O	O#O	s
 7	jeg	O	O#O	s
 8	på	O	O#O	s
@@ -58496,7 +58496,7 @@
 10	at	O	O#O	s
 11	betale	O	O#O	s
 12	med	O	O#O	s
-13	danske	B-OTH	B-LOCderiv#O	s
+13	danske	O	B-LOCderiv#O	s
 14	kroner	O	O#O	s
 15	.	O	O#O	s
 
@@ -58700,7 +58700,7 @@
 47	skulle	O	O#O	s
 48	ramme	O	O#O	s
 49	de	O	O#O	s
-50	tamilske	B-OTH	B-LOCderiv#O	s
+50	tamilske	O	B-LOCderiv#O	s
 51	flygtninge	O	O#O	s
 52	.	O	O#O	s
 
@@ -58828,7 +58828,7 @@
 # text = Den købte polakkerne ikke.
 1	Den	O	O#O	s
 2	købte	O	O#O	s
-3	polakkerne	B-OTH	B-LOCderiv#O	s
+3	polakkerne	O	B-LOCderiv#O	s
 4	ikke	O	O#O	s
 5	.	O	O#O	s
 
@@ -58949,7 +58949,7 @@
 
 # sent_id = train-v2-2786
 # text = Danskerne er som andre folkefærd produkt af den undervisning, de har modtaget - foruden tidens toneangivende strømninger.
-1	Danskerne	B-OTH	B-LOCderiv#O	s
+1	Danskerne	O	B-LOCderiv#O	s
 2	er	O	O#O	s
 3	som	O	O#O	s
 4	andre	O	O#O	s
@@ -59059,7 +59059,7 @@
 5	,	O	O#O	s
 6	og	O	O#O	s
 7	en	O	O#O	s
-8	Stockhausen	B-OTH	B-MISC#O	s
+8	Stockhausen	O	B-MISC#O	s
 9	i	O	O#O	s
 10	åbenlyst	O	O#O	s
 11	pragthumør	O	O#O	s
@@ -59089,7 +59089,7 @@
 35	ørnen	O	O#O	s
 36	i	O	O#O	s
 37	den	O	O#O	s
-38	europæiske	B-OTH	B-LOCderiv#O	s
+38	europæiske	O	B-LOCderiv#O	s
 39	kompositionsmusiks	O	O#O	s
 40	andegår	O	O#O	s
 41	-	O	O#O	s
@@ -59105,7 +59105,7 @@
 51	det	O	O#O	s
 52	hold	O	O#O	s
 53	tilrejsende	O	O#O	s
-54	danske	B-OTH	B-LOCderiv#O	s
+54	danske	O	B-LOCderiv#O	s
 55	musikstuderende	O	O#O	s
 56	,	O	O#O	s
 57	der	O	O#O	s
@@ -59117,7 +59117,7 @@
 63	prøver	O	O#O	s
 64	på	O	O#O	s
 65	"	O	O#O	s
-66	Dienstag	B-OTH	B-MISC#O	s
+66	Dienstag	O	B-MISC#O	s
 67	"	O	O#O	s
 68	.	O	O#O	s
 
@@ -59457,7 +59457,7 @@
 9	rejse	O	O#O	s
 10	derover	O	O#O	s
 11	som	O	O#O	s
-12	dansk	B-OTH	B-LOCderiv#O	s
+12	dansk	O	B-LOCderiv#O	s
 13	reporter	O	O#O	s
 14	,	O	O#O	s
 15	er	O	O#O	s
@@ -59523,16 +59523,16 @@
 14	været	O	O#O	s
 15	både	O	O#O	s
 16	i	O	O#O	s
-17	Familie	B-OTH	B-MISC#O	s
-18	Journalen	I-OTH	I-MISC#O	s
+17	Familie	O	B-MISC#O	s
+18	Journalen	O	I-MISC#O	s
 19	,	O	O#O	s
-20	Hendes	B-OTH	B-MISC#O	s
-21	Verden	I-OTH	I-MISC#O	s
+20	Hendes	O	B-MISC#O	s
+21	Verden	O	I-MISC#O	s
 22	,	O	O#O	s
-23	Gigtbladet	B-OTH	B-MISC#O	s
+23	Gigtbladet	O	B-MISC#O	s
 24	og	O	O#O	s
 25	bladet	O	O#O	s
-26	Sælgeren	B-OTH	B-MISC#O	s
+26	Sælgeren	O	B-MISC#O	s
 27	med	O	O#O	s
 28	min	O	O#O	s
 29	historie	O	O#O	s
@@ -59651,7 +59651,7 @@
 # sent_id = train-v2-2825
 # text = - Tyrkiske mænd drikker næsten altid raki til maden.
 1	-	O	O#O	s
-2	Tyrkiske	B-OTH	B-LOCderiv#O	s
+2	Tyrkiske	O	B-LOCderiv#O	s
 3	mænd	O	O#O	s
 4	drikker	O	O#O	s
 5	næsten	O	O#O	s
@@ -59778,7 +59778,7 @@
 34	efteråret	O	O#O	s
 35	ved	O	O#O	s
 36	de	O	O#O	s
-37	baltiske	B-OTH	B-LOCderiv#O	s
+37	baltiske	O	B-LOCderiv#O	s
 38	landes	O	O#O	s
 39	anerkendelse	O	O#O	s
 40	.	O	O#O	s
@@ -59900,7 +59900,7 @@
 27	-	O	O#O	s
 28	hvis	O	O#O	s
 29	de	O	O#O	s
-30	engelske	B-OTH	B-LOCderiv#O	s
+30	engelske	O	B-LOCderiv#O	s
 31	monopolmyndigheder	O	O#O	s
 32	ellers	O	O#O	s
 33	tillader	O	O#O	s
@@ -59915,7 +59915,7 @@
 42	kr.	O	O#O	s
 43	til	O	O#O	s
 44	den	O	O#O	s
-45	engelske	B-OTH	B-LOCderiv#O	s
+45	engelske	O	B-LOCderiv#O	s
 46	ølkoncern	O	O#O	s
 47	Allied-Lyon	B-ORG	B-ORG#O	s
 48	,	O	O#O	s
@@ -59929,7 +59929,7 @@
 56	samarbejde	O	O#O	s
 57	om	O	O#O	s
 58	det	O	O#O	s
-59	engelske	B-OTH	B-LOCderiv#O	s
+59	engelske	O	B-LOCderiv#O	s
 60	marked	O	O#O	s
 61	.	O	O#O	s
 
@@ -60001,9 +60001,9 @@
 
 # sent_id = train-v2-2837
 # text = Svenske og norske aviser mente i går også at vide, at Stefan Rasmussens dage som helte-pilot var tæt på at være forbi.
-1	Svenske	B-OTH	B-LOCderiv#O	s
+1	Svenske	O	B-LOCderiv#O	s
 2	og	O	O#O	s
-3	norske	B-OTH	B-LOCderiv#O	s
+3	norske	O	B-LOCderiv#O	s
 4	aviser	O	O#O	s
 5	mente	O	O#O	s
 6	i	O	O#O	s
@@ -60276,7 +60276,7 @@
 # sent_id = train-v2-2850
 # text = Og dansk industri er i forreste række i den teknologiske udvikling.
 1	Og	O	O#O	s
-2	dansk	B-OTH	B-LOCderiv#O	s
+2	dansk	O	B-LOCderiv#O	s
 3	industri	O	O#O	s
 4	er	O	O#O	s
 5	i	O	O#O	s
@@ -60370,7 +60370,7 @@
 10	kan	O	O#O	s
 11	trække	O	O#O	s
 12	på	O	O#O	s
-13	danske	B-OTH	B-LOCderiv#O	s
+13	danske	O	B-LOCderiv#O	s
 14	eksperter	O	O#O	s
 15	til	O	O#O	s
 16	deres	O	O#O	s
@@ -61016,7 +61016,7 @@
 8	typisk	O	O#O	s
 9	,	O	O#O	s
 10	at	O	O#O	s
-11	Synnøve	B-OTH	B-MISC#O	s
+11	Synnøve	O	B-MISC#O	s
 12	er	O	O#O	s
 13	bedst	O	O#O	s
 14	,	O	O#O	s
@@ -61217,7 +61217,7 @@
 4	på	O	O#O	s
 5	det	O	O#O	s
 6	"	O	O#O	s
-7	japanske	B-OTH	B-LOCderiv#O	s
+7	japanske	O	B-LOCderiv#O	s
 8	økonomiske	O	O#O	s
 9	mirakel	O	O#O	s
 10	"	O	O#O	s
@@ -61297,7 +61297,7 @@
 # sent_id = train-v2-2898
 # text = Det sovjetiske udenrigsministeriums talsmand, Gennadij Gerasimov, sagde også, at der ikke var blevet dræbt flere udover de tre soldater i Kirovabad.
 1	Det	O	O#O	s
-2	sovjetiske	B-OTH	B-LOCderiv#O	s
+2	sovjetiske	O	B-LOCderiv#O	s
 3	udenrigsministeriums	O	O#O	s
 4	talsmand	O	O#O	s
 5	,	O	O#O	s
@@ -61380,7 +61380,7 @@
 10	kilometer	O	O#O	s
 11	fra	O	O#O	s
 12	den	O	O#O	s
-13	sydfynske	B-OTH	B-LOCderiv#O	s
+13	sydfynske	O	B-LOCderiv#O	s
 14	købstad	O	O#O	s
 15	.	O	O#O	s
 
@@ -61428,9 +61428,9 @@
 5	første	O	O#O	s
 6	bind	O	O#O	s
 7	,	O	O#O	s
-8	Reporter	B-OTH	B-MISC#O	s
+8	Reporter	O	B-MISC#O	s
 9	og	O	O#O	s
-10	Kate	B-OTH	B-MISC#B-PER	s
+10	Kate	O	B-MISC#B-PER	s
 11	,	O	O#O	s
 12	kender	O	O#O	s
 13	den	O	O#O	s
@@ -61538,7 +61538,7 @@
 # sent_id = train-v2-2908
 # text = Ved Storkespringvandet svømmer nationalfølelsen helt over, og en forsamlet menneskemængde synger nationalsangen.
 1	Ved	O	O#O	s
-2	Storkespringvandet	B-OTH	B-MISC#O	s
+2	Storkespringvandet	O	B-MISC#O	s
 3	svømmer	O	O#O	s
 4	nationalfølelsen	O	O#O	s
 5	helt	O	O#O	s
@@ -61562,10 +61562,10 @@
 6	smage	O	O#O	s
 7	den	O	O#O	s
 8	raffinerede	O	O#O	s
-9	engelske	B-OTH	B-LOCderiv#O	s
+9	engelske	O	B-LOCderiv#O	s
 10	cheddartype	O	O#O	s
-11	Sage	B-OTH	B-MISC#O	s
-12	Derby	I-OTH	I-MISC#O	s
+11	Sage	O	B-MISC#O	s
+12	Derby	O	I-MISC#O	s
 13	med	O	O#O	s
 14	salvie	O	O#O	s
 15	med	O	O#O	s
@@ -61632,7 +61632,7 @@
 5	blandt	O	O#O	s
 6	de	O	O#O	s
 7	tre	O	O#O	s
-8	danskere	B-OTH	B-LOCderiv#O	s
+8	danskere	O	B-LOCderiv#O	s
 9	,	O	O#O	s
 10	der	O	O#O	s
 11	frivilligt	O	O#O	s
@@ -61654,7 +61654,7 @@
 27	blive	O	O#O	s
 28	kastet	O	O#O	s
 29	i	O	O#O	s
-30	Thailandsk	B-OTH	B-LOCderiv#O	s
+30	Thailandsk	O	B-LOCderiv#O	s
 31	fængsel	O	O#O	s
 32	i	O	O#O	s
 33	afventen	O	O#O	s
@@ -61692,8 +61692,8 @@
 # text = Fakta om Seat Toledo 2,0 GLX OPBYGNING: 4/5-personers sedan.
 1	Fakta	O	O#O	s
 2	om	O	O#O	s
-3	Seat	B-OTH	B-MISC#B-ORG	s
-4	Toledo	I-OTH	I-MISC#O	s
+3	Seat	O	B-MISC#B-ORG	s
+4	Toledo	O	I-MISC#O	s
 5	2,0	O	O#O	s
 6	GLX	O	O#O	s
 7	OPBYGNING	O	O#O	s
@@ -61812,7 +61812,7 @@
 
 # sent_id = train-v2-2923
 # text = Dansk cheddar koster 7,95 kr. for 100 g..
-1	Dansk	B-OTH	B-LOCderiv#O	s
+1	Dansk	O	B-LOCderiv#O	s
 2	cheddar	O	O#O	s
 3	koster	O	O#O	s
 4	7,95	O	O#O	s
@@ -62032,7 +62032,7 @@
 18	,	O	O#O	s
 19	fra	O	O#O	s
 20	den	O	O#O	s
-21	østrigske	B-OTH	B-LOCderiv#O	s
+21	østrigske	O	B-LOCderiv#O	s
 22	landsby	O	O#O	s
 23	Altaussee	B-LOC	B-LOC#O	s
 24	.	O	O#O	s
@@ -62112,13 +62112,13 @@
 11	Den	O	O#O	s
 12	nye	O	O#O	s
 13	minibus	O	O#O	s
-14	Talento	B-OTH	B-MISC#O	s
+14	Talento	O	B-MISC#O	s
 15	,	O	O#O	s
 16	en	O	O#O	s
 17	mindre	O	O#O	s
 18	udgave	O	O#O	s
 19	af	O	O#O	s
-20	Ducato'en	B-OTH	B-MISCderiv#O	s
+20	Ducato'en	O	B-MISCderiv#O	s
 21	,	O	O#O	s
 22	men	O	O#O	s
 23	alligevel	O	O#O	s
@@ -62155,8 +62155,8 @@
 6	Depeche	B-ORG	B-ORG#O	s
 7	først	O	O#O	s
 8	opfører	O	O#O	s
-9	Black	B-OTH	B-MISC#O	s
-10	Celebration	I-OTH	I-MISC#O	s
+9	Black	O	B-MISC#O	s
+10	Celebration	O	I-MISC#O	s
 11	showet	O	O#O	s
 12	to	O	O#O	s
 13	gange	O	O#O	s
@@ -62234,25 +62234,25 @@
 1	Klaus	B-PER	B-PER#O	s
 2	Aarsleff	I-PER	I-PER#O	s
 3	:	O	O#O	s
-4	Mysteriet	B-OTH	B-MISC#O	s
-5	om	I-OTH	I-MISC#O	s
-6	rumvæsner	I-OTH	I-MISC#O	s
+4	Mysteriet	O	B-MISC#O	s
+5	om	O	I-MISC#O	s
+6	rumvæsner	O	I-MISC#O	s
 7	i	O	O#O	s
 8	fortiden	O	O#O	s
 9	,	O	O#O	s
 10	Kristian	B-PER	B-PER#O	s
 11	Kristiansen	I-PER	I-PER#O	s
 12	:	O	O#O	s
-13	Mysteriet	B-OTH	B-MISC#O	s
-14	om	I-OTH	I-MISC#O	s
-15	Atlantis	I-OTH	I-MISC#O	s
+13	Mysteriet	O	B-MISC#O	s
+14	om	O	I-MISC#O	s
+15	Atlantis	O	I-MISC#O	s
 16	,	O	O#O	s
 17	Nicolas	B-PER	B-PER#O	s
 18	Barbano	I-PER	I-PER#O	s
 19	:	O	O#O	s
-20	Mysteriet	B-OTH	B-MISC#O	s
-21	om	I-OTH	I-MISC#O	s
-22	varulven	I-OTH	I-MISC#O	s
+20	Mysteriet	O	B-MISC#O	s
+21	om	O	I-MISC#O	s
+22	varulven	O	I-MISC#O	s
 23	,	O	O#O	s
 24	80	O	O#O	s
 25	kr.	O	O#O	s
@@ -62300,7 +62300,7 @@
 36	uden	O	O#O	s
 37	at	O	O#O	s
 38	det	O	O#O	s
-39	danske	B-OTH	B-LOCderiv#O	s
+39	danske	O	B-LOCderiv#O	s
 40	folk	O	O#O	s
 41	havde	O	O#O	s
 42	nogen	O	O#O	s
@@ -62399,7 +62399,7 @@
 12	alderen	O	O#O	s
 13	,	O	O#O	s
 14	har	O	O#O	s
-15	Chlorella	B-OTH	B-MISC#O	s
+15	Chlorella	O	B-MISC#O	s
 16	hjulpet	O	O#O	s
 17	på	O	O#O	s
 18	.	O	O#O	s
@@ -62433,7 +62433,7 @@
 # text = Den overlevende polske matros, Krzysztof Samsel, 30, som med helikopter blev fløjet til den norske by Farsund, fortalte i en søforklaring i går, at han kun havde reddet livet på grund af en luftboble, der havde presset ham væk fra det synkende skib.
 1	Den	O	O#O	s
 2	overlevende	O	O#O	s
-3	polske	B-OTH	B-LOCderiv#O	s
+3	polske	O	B-LOCderiv#O	s
 4	matros	O	O#O	s
 5	,	O	O#O	s
 6	Krzysztof	B-PER	B-PER#O	s
@@ -62448,7 +62448,7 @@
 15	fløjet	O	O#O	s
 16	til	O	O#O	s
 17	den	O	O#O	s
-18	norske	B-OTH	B-LOCderiv#O	s
+18	norske	O	B-LOCderiv#O	s
 19	by	O	O#O	s
 20	Farsund	B-LOC	B-LOC#O	s
 21	,	O	O#O	s
@@ -62567,7 +62567,7 @@
 3	han	O	O#O	s
 4	,	O	O#O	s
 5	at	O	O#O	s
-6	danskernes	B-OTH	B-PERderiv#O	s
+6	danskernes	O	B-PERderiv#O	s
 7	større	O	O#O	s
 8	indkøb	O	O#O	s
 9	af	O	O#O	s
@@ -62594,7 +62594,7 @@
 30	af	O	O#O	s
 31	de	O	O#O	s
 32	nylige	O	O#O	s
-33	danske	B-OTH	B-LOCderiv#O	s
+33	danske	O	B-LOCderiv#O	s
 34	afgiftsnedsættelser	O	O#O	s
 35	.	O	O#O	s
 
@@ -62945,7 +62945,7 @@
 18	,	O	O#O	s
 19	der	O	O#O	s
 20	taler	O	O#O	s
-21	dansk	B-OTH	B-LOCderiv#O	s
+21	dansk	O	B-LOCderiv#O	s
 22	.	O	O#O	s
 23	"	O	O#O	s
 
@@ -63111,7 +63111,7 @@
 3	er	O	O#O	s
 4	vilde	O	O#O	s
 5	med	O	O#O	s
-6	danske	B-OTH	B-LOCderiv#O	s
+6	danske	O	B-LOCderiv#O	s
 7	nisser	O	O#O	s
 8	og	O	O#O	s
 9	betaler	O	O#O	s
@@ -63314,7 +63314,7 @@
 18	,	O	O#O	s
 19	den	O	O#O	s
 20	såkaldte	O	O#O	s
-21	Chaussé	B-OTH	B-MISC#O	s
+21	Chaussé	O	B-MISC#O	s
 22	brobelægning	O	O#O	s
 23	,	O	O#O	s
 24	der	O	O#O	s
@@ -63868,7 +63868,7 @@
 8	OB	B-ORG	B-ORG#O	s
 9	i	O	O#O	s
 10	det	O	O#O	s
-11	fynske	B-OTH	B-LOCderiv#O	s
+11	fynske	O	B-LOCderiv#O	s
 12	lokalopgør	O	O#O	s
 13	.	O	O#O	s
 
@@ -63891,8 +63891,8 @@
 15	bord	O	O#O	s
 16	på	O	O#O	s
 17	hjemmeværnskutter	O	O#O	s
-18	HVM71	B-OTH	B-MISC#O	s
-19	Scorpius	I-OTH	I-MISC#O	s
+18	HVM71	O	B-MISC#O	s
+19	Scorpius	O	I-MISC#O	s
 20	på	O	O#O	s
 21	øvelse	O	O#O	s
 22	på	O	O#O	s
@@ -64098,7 +64098,7 @@
 10	høns	O	O#O	s
 11	og	O	O#O	s
 12	en	O	O#O	s
-13	tysk	B-OTH	B-LOCderiv#O	s
+13	tysk	O	B-LOCderiv#O	s
 14	ruhårshund	O	O#O	s
 15	.	O	O#O	s
 
@@ -64168,7 +64168,7 @@
 9	derimod	O	O#O	s
 10	flere	O	O#O	s
 11	slags	O	O#O	s
-12	skotter	B-OTH	B-LOCderiv#O	s
+12	skotter	O	B-LOCderiv#O	s
 13	.	O	O#O	s
 14	"	O	O#O	s
 
@@ -64343,7 +64343,7 @@
 26	at	O	O#O	s
 27	overfylde	O	O#O	s
 28	de	O	O#O	s
-29	danske	B-OTH	B-LOCderiv#O	s
+29	danske	O	B-LOCderiv#O	s
 30	lagre	O	O#O	s
 31	med	O	O#O	s
 32	Subaru-biler	B-ORG	B-ORGpart#O	s
@@ -64480,7 +64480,7 @@
 5	bl.a.	O	O#O	s
 6	,	O	O#O	s
 7	at	O	O#O	s
-8	danskerne	B-OTH	B-LOCderiv#O	s
+8	danskerne	O	B-LOCderiv#O	s
 9	lovligt	O	O#O	s
 10	efter	O	O#O	s
 11	nytår	O	O#O	s
@@ -65029,7 +65029,7 @@
 37	og	O	O#O	s
 38	England	B-LOC	B-LOC#O	s
 39	godkender	O	O#O	s
-40	Maastricht-Traktaten	B-OTH	B-MISC#O	s
+40	Maastricht-Traktaten	O	B-MISC#O	s
 41	.	O	O#O	s
 
 # sent_id = train-v2-3069
@@ -65112,7 +65112,7 @@
 # text = "Mange danskere viste med al tydelighed ved folkeafstemningen den 2. juni, at de er skeptiske over for, hvad politikerne prøver at sælge dem.
 1	"	O	O#O	s
 2	Mange	O	O#O	s
-3	danskere	B-OTH	B-LOCderiv#O	s
+3	danskere	O	B-LOCderiv#O	s
 4	viste	O	O#O	s
 5	med	O	O#O	s
 6	al	O	O#O	s
@@ -65368,8 +65368,8 @@
 # text = Serien "Hotel room" tegner til at blive mindre hektisk og endnu mere intens end den populære forgænger, for hele handlingen udspilles i et enkelt hotelværelse.
 1	Serien	O	O#O	s
 2	"	O	O#O	s
-3	Hotel	B-OTH	B-MISC#O	s
-4	room	I-OTH	I-MISC#O	s
+3	Hotel	O	B-MISC#O	s
+4	room	O	I-MISC#O	s
 5	"	O	O#O	s
 6	tegner	O	O#O	s
 7	til	O	O#O	s
@@ -65649,7 +65649,7 @@
 # text = De fleste danskere spiser for mange mættede fedtsyrer, der findes i mejeriprodukter og kødvarer.
 1	De	O	O#O	s
 2	fleste	O	O#O	s
-3	danskere	B-OTH	B-LOCderiv#O	s
+3	danskere	O	B-LOCderiv#O	s
 4	spiser	O	O#O	s
 5	for	O	O#O	s
 6	mange	O	O#O	s
@@ -65859,7 +65859,7 @@
 9	breve	O	O#O	s
 10	til	O	O#O	s
 11	den	O	O#O	s
-12	amerikanske	B-OTH	B-LOCderiv#O	s
+12	amerikanske	O	B-LOCderiv#O	s
 13	præsident	O	O#O	s
 14	,	O	O#O	s
 15	George	B-PER	B-PER#O	s
@@ -65867,7 +65867,7 @@
 17	,	O	O#O	s
 18	og	O	O#O	s
 19	den	O	O#O	s
-20	russiske	B-OTH	B-LOCderiv#O	s
+20	russiske	O	B-LOCderiv#O	s
 21	præsident	O	O#O	s
 22	,	O	O#O	s
 23	Boris	B-PER	B-PER#O	s
@@ -65947,7 +65947,7 @@
 10	,	O	O#O	s
 11	at	O	O#O	s
 12	en	O	O#O	s
-13	fransk	B-OTH	B-LOCderiv#O	s
+13	fransk	O	B-LOCderiv#O	s
 14	storklub	O	O#O	s
 15	ville	O	O#O	s
 16	købe	O	O#O	s
@@ -66012,7 +66012,7 @@
 4	Zagreb	B-LOC	B-LOC#O	s
 5	sagde	O	O#O	s
 6	den	O	O#O	s
-7	danske	B-OTH	B-LOCderiv#O	s
+7	danske	O	B-LOCderiv#O	s
 8	leder	O	O#O	s
 9	af	O	O#O	s
 10	FNs	B-ORG	B-ORG#O	s
@@ -66049,7 +66049,7 @@
 41	har	O	O#O	s
 42	rystet	O	O#O	s
 43	de	O	O#O	s
-44	serbiske	B-OTH	B-LOCderiv#O	s
+44	serbiske	O	B-LOCderiv#O	s
 45	ledere	O	O#O	s
 46	i	O	O#O	s
 47	republikken	O	O#O	s
@@ -66188,7 +66188,7 @@
 17	lokale	O	O#O	s
 18	pilsner	O	O#O	s
 19	,	O	O#O	s
-20	Efes	B-OTH	B-MISC#O	s
+20	Efes	O	B-MISC#O	s
 21	,	O	O#O	s
 22	eller	O	O#O	s
 23	licensfremstillet	O	O#O	s
@@ -66308,7 +66308,7 @@
 18	tidligere	O	O#O	s
 19	har	O	O#O	s
 20	været	O	O#O	s
-21	ungarsk	B-OTH	B-LOCderiv#O	s
+21	ungarsk	O	B-LOCderiv#O	s
 22	,	O	O#O	s
 23	tilbage	O	O#O	s
 24	.	O	O#O	s
@@ -66605,7 +66605,7 @@
 5	spørgsmål	O	O#O	s
 6	fra	O	O#O	s
 7	en	O	O#O	s
-8	dansk	B-OTH	B-LOCderiv#O	s
+8	dansk	O	B-LOCderiv#O	s
 9	journalist	O	O#O	s
 10	?	O	O#O	s
 
@@ -66710,7 +66710,7 @@
 8	på	O	O#O	s
 9	onsdag	O	O#O	s
 10	om	O	O#O	s
-11	Maastricht-traktaten	B-OTH	B-MISC#O	s
+11	Maastricht-traktaten	O	B-MISC#O	s
 12	,	O	O#O	s
 13	der	O	O#O	s
 14	skulle	O	O#O	s
@@ -67015,7 +67015,7 @@
 10	,	O	O#O	s
 11	at	O	O#O	s
 12	det	O	O#O	s
-13	danske	B-OTH	B-LOCderiv#O	s
+13	danske	O	B-LOCderiv#O	s
 14	EF-udspil	B-ORG	B-ORGpart#O	s
 15	nu	O	O#O	s
 16	gjorde	O	O#O	s
@@ -67092,9 +67092,9 @@
 13	mellem	O	O#O	s
 14	de	O	O#O	s
 15	velbevæbnede	O	O#O	s
-16	serbiske	B-OTH	B-LOCderiv#O	s
+16	serbiske	O	B-LOCderiv#O	s
 17	og	O	O#O	s
-18	kroatiske	B-OTH	B-LOCderiv#O	s
+18	kroatiske	O	B-LOCderiv#O	s
 19	minoritetsgrupper	O	O#O	s
 20	på	O	O#O	s
 21	bekostning	O	O#O	s
@@ -67468,7 +67468,7 @@
 7	spændende	O	O#O	s
 8	smagsprøver	O	O#O	s
 9	på	O	O#O	s
-10	thailandske	B-OTH	B-LOCderiv#O	s
+10	thailandske	O	B-LOCderiv#O	s
 11	specialiteter	O	O#O	s
 12	.	O	O#O	s
 
@@ -67479,7 +67479,7 @@
 3	hører	O	O#O	s
 4	til	O	O#O	s
 5	en	O	O#O	s
-6	TOOLO	B-OTH	B-MISC#O	s
+6	TOOLO	O	B-MISC#O	s
 7	æske	O	O#O	s
 8	?	O	O#O	s
 
@@ -67533,7 +67533,7 @@
 21	fordi	O	O#O	s
 22	han	O	O#O	s
 23	varetog	O	O#O	s
-24	danske	B-OTH	B-LOCderiv#O	s
+24	danske	O	B-LOCderiv#O	s
 25	interesser	O	O#O	s
 26	uden	O	O#O	s
 27	at	O	O#O	s
@@ -67548,7 +67548,7 @@
 # sent_id = train-v2-3192
 # text = Det amerikanske firma Lubrizol eksperimenterer med solsikkefrø, der med et højt indhold af olie kan bruges til fremstilling af plastic og nylon.
 1	Det	O	O#O	s
-2	amerikanske	B-OTH	B-LOCderiv#O	s
+2	amerikanske	O	B-LOCderiv#O	s
 3	firma	O	O#O	s
 4	Lubrizol	B-ORG	B-ORG#O	s
 5	eksperimenterer	O	O#O	s
@@ -67602,7 +67602,7 @@
 1	På	O	O#O	s
 2	lørdag	O	O#O	s
 3	skal	O	O#O	s
-4	danskerne	B-OTH	B-LOCderiv#O	s
+4	danskerne	O	B-LOCderiv#O	s
 5	mindes	O	O#O	s
 6	om	O	O#O	s
 7	,	O	O#O	s
@@ -67612,7 +67612,7 @@
 11	godt	O	O#O	s
 12	at	O	O#O	s
 13	se	O	O#O	s
-14	danske	B-OTH	B-LOCderiv#O	s
+14	danske	O	B-LOCderiv#O	s
 15	film	O	O#O	s
 16	i	O	O#O	s
 17	biograferne	O	O#O	s
@@ -67950,7 +67950,7 @@
 14	færgefartens	O	O#O	s
 15	dominans	O	O#O	s
 16	i	O	O#O	s
-17	danske	B-OTH	B-LOCderiv#O	s
+17	danske	O	B-LOCderiv#O	s
 18	farvande	O	O#O	s
 19	.	O	O#O	s
 
@@ -68320,7 +68320,7 @@
 1	Han	O	O#O	s
 2	taler	O	O#O	s
 3	ikke	O	O#O	s
-4	jugoslavisk	B-OTH	B-LOCderiv#O	s
+4	jugoslavisk	O	B-LOCderiv#O	s
 5	og	O	O#O	s
 6	har	O	O#O	s
 7	i	O	O#O	s
@@ -68341,7 +68341,7 @@
 22	diplomater	O	O#O	s
 23	fra	O	O#O	s
 24	den	O	O#O	s
-25	danske	B-OTH	B-LOCderiv#O	s
+25	danske	O	B-LOCderiv#O	s
 26	ambassade	O	O#O	s
 27	.	O	O#O	s
 
@@ -68488,7 +68488,7 @@
 23	søge	O	O#O	s
 24	specialviden	O	O#O	s
 25	om	O	O#O	s
-26	AIDS	B-OTH	B-MISC#O	s
+26	AIDS	O	B-MISC#O	s
 27	andre	O	O#O	s
 28	steder	O	O#O	s
 29	,	O	O#O	s
@@ -68611,7 +68611,7 @@
 3	var	O	O#O	s
 4	foruden	O	O#O	s
 5	De-Beers-topfolk	B-ORG	B-ORGpart#O	s
-6	russiske	B-OTH	B-LOCderiv#O	s
+6	russiske	O	B-LOCderiv#O	s
 7	politikere	O	O#O	s
 8	,	O	O#O	s
 9	diplomater	O	O#O	s
@@ -68887,9 +68887,9 @@
 12	de	O	O#O	s
 13	feterede	O	O#O	s
 14	,	O	O#O	s
-15	københavnske	B-OTH	B-LOCderiv#O	s
-16	UEFA	B-OTH	B-MISC#B-ORG	s
-17	Cup	I-OTH	I-MISC#O	s
+15	københavnske	O	B-LOCderiv#O	s
+16	UEFA	O	B-MISC#B-ORG	s
+17	Cup	O	I-MISC#O	s
 18	heltes	O	O#O	s
 19	koncentration	O	O#O	s
 20	,	O	O#O	s
@@ -69006,7 +69006,7 @@
 12	:	O	O#O	s
 13	"	O	O#O	s
 14	Det	O	O#O	s
-15	tyske	B-OTH	B-LOCderiv#O	s
+15	tyske	O	B-LOCderiv#O	s
 16	folk	O	O#O	s
 17	!	O	O#O	s
 18	Forbered	O	O#O	s
@@ -69048,7 +69048,7 @@
 26	verdens	O	O#O	s
 27	største	O	O#O	s
 28	fødevaremesse	O	O#O	s
-29	NUGA	B-OTH	B-MISC#O	s
+29	NUGA	O	B-MISC#O	s
 30	i	O	O#O	s
 31	Tyskland	B-LOC	B-LOC#O	s
 32	.	O	O#O	s
@@ -69279,19 +69279,19 @@
 # sent_id = train-v2-3284
 # text = På flamsk, på tysk, på engelsk, på italiensk, på svensk.
 1	På	O	O#O	s
-2	flamsk	B-OTH	B-LOCderiv#O	s
+2	flamsk	O	B-LOCderiv#O	s
 3	,	O	O#O	s
 4	på	O	O#O	s
-5	tysk	B-OTH	B-LOCderiv#O	s
+5	tysk	O	B-LOCderiv#O	s
 6	,	O	O#O	s
 7	på	O	O#O	s
-8	engelsk	B-OTH	B-LOCderiv#O	s
+8	engelsk	O	B-LOCderiv#O	s
 9	,	O	O#O	s
 10	på	O	O#O	s
-11	italiensk	B-OTH	B-LOCderiv#O	s
+11	italiensk	O	B-LOCderiv#O	s
 12	,	O	O#O	s
 13	på	O	O#O	s
-14	svensk	B-OTH	B-LOCderiv#O	s
+14	svensk	O	B-LOCderiv#O	s
 15	.	O	O#O	s
 
 # sent_id = train-v2-3285
@@ -69368,7 +69368,7 @@
 2	repræsenterer	O	O#O	s
 3	alle	O	O#O	s
 4	større	O	O#O	s
-5	danske	B-OTH	B-LOCderiv#O	s
+5	danske	O	B-LOCderiv#O	s
 6	rejsebureauer	O	O#O	s
 7	,	O	O#O	s
 8	deriblandt	O	O#O	s
@@ -69790,7 +69790,7 @@
 
 # sent_id = train-v2-3307
 # text = Dansk humor er nok mere mørk og dyster end sydens humor, der er mere åben og siger tingene direkte.
-1	Dansk	B-OTH	B-LOCderiv#O	s
+1	Dansk	O	B-LOCderiv#O	s
 2	humor	O	O#O	s
 3	er	O	O#O	s
 4	nok	O	O#O	s
@@ -70083,7 +70083,7 @@
 15	af	O	O#O	s
 16	de	O	O#O	s
 17	to	O	O#O	s
-18	københavnske	B-OTH	B-LOCderiv#O	s
+18	københavnske	O	B-LOCderiv#O	s
 19	bryggerier	O	O#O	s
 20	.	O	O#O	s
 
@@ -70091,7 +70091,7 @@
 # text = Resten er kroatiske styrker i færd med at tage sig af.
 1	Resten	O	O#O	s
 2	er	O	O#O	s
-3	kroatiske	B-OTH	B-LOCderiv#O	s
+3	kroatiske	O	B-LOCderiv#O	s
 4	styrker	O	O#O	s
 5	i	O	O#O	s
 6	færd	O	O#O	s
@@ -70150,12 +70150,12 @@
 15	filmen	O	O#O	s
 16	,	O	O#O	s
 17	"	O	O#O	s
-18	You	B-OTH	B-MISC#O	s
-19	Can	I-OTH	I-MISC#O	s
-20	Leave	I-OTH	I-MISC#O	s
-21	Your	I-OTH	I-MISC#O	s
-22	Hat	I-OTH	I-MISC#O	s
-23	On	I-OTH	I-MISC#O	s
+18	You	O	B-MISC#O	s
+19	Can	O	I-MISC#O	s
+20	Leave	O	I-MISC#O	s
+21	Your	O	I-MISC#O	s
+22	Hat	O	I-MISC#O	s
+23	On	O	I-MISC#O	s
 24	"	O	O#O	s
 25	hed	O	O#O	s
 26	det	O	O#O	s
@@ -70186,7 +70186,7 @@
 15	at	O	O#O	s
 16	en	O	O#O	s
 17	ny	O	O#O	s
-18	dansk	B-OTH	B-LOCderiv#O	s
+18	dansk	O	B-LOCderiv#O	s
 19	aftale	O	O#O	s
 20	med	O	O#O	s
 21	EF	B-ORG	B-ORG#O	s
@@ -70317,14 +70317,14 @@
 12	aftale	O	O#O	s
 13	med	O	O#O	s
 14	en	O	O#O	s
-15	italiener	B-OTH	B-LOCderiv#O	s
+15	italiener	O	B-LOCderiv#O	s
 16	,	O	O#O	s
 17	Giancarlo	B-PER	B-PER#O	s
 18	Raffaelli	I-PER	I-PER#O	s
 19	,	O	O#O	s
 20	og	O	O#O	s
 21	en	O	O#O	s
-22	nigeriansk	B-OTH	B-LOCderiv#O	s
+22	nigeriansk	O	B-LOCderiv#O	s
 23	forretningsmand	O	O#O	s
 24	om	O	O#O	s
 25	at	O	O#O	s
@@ -70403,12 +70403,12 @@
 12	eller	O	O#O	s
 13	indeholder	O	O#O	s
 14	en	O	O#O	s
-15	GMO	B-OTH	B-MISC#O	s
+15	GMO	O	B-MISC#O	s
 16	eller	O	O#O	s
 17	en	O	O#O	s
 18	kombination	O	O#O	s
 19	af	O	O#O	s
-20	GMO'er	B-OTH	B-MISC#O	s
+20	GMO'er	O	B-MISC#O	s
 21	,	O	O#O	s
 22	og	O	O#O	s
 23	som	O	O#O	s
@@ -70715,7 +70715,7 @@
 14	det	O	O#O	s
 15	såkaldte	O	O#O	s
 16	"	O	O#O	s
-17	japanske	B-OTH	B-LOCderiv#O	s
+17	japanske	O	B-LOCderiv#O	s
 18	økonomiske	O	O#O	s
 19	mirakel	O	O#O	s
 20	"	O	O#O	s
@@ -70986,7 +70986,7 @@
 4	er	O	O#O	s
 5	den	O	O#O	s
 6	uddelte	O	O#O	s
-7	pakistanske	B-OTH	B-LOCderiv#O	s
+7	pakistanske	O	B-LOCderiv#O	s
 8	model	O	O#O	s
 9	,	O	O#O	s
 10	der	O	O#O	s
@@ -71014,7 +71014,7 @@
 # sent_id = train-v2-3364
 # text = "Danix" befinder sig i havnebyen Port-Harcourt, og mandskabet om bord har fået inddraget deres pas.
 1	"	O	O#O	s
-2	Danix	B-OTH	B-MISC#O	s
+2	Danix	O	B-MISC#O	s
 3	"	O	O#O	s
 4	befinder	O	O#O	s
 5	sig	O	O#O	s
@@ -71051,7 +71051,7 @@
 1	For	O	O#O	s
 2	de	O	O#O	s
 3	indre	O	O#O	s
-4	danske	B-OTH	B-LOCderiv#O	s
+4	danske	O	B-LOCderiv#O	s
 5	farvande	O	O#O	s
 6	ventes	O	O#O	s
 7	kulingen	O	O#O	s
@@ -71158,9 +71158,9 @@
 
 # sent_id = train-v2-3371
 # text = DE FIRE ÅRS.: (la primavera) forår skrevet i E-dur * 3all (L'estate) sommer g-mol (l'autunno) efterår F-dur (L'inverno) vinter f-mol * 12all Allegro = Hurtigt livligt.
-1	DE	B-OTH	B-MISC#O	s
-2	FIRE	I-OTH	I-MISC#O	s
-3	ÅRS	I-OTH	I-MISC#O	s
+1	DE	O	B-MISC#O	s
+2	FIRE	O	I-MISC#O	s
+3	ÅRS	O	I-MISC#O	s
 4	.	O	O#O	s
 5	:	O	O#O	s
 6	(	O	O#O	s
@@ -71274,7 +71274,7 @@
 5	til	O	O#O	s
 6	hele	O	O#O	s
 7	den	O	O#O	s
-8	danske	B-OTH	B-LOCderiv#O	s
+8	danske	O	B-LOCderiv#O	s
 9	befolkning	O	O#O	s
 10	om	O	O#O	s
 11	at	O	O#O	s
@@ -71321,7 +71321,7 @@
 2	oversættelsen	O	O#O	s
 3	til	O	O#O	s
 4	"	O	O#O	s
-5	Karlsvognen	B-OTH	B-MISC#O	s
+5	Karlsvognen	O	B-MISC#O	s
 6	"	O	O#O	s
 7	tabes	O	O#O	s
 8	en	O	O#O	s
@@ -71380,7 +71380,7 @@
 # sent_id = train-v2-3380
 # text = Det jugoslaviske flyvevåben fløj gentagne gange over hovedstaden i går, formentlig på rekognoscering for at udpege nye bombemål.
 1	Det	O	O#O	s
-2	jugoslaviske	B-OTH	B-LOCderiv#O	s
+2	jugoslaviske	O	B-LOCderiv#O	s
 3	flyvevåben	O	O#O	s
 4	fløj	O	O#O	s
 5	gentagne	O	O#O	s
@@ -71818,7 +71818,7 @@
 # sent_id = train-v2-3399
 # text = De danske banker fik dårlige karakterer, når det gjaldt omkostnings-effektivitet og basisindtjening pr. medarbejder.
 1	De	O	O#O	s
-2	danske	B-OTH	B-LOCderiv#O	s
+2	danske	O	B-LOCderiv#O	s
 3	banker	O	O#O	s
 4	fik	O	O#O	s
 5	dårlige	O	O#O	s
@@ -71896,7 +71896,7 @@
 13	chance	O	O#O	s
 14	for	O	O#O	s
 15	det	O	O#O	s
-16	russiske	B-OTH	B-LOCderiv#O	s
+16	russiske	O	B-LOCderiv#O	s
 17	demokrati	O	O#O	s
 18	.	O	O#O	s
 
@@ -71913,7 +71913,7 @@
 9	ven	O	O#O	s
 10	,	O	O#O	s
 11	den	O	O#O	s
-12	amerikanske	B-OTH	B-LOCderiv#O	s
+12	amerikanske	O	B-LOCderiv#O	s
 13	arkæolog	O	O#O	s
 14	Mike	B-PER	B-PER#O	s
 15	de	I-PER	I-PER#O	s
@@ -71935,7 +71935,7 @@
 7	geare	O	O#O	s
 8	"	O	O#O	s
 9	de	O	O#O	s
-10	danske	B-OTH	B-LOCderiv#O	s
+10	danske	O	B-LOCderiv#O	s
 11	projekter	O	O#O	s
 12	mod	O	O#O	s
 13	Phare	O	O#O	s
@@ -72054,7 +72054,7 @@
 4	Hofman	I-PER	I-PER#O	s
 5	fra	O	O#O	s
 6	hendes	O	O#O	s
-7	danske	B-OTH	B-LOCderiv#O	s
+7	danske	O	B-LOCderiv#O	s
 8	promotor	O	O#O	s
 9	,	O	O#O	s
 10	pladeselskabet	O	O#O	s
@@ -72566,7 +72566,7 @@
 # sent_id = train-v2-3437
 # text = Den syriske leder ankom i går til Abu Dhabi efter besøg i Saudi-Arabien og Kuwait.
 1	Den	O	O#O	s
-2	syriske	B-OTH	B-LOCderiv#O	s
+2	syriske	O	B-LOCderiv#O	s
 3	leder	O	O#O	s
 4	ankom	O	O#O	s
 5	i	O	O#O	s
@@ -72739,11 +72739,11 @@
 14	men	O	O#O	s
 15	derudover	O	O#O	s
 16	er	O	O#O	s
-17	monoetylenglycol	B-OTH	B-MISC#O	s
+17	monoetylenglycol	O	B-MISC#O	s
 18	mere	O	O#O	s
 19	giftig	O	O#O	s
 20	en	O	O#O	s
-21	propylenglycol	B-OTH	B-MISC#O	s
+21	propylenglycol	O	B-MISC#O	s
 22	,	O	O#O	s
 23	og	O	O#O	s
 24	derfor	O	O#O	s
@@ -72799,7 +72799,7 @@
 6	ord	O	O#O	s
 7	,	O	O#O	s
 8	vor	O	O#O	s
-9	danske	B-OTH	B-LOCderiv#O	s
+9	danske	O	B-LOCderiv#O	s
 10	hovedperson	O	O#O	s
 11	kommer	O	O#O	s
 12	galt	O	O#O	s
@@ -72807,7 +72807,7 @@
 14	med	O	O#O	s
 15	i	O	O#O	s
 16	"	O	O#O	s
-17	Karlsvognen	B-OTH	B-MISC#O	s
+17	Karlsvognen	O	B-MISC#O	s
 18	"	O	O#O	s
 19	,	O	O#O	s
 20	der	O	O#O	s
@@ -72841,23 +72841,23 @@
 9	Sheila	B-PER	B-PER#O	s
 10	Jasanoff	I-PER	I-PER#O	s
 11	"	O	O#O	s
-12	Technological	B-OTH	B-MISC#O	s
-13	innovation	I-OTH	I-MISC#O	s
-14	in	I-OTH	I-MISC#O	s
-15	a	I-OTH	I-MISC#O	s
-16	corporate	I-OTH	I-MISC#O	s
-17	state	I-OTH	I-MISC#O	s
-18	:	I-OTH	I-MISC#O	s
-19	The	I-OTH	I-MISC#O	s
-20	case	I-OTH	I-MISC#O	s
-21	of	I-OTH	I-MISC#O	s
-22	biotecnology	I-OTH	I-MISC#O	s
-23	in	I-OTH	I-MISC#O	s
-24	the	I-OTH	I-MISC#O	s
-25	Federal	I-OTH	I-MISC#O	s
-26	Republic	I-OTH	I-MISC#O	s
-27	of	I-OTH	I-MISC#O	s
-28	Germany	I-OTH	I-MISC#O	s
+12	Technological	O	B-MISC#O	s
+13	innovation	O	I-MISC#O	s
+14	in	O	I-MISC#O	s
+15	a	O	I-MISC#O	s
+16	corporate	O	I-MISC#O	s
+17	state	O	I-MISC#O	s
+18	:	O	I-MISC#O	s
+19	The	O	I-MISC#O	s
+20	case	O	I-MISC#O	s
+21	of	O	I-MISC#O	s
+22	biotecnology	O	I-MISC#O	s
+23	in	O	I-MISC#O	s
+24	the	O	I-MISC#O	s
+25	Federal	O	I-MISC#O	s
+26	Republic	O	I-MISC#O	s
+27	of	O	I-MISC#O	s
+28	Germany	O	I-MISC#O	s
 29	"	O	O#O	s
 30	,	O	O#O	s
 31	Research	O	O#O	s
@@ -72968,8 +72968,8 @@
 4	stor	O	O#O	s
 5	udstilling	O	O#O	s
 6	om	O	O#O	s
-7	Anden	B-OTH	B-MISC#O	s
-8	Verdenskrig	I-OTH	I-MISC#O	s
+7	Anden	O	B-MISC#O	s
+8	Verdenskrig	O	I-MISC#O	s
 9	på	O	O#O	s
 10	Jersey	B-LOC	B-LOC#O	s
 11	.	O	O#O	s
@@ -73040,7 +73040,7 @@
 44	,	O	O#O	s
 45	hvad	O	O#O	s
 46	den	O	O#O	s
-47	filippinske	B-OTH	B-LOCderiv#O	s
+47	filippinske	O	B-LOCderiv#O	s
 48	nation	O	O#O	s
 49	gennem	O	O#O	s
 50	årene	O	O#O	s
@@ -73129,7 +73129,7 @@
 # text = (Den sovjetiske folkekongres har i princippet vedtaget at opløse Sovjetunionen - men samtidig har præsident Mikhail Gorbatjov lidt et nyt politisk nederlag, fordi hans forfatningsudkast ikke kunne samle stemmer nok)
 1	(	O	O#O	s
 2	Den	O	O#O	s
-3	sovjetiske	B-OTH	B-LOCderiv#O	s
+3	sovjetiske	O	B-LOCderiv#O	s
 4	folkekongres	O	O#O	s
 5	har	O	O#O	s
 6	i	O	O#O	s
@@ -73423,7 +73423,7 @@
 21	alle	O	O#O	s
 22	andre	O	O#O	s
 23	end	O	O#O	s
-24	serberne	B-OTH	B-LOCderiv#O	s
+24	serberne	O	B-LOCderiv#O	s
 25	,	O	O#O	s
 26	som	O	O#O	s
 27	siden	O	O#O	s
@@ -73433,7 +73433,7 @@
 31	ført	O	O#O	s
 32	krig	O	O#O	s
 33	mod	O	O#O	s
-34	kroaterne	B-OTH	B-LOCderiv#O	s
+34	kroaterne	O	B-LOCderiv#O	s
 35	.	O	O#O	s
 
 # sent_id = train-v2-3474
@@ -73474,11 +73474,11 @@
 16	nogen	O	O#O	s
 17	genforhandling	O	O#O	s
 18	af	O	O#O	s
-19	Maastricht-aftalen	B-OTH	B-MISC#O	s
+19	Maastricht-aftalen	O	B-MISC#O	s
 20	,	O	O#O	s
 21	at	O	O#O	s
 22	de	O	O#O	s
-23	danske	B-OTH	B-LOCderiv#O	s
+23	danske	O	B-LOCderiv#O	s
 24	særkrav	O	O#O	s
 25	strider	O	O#O	s
 26	mod	O	O#O	s
@@ -73604,9 +73604,9 @@
 6	har	O	O#O	s
 7	skrevet	O	O#O	s
 8	"	O	O#O	s
-9	Jysk	B-OTH	B-MISC#B-LOCderiv	s
-10	til	I-OTH	I-MISC#O	s
-11	rejsebrug	I-OTH	I-MISC#O	s
+9	Jysk	O	B-MISC#B-LOCderiv	s
+10	til	O	I-MISC#O	s
+11	rejsebrug	O	I-MISC#O	s
 12	"	O	O#O	s
 13	,	O	O#O	s
 14	en	O	O#O	s
@@ -73620,7 +73620,7 @@
 22	år	O	O#O	s
 23	,	O	O#O	s
 24	så	O	O#O	s
-25	danskere	B-OTH	B-LOCderiv#O	s
+25	danskere	O	B-LOCderiv#O	s
 26	fra	O	O#O	s
 27	de	O	O#O	s
 28	øvrige	O	O#O	s
@@ -73632,7 +73632,7 @@
 34	sig	O	O#O	s
 35	i	O	O#O	s
 36	det	O	O#O	s
-37	jyske	B-OTH	B-LOCderiv#O	s
+37	jyske	O	B-LOCderiv#O	s
 38	uden	O	O#O	s
 39	at	O	O#O	s
 40	dumme	O	O#O	s
@@ -73644,7 +73644,7 @@
 # sent_id = train-v2-3483
 # text = De østeuropæiske lande vil formentlig tage imod vores forurenende industrier med kyshånd for at skaffe arbejdspladser.
 1	De	O	O#O	s
-2	østeuropæiske	B-OTH	B-LOCderiv#O	s
+2	østeuropæiske	O	B-LOCderiv#O	s
 3	lande	O	O#O	s
 4	vil	O	O#O	s
 5	formentlig	O	O#O	s
@@ -74276,10 +74276,10 @@
 6	skibe	O	O#O	s
 7	er	O	O#O	s
 8	den	O	O#O	s
-9	danske	B-OTH	B-LOCderiv#O	s
+9	danske	O	B-LOCderiv#O	s
 10	coaster	O	O#O	s
 11	"	O	O#O	s
-12	Danix	B-OTH	B-MISC#O	s
+12	Danix	O	B-MISC#O	s
 13	"	O	O#O	s
 14	fra	O	O#O	s
 15	rederiet	O	O#O	s
@@ -74290,10 +74290,10 @@
 
 # sent_id = train-v2-3510
 # text = Der er sket Noget, hedder en roman af Joseph Heller.
-1	Der	B-OTH	B-MISC#O	s
-2	er	I-OTH	I-MISC#O	s
-3	sket	I-OTH	I-MISC#O	s
-4	Noget	I-OTH	I-MISC#O	s
+1	Der	O	B-MISC#O	s
+2	er	O	I-MISC#O	s
+3	sket	O	I-MISC#O	s
+4	Noget	O	I-MISC#O	s
 5	,	O	O#O	s
 6	hedder	O	O#O	s
 7	en	O	O#O	s
@@ -74368,13 +74368,13 @@
 8	LP	O	O#O	s
 9	,	O	O#O	s
 10	"	O	O#O	s
-11	With	B-OTH	B-MISC#O	s
-12	A	I-OTH	I-MISC#O	s
-13	Little	I-OTH	I-MISC#O	s
-14	Help	I-OTH	I-MISC#O	s
-15	From	I-OTH	I-MISC#O	s
-16	My	I-OTH	I-MISC#O	s
-17	Friends	I-OTH	I-MISC#O	s
+11	With	O	B-MISC#O	s
+12	A	O	I-MISC#O	s
+13	Little	O	I-MISC#O	s
+14	Help	O	I-MISC#O	s
+15	From	O	I-MISC#O	s
+16	My	O	I-MISC#O	s
+17	Friends	O	I-MISC#O	s
 18	"	O	O#O	s
 19	,	O	O#O	s
 20	udkom	O	O#O	s
@@ -74441,7 +74441,7 @@
 8	frem	O	O#O	s
 9	,	O	O#O	s
 10	viser	O	O#O	s
-11	GfK-undersøgelsen	B-OTH	B-MISCpart#O	s
+11	GfK-undersøgelsen	O	B-MISCpart#O	s
 12	,	O	O#O	s
 13	der	O	O#O	s
 14	er	O	O#O	s
@@ -74759,9 +74759,9 @@
 9	hjem	O	O#O	s
 10	lige	O	O#O	s
 11	til	O	O#O	s
-12	Hellig	B-OTH	B-MISC#O	s
-13	Tre	I-OTH	I-MISC#O	s
-14	Konger	I-OTH	I-MISC#O	s
+12	Hellig	O	B-MISC#O	s
+13	Tre	O	I-MISC#O	s
+14	Konger	O	I-MISC#O	s
 15	,	O	O#O	s
 16	hvor	O	O#O	s
 17	han	O	O#O	s
@@ -74990,7 +74990,7 @@
 # sent_id = train-v2-3545
 # text = Og Unix er ikke afløsning af tidligere systemer, men skal være et supplement.
 1	Og	O	O#O	s
-2	Unix	B-OTH	B-MISC#O	s
+2	Unix	O	B-MISC#O	s
 3	er	O	O#O	s
 4	ikke	O	O#O	s
 5	afløsning	O	O#O	s
@@ -75118,8 +75118,8 @@
 2	er	O	O#O	s
 3	opfølgeren	O	O#O	s
 4	"	O	O#O	s
-5	Electric	B-OTH	B-MISC#O	s
-6	Eel	I-OTH	I-MISC#O	s
+5	Electric	O	B-MISC#O	s
+6	Eel	O	I-MISC#O	s
 7	"	O	O#O	s
 8	udsendt	O	O#O	s
 9	.	O	O#O	s
@@ -75406,7 +75406,7 @@
 8	pct.	O	O#O	s
 9	i	O	O#O	s
 10	en	O	O#O	s
-11	svensk	B-OTH	B-LOCderiv#O	s
+11	svensk	O	B-LOCderiv#O	s
 12	undersøgelse	O	O#O	s
 13	-	O	O#O	s
 14	og	O	O#O	s
@@ -75442,8 +75442,8 @@
 12	bord	O	O#O	s
 13	på	O	O#O	s
 14	"	O	O#O	s
-15	Scandinavian	B-OTH	B-MISC#O	s
-16	Star	I-OTH	I-MISC#O	s
+15	Scandinavian	O	B-MISC#O	s
+16	Star	O	I-MISC#O	s
 17	"	O	O#O	s
 18	en	O	O#O	s
 19	af	O	O#O	s
@@ -75834,7 +75834,7 @@
 5	nedprioriteringen	O	O#O	s
 6	af	O	O#O	s
 7	de	O	O#O	s
-8	tamilske	B-OTH	B-LOCderiv#O	s
+8	tamilske	O	B-LOCderiv#O	s
 9	familiesammenføringssager	O	O#O	s
 10	-	O	O#O	s
 11	den	O	O#O	s
@@ -76083,19 +76083,19 @@
 36	Humaniora	O	O#O	s
 37	I	O	O#O	s
 38	(	O	O#O	s
-39	dansk	B-OTH	B-LOCderiv#O	s
+39	dansk	O	B-LOCderiv#O	s
 40	,	O	O#O	s
-41	engelsk	B-OTH	B-LOCderiv#O	s
+41	engelsk	O	B-LOCderiv#O	s
 42	,	O	O#O	s
 43	historie	O	O#O	s
 44	,	O	O#O	s
-45	fransk	B-OTH	B-LOCderiv#O	s
+45	fransk	O	B-LOCderiv#O	s
 46	,	O	O#O	s
-47	spansk	B-OTH	B-LOCderiv#O	s
+47	spansk	O	B-LOCderiv#O	s
 48	,	O	O#O	s
-49	italiensk	B-OTH	B-LOCderiv#O	s
+49	italiensk	O	B-LOCderiv#O	s
 50	,	O	O#O	s
-51	portugisisk/brasiliansk	B-OTH	B-LOCderiv#B-LOCderiv	s
+51	portugisisk/brasiliansk	O	B-LOCderiv#B-LOCderiv	s
 52	,	O	O#O	s
 53	informationsviden	O	O#O	s
 54	skab	O	O#O	s
@@ -76204,13 +76204,13 @@
 3	kultfilm	O	O#O	s
 4	som	O	O#O	s
 5	"	O	O#O	s
-6	Blue	B-OTH	B-MISC#O	s
-7	Velvet	I-OTH	I-MISC#O	s
+6	Blue	O	B-MISC#O	s
+7	Velvet	O	I-MISC#O	s
 8	"	O	O#O	s
 9	og	O	O#O	s
 10	"	O	O#O	s
-11	Vilde	B-OTH	B-MISC#O	s
-12	Hjerter	I-OTH	I-MISC#O	s
+11	Vilde	O	B-MISC#O	s
+12	Hjerter	O	I-MISC#O	s
 13	"	O	O#O	s
 14	er	O	O#O	s
 15	som	O	O#O	s
@@ -76218,12 +76218,12 @@
 17	også	O	O#O	s
 18	manden	O	O#O	s
 19	bag	O	O#O	s
-20	danskernes	B-OTH	B-LOCderiv#O	s
+20	danskernes	O	B-LOCderiv#O	s
 21	hemmelige	O	O#O	s
 22	TV-lidenskab	O	O#O	s
 23	"	O	O#O	s
-24	Twin	B-OTH	B-MISC#O	s
-25	Peaks	I-OTH	I-MISC#O	s
+24	Twin	O	B-MISC#O	s
+25	Peaks	O	I-MISC#O	s
 26	"	O	O#O	s
 27	.	O	O#O	s
 
@@ -76251,10 +76251,10 @@
 
 # sent_id = train-v2-3604
 # text = Den Store Danske Encyklopædi til nu knap 15.000 kr. kommer til at indeholde ca. 200.000 opslagsord fordelt på 12.000 sider - heraf ca. 20 procent illustrationer.
-1	Den	B-OTH	B-MISC#O	s
-2	Store	I-OTH	I-MISC#O	s
-3	Danske	I-OTH	I-MISC#B-LOCderiv	s
-4	Encyklopædi	I-OTH	I-MISC#O	s
+1	Den	O	B-MISC#O	s
+2	Store	O	I-MISC#O	s
+3	Danske	O	I-MISC#B-LOCderiv	s
+4	Encyklopædi	O	I-MISC#O	s
 5	til	O	O#O	s
 6	nu	O	O#O	s
 7	knap	O	O#O	s
@@ -76657,7 +76657,7 @@
 15	23	O	O#O	s
 16	år	O	O#O	s
 17	varetaget	O	O#O	s
-18	danske	B-OTH	B-LOCderiv#O	s
+18	danske	O	B-LOCderiv#O	s
 19	erhvervsinteresser	O	O#O	s
 20	i	O	O#O	s
 21	Sydamerika	B-LOC	B-LOC#O	s
@@ -76753,7 +76753,7 @@
 4	ER	O	O#O	s
 5	liv	O	O#O	s
 6	i	O	O#O	s
-7	dansk	B-OTH	B-LOCderiv#O	s
+7	dansk	O	B-LOCderiv#O	s
 8	softwareudvikling	O	O#O	s
 9	.	O	O#O	s
 
@@ -77138,7 +77138,7 @@
 17	af	O	O#O	s
 18	Van	B-ORG	B-ORG#O	s
 19	Halens	I-ORG	I-ORG#O	s
-20	"Jump"-nummer	B-OTH	B-MISCpart#O	s
+20	"Jump"-nummer	O	B-MISCpart#O	s
 21	,	O	O#O	s
 22	men	O	O#O	s
 23	derimod	O	O#O	s
@@ -77328,8 +77328,8 @@
 # text = Filmen "Terrorboy II" blev til i 1982 og er utvivlsomt den danske kultfilm, som er blevet set af færrest.
 1	Filmen	O	O#O	s
 2	"	O	O#O	s
-3	Terrorboy	B-OTH	B-MISC#O	s
-4	II	I-OTH	I-MISC#O	s
+3	Terrorboy	O	B-MISC#O	s
+4	II	O	I-MISC#O	s
 5	"	O	O#O	s
 6	blev	O	O#O	s
 7	til	O	O#O	s
@@ -77339,7 +77339,7 @@
 11	er	O	O#O	s
 12	utvivlsomt	O	O#O	s
 13	den	O	O#O	s
-14	danske	B-OTH	B-LOCderiv#O	s
+14	danske	O	B-LOCderiv#O	s
 15	kultfilm	O	O#O	s
 16	,	O	O#O	s
 17	som	O	O#O	s
@@ -77505,7 +77505,7 @@
 3	også	O	O#O	s
 4	omringet	O	O#O	s
 5	det	O	O#O	s
-6	jugoslaviske	B-OTH	B-LOCderiv#O	s
+6	jugoslaviske	O	B-LOCderiv#O	s
 7	militærhospital	O	O#O	s
 8	i	O	O#O	s
 9	Sarajevo	B-LOC	B-LOC#O	s
@@ -77533,7 +77533,7 @@
 10	er	O	O#O	s
 11	pjattet	O	O#O	s
 12	med	O	O#O	s
-13	Citroën'er	B-OTH	B-ORGderiv#O	s
+13	Citroën'er	O	B-ORGderiv#O	s
 14	-	O	O#O	s
 15	havde	O	O#O	s
 16	samlet	O	O#O	s
@@ -77747,7 +77747,7 @@
 4	venstreradikale	O	O#O	s
 5	er	O	O#O	s
 6	de	O	O#O	s
-7	britiske	B-OTH	B-LOCderiv#O	s
+7	britiske	O	B-LOCderiv#O	s
 8	de	O	O#O	s
 9	mest	O	O#O	s
 10	håbløse	O	O#O	s
@@ -77793,7 +77793,7 @@
 9	af	O	O#O	s
 10	filmen	O	O#O	s
 11	"	O	O#O	s
-12	Fyrskibet	B-OTH	B-MISC#O	s
+12	Fyrskibet	O	B-MISC#O	s
 13	"	O	O#O	s
 14	(	O	O#O	s
 15	i	O	O#O	s
@@ -77954,8 +77954,8 @@
 13	om	O	O#O	s
 14	,	O	O#O	s
 15	at	O	O#O	s
-16	Glienicke	B-OTH	B-MISC#O	s
-17	broen	I-OTH	I-MISC#O	s
+16	Glienicke	O	B-MISC#O	s
+17	broen	O	I-MISC#O	s
 18	over	O	O#O	s
 19	floden	O	O#O	s
 20	Havel	B-LOC	B-LOC#O	s
@@ -78093,7 +78093,7 @@
 
 # sent_id = train-v2-3688
 # text = Tyskerne kan godt lære os noget om venlighed, og om at klare situationen med et smil i stedet for en sur mine, "siger Marianne Dransfeldt, der skal bruge sommeren i praktik i det danske ferieland, hvor tysk i øjeblikket er det vigtigste arbejdssprog.
-1	Tyskerne	B-OTH	B-LOCderiv#O	s
+1	Tyskerne	O	B-LOCderiv#O	s
 2	kan	O	O#O	s
 3	godt	O	O#O	s
 4	lære	O	O#O	s
@@ -78130,11 +78130,11 @@
 35	praktik	O	O#O	s
 36	i	O	O#O	s
 37	det	O	O#O	s
-38	danske	B-OTH	B-LOCderiv#O	s
+38	danske	O	B-LOCderiv#O	s
 39	ferieland	O	O#O	s
 40	,	O	O#O	s
 41	hvor	O	O#O	s
-42	tysk	B-OTH	B-LOCderiv#O	s
+42	tysk	O	B-LOCderiv#O	s
 43	i	O	O#O	s
 44	øjeblikket	O	O#O	s
 45	er	O	O#O	s
@@ -78326,9 +78326,9 @@
 2	anstrengelserne	O	O#O	s
 3	i	O	O#O	s
 4	lørdagens	O	O#O	s
-5	IHF-Cup-kamp	B-OTH	B-MISCpart#B-ORGpart	s
+5	IHF-Cup-kamp	O	B-MISCpart#B-ORGpart	s
 6	mod	O	O#O	s
-7	rumænske	B-OTH	B-LOCderiv#O	s
+7	rumænske	O	B-LOCderiv#O	s
 8	Textila	B-ORG	B-ORG#O	s
 9	Zalau	I-ORG	I-ORG#O	s
 10	var	O	O#O	s
@@ -78366,7 +78366,7 @@
 13	da	O	O#O	s
 14	han	O	O#O	s
 15	garanterede	O	O#O	s
-16	amerikanerne	B-OTH	B-LOCderiv#O	s
+16	amerikanerne	O	B-LOCderiv#O	s
 17	,	O	O#O	s
 18	at	O	O#O	s
 19	alle	O	O#O	s
@@ -78383,7 +78383,7 @@
 30	krigsfanger	O	O#O	s
 31	i	O	O#O	s
 32	det	O	O#O	s
-33	sovjetiske	B-OTH	B-LOCderiv#O	s
+33	sovjetiske	O	B-LOCderiv#O	s
 34	gulag	O	O#O	s
 35	.	O	O#O	s
 
@@ -78521,7 +78521,7 @@
 22	procent	O	O#O	s
 23	mod	O	O#O	s
 24	de	O	O#O	s
-25	tjekkiske	B-OTH	B-LOCderiv#O	s
+25	tjekkiske	O	B-LOCderiv#O	s
 26	lande	O	O#O	s
 27	Bøhmen	B-LOC	B-LOC#O	s
 28	og	O	O#O	s
@@ -78595,7 +78595,7 @@
 2	er	O	O#O	s
 3	også	O	O#O	s
 4	radikale	O	O#O	s
-5	tjekkere	B-OTH	B-LOCderiv#O	s
+5	tjekkere	O	B-LOCderiv#O	s
 6	,	O	O#O	s
 7	som	O	O#O	s
 8	må	O	O#O	s
@@ -79076,7 +79076,7 @@
 2	dette	O	O#O	s
 3	marked	O	O#O	s
 4	-	O	O#O	s
-5	Unix	B-OTH	B-MISC#O	s
+5	Unix	O	B-MISC#O	s
 6	og	O	O#O	s
 7	de	O	O#O	s
 8	åbne	O	O#O	s
@@ -79157,11 +79157,11 @@
 11	om	O	O#O	s
 12	jeg	O	O#O	s
 13	er	O	O#O	s
-14	dansker	B-OTH	B-LOCderiv#O	s
+14	dansker	O	B-LOCderiv#O	s
 15	og	O	O#O	s
 16	skriver	O	O#O	s
 17	for	O	O#O	s
-18	danskere	B-OTH	B-LOCderiv#O	s
+18	danskere	O	B-LOCderiv#O	s
 19	.	O	O#O	s
 
 # sent_id = train-v2-3729
@@ -79244,7 +79244,7 @@
 2	radioen	O	O#O	s
 3	satte	O	O#O	s
 4	de	O	O#O	s
-5	serbiske	B-OTH	B-LOCderiv#O	s
+5	serbiske	O	B-LOCderiv#O	s
 6	styrker	O	O#O	s
 7	også	O	O#O	s
 8	en	O	O#O	s
@@ -79324,7 +79324,7 @@
 2	er	O	O#O	s
 3	,	O	O#O	s
 4	at	O	O#O	s
-5	Brøndbyernes	B-OTH	B-ORGderiv#B-LOCderiv	s
+5	Brøndbyernes	O	B-ORGderiv#B-LOCderiv	s
 6	IF	B-ORG	B-ORG#O	s
 7	i	O	O#O	s
 8	denne	O	O#O	s
@@ -79480,7 +79480,7 @@
 5	beskæftige	O	O#O	s
 6	sig	O	O#O	s
 7	med	O	O#O	s
-8	filippinsk	B-OTH	B-LOCderiv#O	s
+8	filippinsk	O	B-LOCderiv#O	s
 9	malerkunst	O	O#O	s
 10	gennem	O	O#O	s
 11	tiderne	O	O#O	s
@@ -79488,7 +79488,7 @@
 
 # sent_id = train-v2-3743
 # text = Italienerne ved, hvad udfordringen på Gentofte Stadion indeholder, og de bør - nøgternt bedømt - ikke komme i større vanskeligheder end de kan klare i kraft af kvalitet og træningstilstand.
-1	Italienerne	B-OTH	B-LOCderiv#O	s
+1	Italienerne	O	B-LOCderiv#O	s
 2	ved	O	O#O	s
 3	,	O	O#O	s
 4	hvad	O	O#O	s
@@ -79636,8 +79636,8 @@
 48	sceneografi	O	O#O	s
 49	på	O	O#O	s
 50	"	O	O#O	s
-51	Et	B-OTH	B-MISC#O	s
-52	Folkesagn	I-OTH	I-MISC#O	s
+51	Et	O	B-MISC#O	s
+52	Folkesagn	O	I-MISC#O	s
 53	"	O	O#O	s
 54	,	O	O#O	s
 55	og	O	O#O	s
@@ -79772,7 +79772,7 @@
 6	udforme	O	O#O	s
 7	en	O	O#O	s
 8	fælles	O	O#O	s
-9	europæisk	B-OTH	B-LOCderiv#O	s
+9	europæisk	O	B-LOCderiv#O	s
 10	forsvarspolitik	O	O#O	s
 11	og	O	O#O	s
 12	fremme	O	O#O	s
@@ -79915,7 +79915,7 @@
 3	Brod	I-LOC	I-LOC#O	s
 4	,	O	O#O	s
 5	en	O	O#O	s
-6	kroatisk	B-OTH	B-LOCderiv#O	s
+6	kroatisk	O	B-LOCderiv#O	s
 7	by	O	O#O	s
 8	på	O	O#O	s
 9	grænsen	O	O#O	s
@@ -79935,7 +79935,7 @@
 23	bombe	O	O#O	s
 24	fra	O	O#O	s
 25	et	O	O#O	s
-26	jugoslavisk	B-OTH	B-LOCderiv#O	s
+26	jugoslavisk	O	B-LOCderiv#O	s
 27	fly	O	O#O	s
 28	ødelagde	O	O#O	s
 29	deres	O	O#O	s
@@ -80028,7 +80028,7 @@
 11	kernedansk	B-LOC	B-LOCpart#B-LOCderiv	s
 12	,	O	O#O	s
 13	men	O	O#O	s
-14	danskheden	B-OTH	B-LOCderiv#O	s
+14	danskheden	O	B-LOCderiv#O	s
 15	er	O	O#O	s
 16	primært	O	O#O	s
 17	vores	O	O#O	s
@@ -81069,7 +81069,7 @@
 42	som	O	O#O	s
 43	for	O	O#O	s
 44	det	O	O#O	s
-45	danske	B-OTH	B-LOCderiv#O	s
+45	danske	O	B-LOCderiv#O	s
 46	politi	O	O#O	s
 47	og	O	O#O	s
 48	retsvæsen	O	O#O	s
@@ -81142,7 +81142,7 @@
 1	Der	O	O#O	s
 2	er	O	O#O	s
 3	to	O	O#O	s
-4	Tempra-modeller	B-OTH	B-MISCpart#O	s
+4	Tempra-modeller	O	B-MISCpart#O	s
 5	,	O	O#O	s
 6	en	O	O#O	s
 7	1,6	O	O#O	s
@@ -81159,7 +81159,7 @@
 18	firmabil-klassen	O	O#O	s
 19	,	O	O#O	s
 20	hvor	O	O#O	s
-21	Tempra'en	B-OTH	B-MISCderiv#O	s
+21	Tempra'en	O	B-MISCderiv#O	s
 22	er	O	O#O	s
 23	ved	O	O#O	s
 24	at	O	O#O	s
@@ -81610,7 +81610,7 @@
 6	mig	O	O#O	s
 7	som	O	O#O	s
 8	ung	O	O#O	s
-9	dansker	B-OTH	B-LOCderiv#O	s
+9	dansker	O	B-LOCderiv#O	s
 10	,	O	O#O	s
 11	er	O	O#O	s
 12	,	O	O#O	s
@@ -81624,7 +81624,7 @@
 20	overhovedet	O	O#O	s
 21	forelå	O	O#O	s
 22	på	O	O#O	s
-23	dansk	B-OTH	B-LOCderiv#O	s
+23	dansk	O	B-LOCderiv#O	s
 24	.	O	O#O	s
 
 # sent_id = train-v2-3836
@@ -81749,10 +81749,10 @@
 3	,	O	O#O	s
 4	chefredaktør	O	O#O	s
 5	for	O	O#O	s
-6	Den	B-OTH	B-MISC#O	s
-7	Store	I-OTH	I-MISC#O	s
-8	Danske	I-OTH	I-MISC#B-LOCderiv	s
-9	Encyklopædi	I-OTH	I-MISC#O	s
+6	Den	O	B-MISC#O	s
+7	Store	O	I-MISC#O	s
+8	Danske	O	I-MISC#B-LOCderiv	s
+9	Encyklopædi	O	I-MISC#O	s
 10	,	O	O#O	s
 11	kommenterer	O	O#O	s
 12	:	O	O#O	s
@@ -81864,7 +81864,7 @@
 1	Næste	O	O#O	s
 2	år	O	O#O	s
 3	bliver	O	O#O	s
-4	Le-Mans-racet	B-OTH	B-MISCderiv#O	s
+4	Le-Mans-racet	O	B-MISCderiv#O	s
 5	åbent	O	O#O	s
 6	for	O	O#O	s
 7	fire	O	O#O	s
@@ -82017,7 +82017,7 @@
 13	over	O	O#O	s
 14	for	O	O#O	s
 15	sine	O	O#O	s
-16	irakiske	B-OTH	B-LOCderiv#O	s
+16	irakiske	O	B-LOCderiv#O	s
 17	partnere	O	O#O	s
 18	.	O	O#O	s
 
@@ -82067,9 +82067,9 @@
 1	Men	O	O#O	s
 2	at	O	O#O	s
 3	"	O	O#O	s
-4	Sankt	B-OTH	B-MISC#O	s
-5	Markus	I-OTH	I-MISC#O	s
-6	Nat	I-OTH	I-MISC#O	s
+4	Sankt	O	B-MISC#O	s
+5	Markus	O	I-MISC#O	s
+6	Nat	O	I-MISC#O	s
 7	"	O	O#O	s
 8	kan	O	O#O	s
 9	kaldes	O	O#O	s
@@ -82622,9 +82622,9 @@
 2	titel	O	O#O	s
 3	:	O	O#O	s
 4	"	O	O#O	s
-5	Den	B-OTH	B-MISC#O	s
-6	gode	I-OTH	I-MISC#O	s
-7	cirkel	I-OTH	I-MISC#O	s
+5	Den	O	B-MISC#O	s
+6	gode	O	I-MISC#O	s
+7	cirkel	O	I-MISC#O	s
 8	"	O	O#O	s
 9	.	O	O#O	s
 
@@ -82735,7 +82735,7 @@
 # text = såvel den svenske lovgivning som konceptet bag de "Kronkycklinger", fjerkræproducenten Kronfågel har eksporteret til Kvickly-kæden, bærer derfor præg af, at der i langt højere grad end i Danmark skal tages hensyn til dyrenes velfærd.
 1	såvel	O	O#O	s
 2	den	O	O#O	s
-3	svenske	B-OTH	B-LOCderiv#O	s
+3	svenske	O	B-LOCderiv#O	s
 4	lovgivning	O	O#O	s
 5	som	O	O#O	s
 6	konceptet	O	O#O	s
@@ -82821,7 +82821,7 @@
 43	med	O	O#O	s
 44	det	O	O#O	s
 45	største	O	O#O	s
-46	tyske	B-OTH	B-LOCderiv#O	s
+46	tyske	O	B-LOCderiv#O	s
 47	nederlag	O	O#O	s
 48	i	O	O#O	s
 49	sportsmands	O	O#O	s
@@ -82846,23 +82846,23 @@
 14	til	O	O#O	s
 15	filmene	O	O#O	s
 16	"	O	O#O	s
-17	Det	B-OTH	B-MISC#O	s
-18	perfekte	I-OTH	I-MISC#O	s
-19	menneske	I-OTH	I-MISC#O	s
+17	Det	O	B-MISC#O	s
+18	perfekte	O	I-MISC#O	s
+19	menneske	O	I-MISC#O	s
 20	"	O	O#O	s
 21	,	O	O#O	s
 22	"	O	O#O	s
-23	Det	B-OTH	B-MISC#O	s
-24	gode	I-OTH	I-MISC#O	s
-25	og	I-OTH	I-MISC#O	s
-26	det	I-OTH	I-MISC#O	s
-27	onde	I-OTH	I-MISC#O	s
+23	Det	O	B-MISC#O	s
+24	gode	O	I-MISC#O	s
+25	og	O	I-MISC#O	s
+26	det	O	I-MISC#O	s
+27	onde	O	I-MISC#O	s
 28	"	O	O#O	s
 29	og	O	O#O	s
 30	"	O	O#O	s
-31	Notater	B-OTH	B-MISC#O	s
-32	om	I-OTH	I-MISC#O	s
-33	kærligheden	I-OTH	I-MISC#O	s
+31	Notater	O	B-MISC#O	s
+32	om	O	I-MISC#O	s
+33	kærligheden	O	I-MISC#O	s
 34	"	O	O#O	s
 35	samt	O	O#O	s
 36	et	O	O#O	s
@@ -83000,7 +83000,7 @@
 # sent_id = train-v2-3896
 # text = To RS'ere
 1	To	O	O#O	s
-2	RS'ere	B-OTH	B-MISCderiv#O	s
+2	RS'ere	O	B-MISCderiv#O	s
 
 # sent_id = train-v2-3897
 # text = Lad det være mig tilladt at nævne bare et par eksempler fra dagligdagen, Strædet og modernisering af vaskeriet på Bispebjerg Hospital.
@@ -83152,7 +83152,7 @@
 10	fra	O	O#O	s
 11	både	O	O#O	s
 12	den	O	O#O	s
-13	amerikanske	B-OTH	B-LOCderiv#O	s
+13	amerikanske	O	B-LOCderiv#O	s
 14	ambassade	O	O#O	s
 15	og	O	O#O	s
 16	det	O	O#O	s
@@ -83200,9 +83200,9 @@
 # text = Sygdomme som fåresyge eller gonorré giver smerter i stenene.
 1	Sygdomme	O	O#O	s
 2	som	O	O#O	s
-3	fåresyge	B-OTH	B-MISC#O	s
+3	fåresyge	O	B-MISC#O	s
 4	eller	O	O#O	s
-5	gonorré	B-OTH	B-MISC#O	s
+5	gonorré	O	B-MISC#O	s
 6	giver	O	O#O	s
 7	smerter	O	O#O	s
 8	i	O	O#O	s
@@ -83247,7 +83247,7 @@
 # sent_id = train-v2-3907
 # text = De københavnske håndværkssvende, trykkede af den frie konkurrence efter lagsvæsenets afskaffelse, var villige deltagere i Pios bevægelse og den konservative regering ligeså ivrig for at kvæle denne opstand i fødslen.
 1	De	O	O#O	s
-2	københavnske	B-OTH	B-LOCderiv#O	s
+2	københavnske	O	B-LOCderiv#O	s
 3	håndværkssvende	O	O#O	s
 4	,	O	O#O	s
 5	trykkede	O	O#O	s
@@ -83463,7 +83463,7 @@
 7	sammen	O	O#O	s
 8	med	O	O#O	s
 9	de	O	O#O	s
-10	nordtyske	B-OTH	B-LOCderiv#O	s
+10	nordtyske	O	B-LOCderiv#O	s
 11	NATO-styrker	B-ORG	B-ORGpart#O	s
 12	skulle	O	O#O	s
 13	sættes	O	O#O	s
@@ -83548,12 +83548,12 @@
 13	og	O	O#O	s
 14	både	O	O#O	s
 15	"	O	O#O	s
-16	Naked	B-OTH	B-MISC#O	s
-17	Thunder	I-OTH	I-MISC#O	s
+16	Naked	O	B-MISC#O	s
+17	Thunder	O	I-MISC#O	s
 18	"	O	O#O	s
 19	og	O	O#O	s
 20	"	O	O#O	s
-21	Toolbox	B-OTH	B-MISC#O	s
+21	Toolbox	O	B-MISC#O	s
 22	"	O	O#O	s
 23	som	O	O#O	s
 24	plader	O	O#O	s
@@ -84160,7 +84160,7 @@
 4	kun	O	O#O	s
 5	den	O	O#O	s
 6	enlige	O	O#O	s
-7	polak	B-OTH	B-LOCderiv#O	s
+7	polak	O	B-LOCderiv#O	s
 8	.	O	O#O	s
 
 # sent_id = train-v2-3947
@@ -84507,7 +84507,7 @@
 2	Kazama	I-PER	I-PER#O	s
 3	,	O	O#O	s
 4	41-årig	O	O#O	s
-5	japaner	B-OTH	B-LOCderiv#O	s
+5	japaner	O	B-LOCderiv#O	s
 6	,	O	O#O	s
 7	har	O	O#O	s
 8	som	O	O#O	s
@@ -84573,7 +84573,7 @@
 7	men	O	O#O	s
 8	swahili	O	O#O	s
 9	med	O	O#O	s
-10	norsk	B-OTH	B-LOCderiv#O	s
+10	norsk	O	B-LOCderiv#O	s
 11	accent	O	O#O	s
 12	lyder	O	O#O	s
 13	mærkeligt	O	O#O	s
@@ -84655,7 +84655,7 @@
 1	Partierne	O	O#O	s
 2	foreslår	O	O#O	s
 3	en	O	O#O	s
-4	baltisk	B-OTH	B-LOCderiv#O	s
+4	baltisk	O	B-LOCderiv#O	s
 5	udstilling	O	O#O	s
 6	i	O	O#O	s
 7	forbindelse	O	O#O	s
@@ -84876,7 +84876,7 @@
 13	er	O	O#O	s
 14	det	O	O#O	s
 15	en	O	O#O	s
-16	spansk	B-OTH	B-LOCderiv#O	s
+16	spansk	O	B-LOCderiv#O	s
 17	bil	O	O#O	s
 18	,	O	O#O	s
 19	og	O	O#O	s
@@ -85000,7 +85000,7 @@
 7	at	O	O#O	s
 8	udelukke	O	O#O	s
 9	-	O	O#O	s
-10	AIDS	B-OTH	B-MISC#O	s
+10	AIDS	O	B-MISC#O	s
 11	:	O	O#O	s
 12	-	O	O#O	s
 13	Vi	O	O#O	s
@@ -85156,7 +85156,7 @@
 
 # sent_id = train-v2-3995
 # text = KINESERNE RYSTET
-1	KINESERNE	B-OTH	B-LOCderiv#O	s
+1	KINESERNE	O	B-LOCderiv#O	s
 2	RYSTET	O	O#O	s
 
 # sent_id = train-v2-3996
@@ -85238,7 +85238,7 @@
 28	,	O	O#O	s
 29	der	O	O#O	s
 30	har	O	O#O	s
-31	danske	B-OTH	B-LOCderiv#O	s
+31	danske	O	B-LOCderiv#O	s
 32	datterselskaber	O	O#O	s
 33	"	O	O#O	s
 34	.	O	O#O	s
@@ -85352,9 +85352,9 @@
 13	tredje	O	O#O	s
 14	bind	O	O#O	s
 15	-	O	O#O	s
-16	Vejen	B-OTH	B-MISC#O	s
-17	til	I-OTH	I-MISC#O	s
-18	Peking	I-OTH	I-MISC#O	s
+16	Vejen	O	B-MISC#O	s
+17	til	O	I-MISC#O	s
+18	Peking	O	I-MISC#O	s
 19	-	O	O#O	s
 20	lykkes	O	O#O	s
 21	det	O	O#O	s
@@ -85562,7 +85562,7 @@
 15	I	O	O#O	s
 16	er	O	O#O	s
 17	allesammen	O	O#O	s
-18	danske	B-OTH	B-LOCderiv#O	s
+18	danske	O	B-LOCderiv#O	s
 19	og	O	O#O	s
 20	enige	O	O#O	s
 21	om	O	O#O	s
@@ -85570,7 +85570,7 @@
 23	at	O	O#O	s
 24	I	O	O#O	s
 25	er	O	O#O	s
-26	danske	B-OTH	B-LOCderiv#O	s
+26	danske	O	B-LOCderiv#O	s
 27	.	O	O#O	s
 
 # sent_id = train-v2-4016
@@ -85764,7 +85764,7 @@
 19	engagement	O	O#O	s
 20	i	O	O#O	s
 21	"	O	O#O	s
-22	Hamlet	B-OTH	B-MISC#O	s
+22	Hamlet	O	B-MISC#O	s
 23	"	O	O#O	s
 24	kan	O	O#O	s
 25	nærmest	O	O#O	s
@@ -86685,7 +86685,7 @@
 13	ønsker	O	O#O	s
 14	,	O	O#O	s
 15	at	O	O#O	s
-16	danskerne	B-OTH	B-LOCderiv#O	s
+16	danskerne	O	B-LOCderiv#O	s
 17	vil	O	O#O	s
 18	respektere	O	O#O	s
 19	deres	O	O#O	s
@@ -86825,7 +86825,7 @@
 1	Med	O	O#O	s
 2	indsættelse	O	O#O	s
 3	af	O	O#O	s
-4	europæiske	B-OTH	B-LOCderiv#O	s
+4	europæiske	O	B-LOCderiv#O	s
 5	fartøjer	O	O#O	s
 6	rykker	O	O#O	s
 7	Vestunionen	B-ORG	B-ORG#O	s
@@ -86854,7 +86854,7 @@
 
 # sent_id = train-v2-4070
 # text = Svenskerne havde regnet med at få en ren finale, men det satte de to sidste års Pondus-vinder Jean-Michel Saive en stopper for, da han i semifinalen fortsatte sit flotte spil fra de indledende runder og vandt over Appelgren med 21-15, 21-10.
-1	Svenskerne	B-OTH	B-LOCderiv#O	s
+1	Svenskerne	O	B-LOCderiv#O	s
 2	havde	O	O#O	s
 3	regnet	O	O#O	s
 4	med	O	O#O	s
@@ -86871,7 +86871,7 @@
 15	to	O	O#O	s
 16	sidste	O	O#O	s
 17	års	O	O#O	s
-18	Pondus-vinder	B-OTH	B-MISCpart#O	s
+18	Pondus-vinder	O	B-MISCpart#O	s
 19	Jean-Michel	B-PER	B-PER#O	s
 20	Saive	I-PER	I-PER#O	s
 21	en	O	O#O	s
@@ -87164,7 +87164,7 @@
 7	sammen	O	O#O	s
 8	med	O	O#O	s
 9	sin	O	O#O	s
-10	belgiske	B-OTH	B-LOCderiv#O	s
+10	belgiske	O	B-LOCderiv#O	s
 11	hustru	O	O#O	s
 12	Fabienne	B-PER	B-PER#O	s
 13	.	O	O#O	s
@@ -87389,13 +87389,13 @@
 2	af	O	O#O	s
 3	lægemidler	O	O#O	s
 4	som	O	O#O	s
-5	Kodimagnyl	B-OTH	B-MISC#O	s
+5	Kodimagnyl	O	B-MISC#O	s
 6	,	O	O#O	s
-7	Treo	B-OTH	B-MISC#O	s
+7	Treo	O	B-MISC#O	s
 8	,	O	O#O	s
-9	Panodil	B-OTH	B-MISC#O	s
+9	Panodil	O	B-MISC#O	s
 10	og	O	O#O	s
-11	Pamol	B-OTH	B-MISC#O	s
+11	Pamol	O	B-MISC#O	s
 12	er	O	O#O	s
 13	nu	O	O#O	s
 14	så	O	O#O	s
@@ -87408,7 +87408,7 @@
 21	,	O	O#O	s
 22	at	O	O#O	s
 23	hver	O	O#O	s
-24	dansker	B-OTH	B-LOCderiv#O	s
+24	dansker	O	B-LOCderiv#O	s
 25	årligt	O	O#O	s
 26	i	O	O#O	s
 27	hele	O	O#O	s
@@ -87665,12 +87665,12 @@
 28	har	O	O#O	s
 29	stået	O	O#O	s
 30	for	O	O#O	s
-31	serbisk	B-OTH	B-LOCderiv#O	s
+31	serbisk	O	B-LOCderiv#O	s
 32	undertrykkelse	O	O#O	s
 33	af	O	O#O	s
 34	de	O	O#O	s
 35	andre	O	O#O	s
-36	jugoslaviske	B-OTH	B-LOCderiv#O	s
+36	jugoslaviske	O	B-LOCderiv#O	s
 37	folkegruppers	O	O#O	s
 38	nationale	O	O#O	s
 39	selvstændighed	O	O#O	s
@@ -87692,7 +87692,7 @@
 12	og	O	O#O	s
 13	derfor	O	O#O	s
 14	har	O	O#O	s
-15	danske	B-OTH	B-LOCderiv#O	s
+15	danske	O	B-LOCderiv#O	s
 16	virksomheder	O	O#O	s
 17	svært	O	O#O	s
 18	ved	O	O#O	s
@@ -87759,8 +87759,8 @@
 # text = Tekstmængden i Gyldendals encyklopædi bliver, ifølge Gyldendal selv, næsten tre gange så stor som i Lademanns leksikon - bl.a. fordi én gennemsnits-side i encyklopædien vil indeholde en tekstmængde svarende til tre-fire såkaldte normalsider.
 1	Tekstmængden	O	O#O	s
 2	i	O	O#O	s
-3	Gyldendals	B-OTH	B-MISC#B-ORG	s
-4	encyklopædi	I-OTH	I-MISC#O	s
+3	Gyldendals	O	B-MISC#B-ORG	s
+4	encyklopædi	O	I-MISC#O	s
 5	bliver	O	O#O	s
 6	,	O	O#O	s
 7	ifølge	O	O#O	s
@@ -87774,8 +87774,8 @@
 15	stor	O	O#O	s
 16	som	O	O#O	s
 17	i	O	O#O	s
-18	Lademanns	B-OTH	B-MISC#B-ORG	s
-19	leksikon	I-OTH	I-MISC#O	s
+18	Lademanns	O	B-MISC#B-ORG	s
+19	leksikon	O	I-MISC#O	s
 20	-	O	O#O	s
 21	bl.a.	O	O#O	s
 22	fordi	O	O#O	s
@@ -87974,7 +87974,7 @@
 3	bringes	O	O#O	s
 4	i	O	O#O	s
 5	den	O	O#O	s
-6	serbiske	B-OTH	B-LOCderiv#O	s
+6	serbiske	O	B-LOCderiv#O	s
 7	avis	O	O#O	s
 8	Borba	B-ORG	B-ORG#O	s
 9	.	O	O#O	s
@@ -87989,7 +87989,7 @@
 # sent_id = train-v2-4130
 # text = De danske dame- og herredoubler faldt i går, men i mixen er tre af de fire semifinalepar danske, så vi er sikker på en finaleplads, når Henrik Svarrer / Marlene Thomsen møde vores normalt bedste konstellation Thomas Lund/Pernille Dupont.
 1	De	O	O#O	s
-2	danske	B-OTH	B-LOCderiv#O	s
+2	danske	O	B-LOCderiv#O	s
 3	dame-	O	O#O	s
 4	og	O	O#O	s
 5	herredoubler	O	O#O	s
@@ -88006,7 +88006,7 @@
 16	de	O	O#O	s
 17	fire	O	O#O	s
 18	semifinalepar	O	O#O	s
-19	danske	B-OTH	B-LOCderiv#O	s
+19	danske	O	B-LOCderiv#O	s
 20	,	O	O#O	s
 21	så	O	O#O	s
 22	vi	O	O#O	s
@@ -88367,7 +88367,7 @@
 11	studiescenografi	O	O#O	s
 12	har	O	O#O	s
 13	"	O	O#O	s
-14	Synnøve's	B-OTH	B-MISC#B-PER	s
+14	Synnøve's	O	B-MISC#B-PER	s
 15	"	O	O#O	s
 16	i	O	O#O	s
 17	efterårssæsonens	O	O#O	s
@@ -88619,7 +88619,7 @@
 3	,	O	O#O	s
 4	det	O	O#O	s
 5	var	O	O#O	s
-6	tyskerne	B-OTH	B-LOCderiv#O	s
+6	tyskerne	O	B-LOCderiv#O	s
 7	.	O	O#O	s
 
 # sent_id = train-v2-4157
@@ -88770,7 +88770,7 @@
 18	af	O	O#O	s
 19	1.000'er	O	O#O	s
 20	af	O	O#O	s
-21	danske	B-OTH	B-LOCderiv#O	s
+21	danske	O	B-LOCderiv#O	s
 22	arbejdspladser	O	O#O	s
 23	.	O	O#O	s
 
@@ -88894,7 +88894,7 @@
 5	indspilningen	O	O#O	s
 6	af	O	O#O	s
 7	"	O	O#O	s
-8	Chicism	B-OTH	B-MISC#O	s
+8	Chicism	O	B-MISC#O	s
 9	"	O	O#O	s
 10	,	O	O#O	s
 11	havde	O	O#O	s
@@ -89563,7 +89563,7 @@
 28	"	O	O#O	s
 29	og	O	O#O	s
 30	"	O	O#O	s
-31	DUPLO	B-OTH	B-MISC#O	s
+31	DUPLO	O	B-MISC#O	s
 32	legetøj	O	O#O	s
 33	"	O	O#O	s
 34	.	O	O#O	s
@@ -89730,7 +89730,7 @@
 19	udsat	O	O#O	s
 20	for	O	O#O	s
 21	et	O	O#O	s
-22	serbisk	B-OTH	B-LOCderiv#O	s
+22	serbisk	O	B-LOCderiv#O	s
 23	infanteriangreb	O	O#O	s
 24	.	O	O#O	s
 
@@ -89825,7 +89825,7 @@
 3	mellem	O	O#O	s
 4	muslimerne	O	O#O	s
 5	og	O	O#O	s
-6	serberne	B-OTH	B-LOCderiv#O	s
+6	serberne	O	B-LOCderiv#O	s
 7	synes	O	O#O	s
 8	forsvundet	O	O#O	s
 9	-	O	O#O	s
@@ -89856,7 +89856,7 @@
 15	tankvogn	O	O#O	s
 16	med	O	O#O	s
 17	giftstoffet	O	O#O	s
-18	acrylonitril	B-OTH	B-MISC#O	s
+18	acrylonitril	O	B-MISC#O	s
 19	sprang	O	O#O	s
 20	læk	O	O#O	s
 21	.	O	O#O	s
@@ -89877,7 +89877,7 @@
 12	tro	O	O#O	s
 13	på	O	O#O	s
 14	det	O	O#O	s
-15	danske	B-OTH	B-LOCderiv#O	s
+15	danske	O	B-LOCderiv#O	s
 16	retssystem	O	O#O	s
 17	tilbage	O	O#O	s
 18	.	O	O#O	s
@@ -89977,7 +89977,7 @@
 2	er	O	O#O	s
 3	for	O	O#O	s
 4	eksempel	O	O#O	s
-5	Tarana	B-OTH	B-MISC#O	s
+5	Tarana	O	B-MISC#O	s
 6	,	O	O#O	s
 7	en	O	O#O	s
 8	salat	O	O#O	s
@@ -90081,7 +90081,7 @@
 2	dækkes	O	O#O	s
 3	med	O	O#O	s
 4	store	O	O#O	s
-5	Dannebrogsflag	B-OTH	B-MISC#O	s
+5	Dannebrogsflag	O	B-MISC#O	s
 6	.	O	O#O	s
 
 # sent_id = train-v2-4225
@@ -90148,8 +90148,8 @@
 7	slagsen	O	O#O	s
 8	-	O	O#O	s
 9	"	O	O#O	s
-10	Crooked	B-OTH	B-MISC#O	s
-11	Line	I-OTH	I-MISC#O	s
+10	Crooked	O	B-MISC#O	s
+11	Line	O	I-MISC#O	s
 12	"	O	O#O	s
 13	-	O	O#O	s
 14	er	O	O#O	s
@@ -90166,7 +90166,7 @@
 5	usikkert	O	O#O	s
 6	,	O	O#O	s
 7	hvordan	O	O#O	s
-8	ØMUen	B-OTH	B-ORGderiv#O	s
+8	ØMUen	O	B-ORGderiv#O	s
 9	rent	O	O#O	s
 10	faktisk	O	O#O	s
 11	kommer	O	O#O	s
@@ -90274,7 +90274,7 @@
 4	situation	O	O#O	s
 5	er	O	O#O	s
 6	det	O	O#O	s
-7	serberne	B-OTH	B-LOCderiv#O	s
+7	serberne	O	B-LOCderiv#O	s
 8	,	O	O#O	s
 9	der	O	O#O	s
 10	er	O	O#O	s
@@ -90833,7 +90833,7 @@
 24	kan	O	O#O	s
 25	styrke	O	O#O	s
 26	den	O	O#O	s
-27	europæiske	B-OTH	B-LOCderiv#O	s
+27	europæiske	O	B-LOCderiv#O	s
 28	søjle	O	O#O	s
 29	i	O	O#O	s
 30	Den	B-ORG	B-ORG#O	s
@@ -91156,10 +91156,10 @@
 3	sikrer	O	O#O	s
 4	,	O	O#O	s
 5	at	O	O#O	s
-6	danske	B-OTH	B-LOCderiv#O	s
+6	danske	O	B-LOCderiv#O	s
 7	teknikere	O	O#O	s
 8	med	O	O#O	s
-9	danske	B-OTH	B-LOCderiv#O	s
+9	danske	O	B-LOCderiv#O	s
 10	støttepenge	O	O#O	s
 11	kan	O	O#O	s
 12	være	O	O#O	s
@@ -91214,7 +91214,7 @@
 14	forbitrelsen	O	O#O	s
 15	blandt	O	O#O	s
 16	almindelige	O	O#O	s
-17	kroatere	B-OTH	B-LOCderiv#O	s
+17	kroatere	O	B-LOCderiv#O	s
 18	også	O	O#O	s
 19	:	O	O#O	s
 20	"	O	O#O	s
@@ -91248,7 +91248,7 @@
 12	har	O	O#O	s
 13	inspireret	O	O#O	s
 14	den	O	O#O	s
-15	kinesisk-amerikanske	B-OTH	B-LOCderiv#B-LOCderiv	s
+15	kinesisk-amerikanske	O	B-LOCderiv#B-LOCderiv	s
 16	forfatterinde	O	O#O	s
 17	Amy	B-PER	B-PER#O	s
 18	Tan	I-PER	I-PER#O	s
@@ -91399,7 +91399,7 @@
 37	en	O	O#O	s
 38	ekspert	O	O#O	s
 39	i	O	O#O	s
-40	amerikanske	B-OTH	B-LOCderiv#O	s
+40	amerikanske	O	B-LOCderiv#O	s
 41	valgkampe	O	O#O	s
 42	,	O	O#O	s
 43	Stephen	B-PER	B-PER#O	s
@@ -91422,14 +91422,14 @@
 8	,	O	O#O	s
 9	f.eks.	O	O#O	s
 10	.	O	O#O	s
-11	Lancia	B-OTH	B-MISC#O	s
-12	2000	I-OTH	I-MISC#O	s
-13	Turbo	I-OTH	I-MISC#O	s
+11	Lancia	O	B-MISC#O	s
+12	2000	O	I-MISC#O	s
+13	Turbo	O	I-MISC#O	s
 14	og	O	O#O	s
-15	Lancia	B-OTH	B-MISC#O	s
-16	Thema	I-OTH	I-MISC#O	s
-17	Turbo	I-OTH	I-MISC#O	s
-18	16V	I-OTH	I-MISC#O	s
+15	Lancia	O	B-MISC#O	s
+16	Thema	O	I-MISC#O	s
+17	Turbo	O	I-MISC#O	s
+18	16V	O	I-MISC#O	s
 19	,	O	O#O	s
 20	hurtige	O	O#O	s
 21	og	O	O#O	s
@@ -91440,7 +91440,7 @@
 26	køreegenskaber	O	O#O	s
 27	efter	O	O#O	s
 28	bedste	O	O#O	s
-29	italienske	B-OTH	B-LOCderiv#O	s
+29	italienske	O	B-LOCderiv#O	s
 30	traditioner	O	O#O	s
 31	.	O	O#O	s
 
@@ -91456,7 +91456,7 @@
 8	,	O	O#O	s
 9	at	O	O#O	s
 10	14-årige	O	O#O	s
-11	japaneres	B-OTH	B-LOCderiv#O	s
+11	japaneres	O	B-LOCderiv#O	s
 12	gennemsnithøjde	O	O#O	s
 13	fra	O	O#O	s
 14	1958-78	O	O#O	s
@@ -91678,7 +91678,7 @@
 13	sig	O	O#O	s
 14	til	O	O#O	s
 15	den	O	O#O	s
-16	franske	B-OTH	B-LOCderiv#O	s
+16	franske	O	B-LOCderiv#O	s
 17	fremmedlegion	O	O#O	s
 18	.	O	O#O	s
 
@@ -91714,7 +91714,7 @@
 1	F.eks.	O	O#O	s
 2	et	O	O#O	s
 3	par	O	O#O	s
-4	danske	B-OTH	B-LOCderiv#O	s
+4	danske	O	B-LOCderiv#O	s
 5	rokoko-kommoder	O	O#O	s
 6	i	O	O#O	s
 7	Mathias	B-PER	B-PER#O	s
@@ -92243,9 +92243,9 @@
 
 # sent_id = train-v2-4322
 # text = Monoetylenglycol og Propylenglycol.
-1	Monoetylenglycol	B-OTH	B-MISC#O	s
+1	Monoetylenglycol	O	B-MISC#O	s
 2	og	O	O#O	s
-3	Propylenglycol	B-OTH	B-MISC#O	s
+3	Propylenglycol	O	B-MISC#O	s
 4	.	O	O#O	s
 
 # sent_id = train-v2-4323
@@ -92326,10 +92326,10 @@
 7	at	O	O#O	s
 8	bruge	O	O#O	s
 9	sit	O	O#O	s
-10	engelske	B-OTH	B-LOCderiv#O	s
+10	engelske	O	B-LOCderiv#O	s
 11	eller	O	O#O	s
 12	sit	O	O#O	s
-13	tyske	B-OTH	B-LOCderiv#O	s
+13	tyske	O	B-LOCderiv#O	s
 14	i	O	O#O	s
 15	forbindelse	O	O#O	s
 16	med	O	O#O	s
@@ -92450,8 +92450,8 @@
 # sent_id = train-v2-4332
 # text = "Scandinavian Star" sejlede sin første tur fra Frederikshavn til Oslo 1. april 1990, og allerede inden denne tur havde Ole B. Hansen, direktøren i rederiet, gjort det krystalklart for besætningen, at skibet skulle være klar til at sejle med passagerer 1. april, forklarede tillidsmanden.
 1	"	O	O#O	s
-2	Scandinavian	B-OTH	B-MISC#O	s
-3	Star	I-OTH	I-MISC#O	s
+2	Scandinavian	O	B-MISC#O	s
+3	Star	O	I-MISC#O	s
 4	"	O	O#O	s
 5	sejlede	O	O#O	s
 6	sin	O	O#O	s
@@ -92574,23 +92574,23 @@
 10	indspillet	O	O#O	s
 11	Lennon/McCartneys	B-PER	B-PER#B-PER	s
 12	"	O	O#O	s
-13	She	B-OTH	B-MISC#O	s
-14	Came	I-OTH	I-MISC#O	s
-15	In	I-OTH	I-MISC#O	s
-16	Through	I-OTH	I-MISC#O	s
-17	The	I-OTH	I-MISC#O	s
-18	Bathroom	I-OTH	I-MISC#O	s
-19	Window	I-OTH	I-MISC#O	s
+13	She	O	B-MISC#O	s
+14	Came	O	I-MISC#O	s
+15	In	O	I-MISC#O	s
+16	Through	O	I-MISC#O	s
+17	The	O	I-MISC#O	s
+18	Bathroom	O	I-MISC#O	s
+19	Window	O	I-MISC#O	s
 20	"	O	O#O	s
 21	og	O	O#O	s
 22	"	O	O#O	s
-23	You've	B-OTH	B-MISC#O	s
-24	Got	I-OTH	I-MISC#O	s
-25	To	I-OTH	I-MISC#O	s
-26	Hide	I-OTH	I-MISC#O	s
-27	Your	I-OTH	I-MISC#O	s
-28	Love	I-OTH	I-MISC#O	s
-29	Away	I-OTH	I-MISC#O	s
+23	You've	O	B-MISC#O	s
+24	Got	O	I-MISC#O	s
+25	To	O	I-MISC#O	s
+26	Hide	O	I-MISC#O	s
+27	Your	O	I-MISC#O	s
+28	Love	O	I-MISC#O	s
+29	Away	O	I-MISC#O	s
 30	"	O	O#O	s
 31	,	O	O#O	s
 32	som	O	O#O	s
@@ -92598,8 +92598,8 @@
 34	med	O	O#O	s
 35	på	O	O#O	s
 36	"	O	O#O	s
-37	Night	B-OTH	B-MISC#O	s
-38	Calls	I-OTH	I-MISC#O	s
+37	Night	O	B-MISC#O	s
+38	Calls	O	I-MISC#O	s
 39	"	O	O#O	s
 40	,	O	O#O	s
 41	det	O	O#O	s
@@ -92685,7 +92685,7 @@
 24	"	O	O#O	s
 25	oplyser	O	O#O	s
 26	den	O	O#O	s
-27	danske	B-OTH	B-LOCderiv#O	s
+27	danske	O	B-LOCderiv#O	s
 28	charge-d'affairs	O	O#O	s
 29	Joachim	B-PER	B-PER#O	s
 30	Rehder	I-PER	I-PER#O	s
@@ -93007,7 +93007,7 @@
 # sent_id = train-v2-4359
 # text = I Hækkerup-sagen sidder man med spørgsmålet: Hvorfor i alverden blev de streger slået sådan?
 1	I	O	O#O	s
-2	Hækkerup-sagen	B-OTH	B-MISC#O	s
+2	Hækkerup-sagen	O	B-MISC#O	s
 3	sidder	O	O#O	s
 4	man	O	O#O	s
 5	med	O	O#O	s
@@ -93085,8 +93085,8 @@
 6	gjalde	O	O#O	s
 7	af	O	O#O	s
 8	råbet	O	O#O	s
-9	Moscow	B-OTH	B-MISC#B-LOC	s
-10	calling	I-OTH	I-MISC#O	s
+9	Moscow	O	B-MISC#B-LOC	s
+10	calling	O	I-MISC#O	s
 11	!	O	O#O	s
 12	,	O	O#O	s
 13	men	O	O#O	s
@@ -93124,9 +93124,9 @@
 # text = Forskellen på dansk og svensk produktion af kyllinger kan afdækkes blot med et enkelt blik ind gennem døren hos en svensk kyllingeproducent.
 1	Forskellen	O	O#O	s
 2	på	O	O#O	s
-3	dansk	B-OTH	B-LOCderiv#O	s
+3	dansk	O	B-LOCderiv#O	s
 4	og	O	O#O	s
-5	svensk	B-OTH	B-LOCderiv#O	s
+5	svensk	O	B-LOCderiv#O	s
 6	produktion	O	O#O	s
 7	af	O	O#O	s
 8	kyllinger	O	O#O	s
@@ -93142,7 +93142,7 @@
 18	døren	O	O#O	s
 19	hos	O	O#O	s
 20	en	O	O#O	s
-21	svensk	B-OTH	B-LOCderiv#O	s
+21	svensk	O	B-LOCderiv#O	s
 22	kyllingeproducent	O	O#O	s
 23	.	O	O#O	s
 
@@ -93245,7 +93245,7 @@
 34	langt	O	O#O	s
 35	ud	O	O#O	s
 36	af	O	O#O	s
-37	dansk	B-OTH	B-LOCderiv#O	s
+37	dansk	O	B-LOCderiv#O	s
 38	topfodbold	O	O#O	s
 39	.	O	O#O	s
 
@@ -93261,7 +93261,7 @@
 8	understreget	O	O#O	s
 9	,	O	O#O	s
 10	at	O	O#O	s
-11	tyskerne	B-OTH	B-LOCderiv#O	s
+11	tyskerne	O	B-LOCderiv#O	s
 12	ikke	O	O#O	s
 13	behøver	O	O#O	s
 14	at	O	O#O	s
@@ -93276,7 +93276,7 @@
 23	når	O	O#O	s
 24	EF	B-ORG	B-ORG#O	s
 25	indfører	O	O#O	s
-26	ECUen	B-OTH	B-MISC#O	s
+26	ECUen	O	B-MISC#O	s
 27	som	O	O#O	s
 28	fælles	O	O#O	s
 29	møntfod	O	O#O	s
@@ -93376,9 +93376,9 @@
 
 # sent_id = train-v2-4377
 # text = Kroaternes og slovenernes glæde - og selvglæde - var dog ubesmittet.
-1	Kroaternes	B-OTH	B-LOCderiv#O	s
+1	Kroaternes	O	B-LOCderiv#O	s
 2	og	O	O#O	s
-3	slovenernes	B-OTH	B-LOCderiv#O	s
+3	slovenernes	O	B-LOCderiv#O	s
 4	glæde	O	O#O	s
 5	-	O	O#O	s
 6	og	O	O#O	s
